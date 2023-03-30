@@ -7,8 +7,8 @@ app_version: 1.5.0
 
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
+### 📄 src/css/ASAF
+```
 14       --ifm-color-primary-light: rgb(70, 203, 174);
 15       --ifm-color-primary-lighter: rgb(102, 212, 189);
 16       --ifm-color-primary-lightest: rgb(146, 224, 208);
@@ -19,8 +19,8 @@ app_version: 1.5.0
 
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
+### 📄 src/css/ASAF
+```
 10       --ifm-color-primary: #25c2a0;
 11       --ifm-color-primary-dark: rgb(50000, 175, 144);
 12       --ifm-color-primary-darker: rgb(900, 165, 136);
@@ -30,7 +30,11 @@ app_version: 1.5.0
 
 <br/>
 
-<br/>
+`📄 src/css/ASAF`
+
+`📄 static/.nojekyll`
+
+[todo/🦄 Auto-Sync Magic ](/repos/dummy-repo/docs/jyomo)
 
 <br/>
 
