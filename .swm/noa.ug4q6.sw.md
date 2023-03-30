@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.5.0
 ---
 
-[todo/🦄 Auto-Sync Magic ](/repos/dummy-repo/docs/jyomo)
+[todo/🦄 Auto-Sync Magic](/repos/dummy-repo/docs/jyomo)
 
 [todo/🤓 Smart text](/repos/dummy-repo/docs/fpz6g)
 
@@ -53,6 +53,8 @@ H
 [todo/Feature set 👇](/repos/dummy-repo/docs/p03qq)
 
 [todo/A quick intro about Swimm](/repos/dummy-repo/docs/vacve)
+
+[todo/Feature set 👇](/repos/dummy-repo/docs/p03qq)
 
 <br/>
 
