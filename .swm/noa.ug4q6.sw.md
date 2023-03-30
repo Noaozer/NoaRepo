@@ -34,7 +34,9 @@ app_version: 1.5.0
 
 `📄 static/.nojekyll`
 
-[todo/🦄 Auto-Sync Magic ](/repos/dummy-repo/docs/jyomo)
+[todo/🦄 Auto-Sync Magic](/repos/dummy-repo/docs/jyomo)
+
+[todo/🤓 Smart text](/repos/dummy-repo/docs/fpz6g)
 
 <br/>
 
