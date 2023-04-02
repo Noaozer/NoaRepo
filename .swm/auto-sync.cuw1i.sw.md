@@ -8,8 +8,6 @@ app_version: 1.5.0
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
-<!-- collapsed -->
-
 ```css
 2      /**
 3       * Any CSS included here will be global. The classic template
@@ -36,8 +34,6 @@ app_version: 1.5.0
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
-<!-- collapsed -->
-
 ```css
 11       --ifm-color-primary-dark: rgb(33, 175, 144);
 12       --ifm-color-primary-darker: rgb(31, 165, 136);
