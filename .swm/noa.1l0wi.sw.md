@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.5.0
 ---
 
-<!--MERMAID {width:100}-->
+<!--MERMAID {width:25}-->
 ```mermaid
 journey
 title My working day
