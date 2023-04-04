@@ -10,16 +10,15 @@ app_version: 1.5.0
 journey
 title My working day
 section Go to work
-Make tea: 5: Me
+Make tea: 5: `repo`
 Go upstairs: 3: Me
 Do work: 1: Me, Cat
 section Go home
 Go downstairs: 5: `customCss`
 Sit down: 3: Me
 
-
 ```
-<!--MCONTENT {content: "journey<br/>\ntitle My working day<br/>\nsection Go to work<br/>\nMake tea: 5: Me<br/>\nGo upstairs: 3: Me<br/>\nDo work: 1: Me, Cat<br/>\nsection Go home<br/>\nGo downstairs: 5: `customCss`<swm-token data-swm-token=\":docusaurus.config.js:29:1:1:`          customCss: require.resolve(&#39;./src/css/custom.css&#39;),`\"/><br/>\nSit down: 3: Me<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "journey<br/>\ntitle My working day<br/>\nsection Go to work<br/>\nMake tea: 5: `repo`<swm-token data-swm-token=\":docusaurus.config.js:11:15:15:`  projectName: &#39;skynet&#39;, // Usually your repo name.`\"/><br/>\nGo upstairs: 3: Me<br/>\nDo work: 1: Me, Cat<br/>\nsection Go home<br/>\nGo downstairs: 5: `customCss`<swm-token data-swm-token=\":docusaurus.config.js:29:1:1:`          customCss: require.resolve(&#39;./src/css/custom.css&#39;),`\"/><br/>\nSit down: 3: Me<br/>\n<br/>"} --->
 
 <br/>
 
