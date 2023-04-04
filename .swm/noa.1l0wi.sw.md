@@ -46,9 +46,32 @@ class Zebra{
 +run()
 }
 
-
 ```
-<!--MCONTENT {content: "classDiagram<br/>\nAnimal <|-- Duck<br/>\nAnimal <|-- Fish<br/>\nAnimal <|-- Zebra<br/>\nAnimal : +int age<br/>\nAnimal : +String gender<br/>\nAnimal: +isMammal()<br/>\nAnimal: +mate()<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n+swim()<br/>\n+quack()<br/>\n}<br/>\nclass Fish{<br/>\n\\-int sizeInFeet<br/>\n\\-canEat()<br/>\n}<br/>\nclass Zebra{<br/>\n+bool is\\_wild<br/>\n+run()<br/>\n}<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "classDiagram<br/>\nAnimal <|-- Duck<br/>\nAnimal <|-- Fish<br/>\nAnimal <|-- Zebra<br/>\nAnimal : +int age<br/>\nAnimal : +String gender<br/>\nAnimal: +isMammal()<br/>\nAnimal: +mate()<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n+swim()<br/>\n+quack()<br/>\n}<br/>\nclass Fish{<br/>\n\\-int sizeInFeet<br/>\n\\-canEat()<br/>\n}<br/>\nclass Zebra{<br/>\n+bool is\\_wild<br/>\n+run()<br/>\n}<br/>\n<br/>"} --->
+
+<br/>
+
+<br/>
+
+<br/>
+
+<!--MERMAID {width:50}-->
+```mermaid
+sequenceDiagram
+box Purple Alice & John
+participant A
+participant J
+end
+box Another Group
+participant B
+participant C
+end
+A->>J: Hello John, how are you?
+J->>A: Great!
+A->>B: Hello Bob, how is Charly ?
+B->>C: Hello Charly, how are you?
+```
+<!--MCONTENT {content: "sequenceDiagram<br/>\nbox Purple Alice & John<br/>\nparticipant A<br/>\nparticipant J<br/>\nend<br/>\nbox Another Group<br/>\nparticipant B<br/>\nparticipant C<br/>\nend<br/>\nA->>J: Hello John, how are you?<br/>\nJ->>A: Great!<br/>\nA->>B: Hello Bob, how is Charly ?<br/>\nB->>C: Hello Charly, how are you?"} --->
 
 <br/>
 
