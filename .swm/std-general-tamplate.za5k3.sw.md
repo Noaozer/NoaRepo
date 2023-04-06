@@ -54,6 +54,7 @@ Test Case Type -
 *   change set up account page's blurred background - check the validation in set up account?
 
 *   📝 Make default step not in a loop ?
+
 *   📝 Make IDE onboarding content taken from a different (deterministic) bucket ?
 
 *   📝 Take the buttons names configurable from the Database ?
@@ -95,7 +96,7 @@ Deploy a new version of the content.
 
 <br/>
 
-*   click up:
+*   click up: Adding multiple snippets (simultaneously) pushes the page up and displays whitespace background
 
 step to reproduce:
 
@@ -108,6 +109,17 @@ In the few seconds that the snippets are added to the document, a white backgrou
 When the snippets are loaded by clicking on the white screen it closes
 
 *   attached video + console images
+
+STD:
+
+<br/>
+
+|**Test Case Type**             |**Description**                                |**Test step**                |**Expected Result** |**Status**|
+|-------------------------------|-----------------------------------------------|-----------------------------|--------------------|----------|
+|functionally/Usability/Security|purpose of the test<br><br>explain the use case|1.  step one<br><br>2.  .....|what should happened|Pass/Fail |
+
+<br/>
+
 2.  Ticket - gap between two snippets using the mouse is missing
 
 STD:
@@ -161,13 +173,13 @@ STD -
 
 # **DANA**
 
-STD - 📁 Global tokens should support more languages (Kotlin, Scala) - 2d
+1) STD - 📁 Global tokens should support more languages (Kotlin, Scala) - 2d
 
 #860q49bgd
 
-STD - 🐞 Copy & Paste long files is too slow (Nadav)
+2) STD - 🐞 Playlist Top Down | Adding a doc in a playlist - 404
 
-STD - 🐞 Playlist Top Down | Adding a doc in a playlist - 404 (
+3) STD - 🐞 Copy & Paste long files is too slow (Nadav)
 
 <br/>
 
