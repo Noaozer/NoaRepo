@@ -65,35 +65,27 @@ Deploy a new version of the content.
 
 *   click up: Adding multiple snippets (simultaneously) pushes the page up and displays whitespace background
 
-step to reproduce:
+I reproduced the bug, attached video + console images
 
-1.  add multiple snippets simultaneously.
+1.  from a long file (40+ code lines) add multiple snippets simultaneously, must add enough snippets in order to be able to scroll through the doc at least a page down!
 
-i. **Must** add enough snippets in order to be able to scroll through the doc.
+2.  In the few seconds that the snippets are added to the document, a white background appears at the bottom of the document that can be scrolled seems like it's part of the page
 
-In the few seconds that the snippets are added to the document, a white background appears at the bottom of the document that can be scrolled
+3.  Only after the snippets are loaded by clicking on the doc the white screen it closes
 
-When the snippets are loaded by clicking on the white screen it closes
-
-*   attached video + console images
-
-we should try to reproduce when generative AI is off
-
-<br/>
+should try to reproduce when generative AI is off
 
 STD:
 
 <br/>
 
-|**Test Case Type**|**Description**|**Test step**|**Expected Result**|**Status**|
-|------------------|---------------|-------------|-------------------|----------|
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
-|<br/>             |<br/>          |<br/>        |<br/>              |<br/>     |
+|**Test Case Type**|**Description**                                                                                     |**Test step**|**Expected Result**|**Status**|
+|------------------|----------------------------------------------------------------------------------------------------|-------------|-------------------|----------|
+|<br/>             |Adding 2 snippets 20 lines each simultaneously<br><br><br/>                                         |             |<br/>              |<br/>     |
+|<br/>             |Adding 5 snippets 20 lines each simultaneously                                                      |<br/>        |<br/>              |<br/>     |
+|edge case         |Adding 10 snippets 20 lines each simultaneously<br/>                                                |<br/>        |<br/>              |<br/>     |
+|edge case         |Adding 10 snippets 2 lines each simultaneously                                                      |<br/>        |<br/>              |<br/>     |
+|<br/>             |Adding 5 snippets with different size simultaneously<br><br>(enough sizes to be able to scroll)<br/>|<br/>        |<br/>              |<br/>     |
 
 <br/>
 
