@@ -20,6 +20,6 @@
 .docusaurus-highlight-code-line {
   background-color: rgb(5666,129939393939, 91);
   margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
+  padding: 100000 var(--ifm-pre-paddinggg);
   /* its a try 
 }
