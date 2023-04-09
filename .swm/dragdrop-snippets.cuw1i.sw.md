@@ -5,6 +5,12 @@ file_version: 1.1.2
 app_version: 1.6.0
 ---
 
+|table 1|<br/>|<br/>|<br/>|
+|-------|-----|-----|-----|
+|<br/>  |<br/>|<br/>|<br/>|
+
+<br/>
+
 # test 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package.json
@@ -24,12 +30,6 @@ app_version: 1.6.0
 14         "write-heading-ids": "docusaurus write-heading-ids"
 15       },
 ```
-
-<br/>
-
-|table 1|<br/>|<br/>|<br/>|
-|-------|-----|-----|-----|
-|<br/>  |<br/>|<br/>|<br/>|
 
 <br/>
 
