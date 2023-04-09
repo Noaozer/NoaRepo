@@ -1,9 +1,5 @@
 ---
 slug: /
-sidebar_position: 1
----
+sigjrivmerkfvmnorkdfv ckc
 
-# Welcome
-
-Use the sidebar to navigate between docs or use the search bar on the topbar.
-
+fervcmwekvcmekrdmvced
