@@ -5,12 +5,6 @@ file_version: 1.1.2
 app_version: 1.6.0
 ---
 
-|table 1|<br/>|<br/>|<br/>|
-|-------|-----|-----|-----|
-|<br/>  |<br/>|<br/>|<br/>|
-
-<br/>
-
 # test 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package.json
@@ -30,6 +24,18 @@ app_version: 1.6.0
 14         "write-heading-ids": "docusaurus write-heading-ids"
 15       },
 ```
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+|table 1|<br/>|<br/>|<br/>|
+|-------|-----|-----|-----|
+|<br/>  |<br/>|<br/>|<br/>|
 
 <br/>
 
@@ -574,12 +580,33 @@ John-->>-Alice: I feel great!
 
 <br/>
 
-|<br/>|table 2|<br/>|
-|-----|-------|-----|
-|<br/>|<br/>  |<br/>|
-|<br/>|<br/>  |<br/>|
-|<br/>|<br/>  |<br/>|
-|<br/>|<br/>  |<br/>|
+Auto sync
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/css/custom.css
+```css
+23       padding: 0 var(--ifm-pre-padding);
+```
+
+<br/>
+
+out of date
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/welcome.md
+```markdown
+2      slug: /
+3      sidebar_position: 1
+4      ---
+5      
+6      # Welcome
+7      
+8      Use the sidebar to navigate between docs or use the search bar on the topbar.
+9      
+10     
+```
+
+<br/>
+
+<br/>
 
 <br/>
 
