@@ -538,7 +538,7 @@ test 1
 
 <br/>
 
-test 3
+test
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 sidebars.js
 ```javascript
