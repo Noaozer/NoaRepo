@@ -8,8 +8,6 @@ app_version: 1.6.0
 # test 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package.json
-<!-- collapsed -->
-
 ```json
 2        "name": "docusaurus-template",
 3        "version": "0.0.0",
