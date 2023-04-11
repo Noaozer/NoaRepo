@@ -99,20 +99,18 @@ STD:
 
 <br/>
 
-|**Test Case Type**             |**Description**|**Test step**|**Expected Result**|**Status (Pass/Fail)**|
-|-------------------------------|---------------|-------------|-------------------|----------------------|
-|functionally/Usability/Security|<br/>          |<br/>        |<br/>              |<br/>                 |
-|<br/>                          |<br/>          |<br/>        |<br/>              |<br/>                 |
-|<br/>                          |<br/>          |<br/>        |<br/>              |<br/>                 |
-|<br/>                          |<br/>          |<br/>        |<br/>              |<br/>                 |
-|<br/>                          |<br/>          |<br/>        |<br/>              |<br/>                 |
-|<br/>                          |<br/>          |<br/>        |<br/>              |<br/>                 |
+|**Test Case Type**|**Description**                                                            |**Test step**                                                                                                                                              |**Expected Result**                                                                                                                                                     |**Status (Pass/Fail)**|
+|------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+|Functionally      |using the mouse to click on the gap between snippets                       |1.  add two snippets<br><br>2.  click the gap between the snippets using the mouse<br><br>3.  type text<br><br/>                                           |1.  the cursor appears in the gap<br><br>2.  the cursor background line - Type anything to insert a new line here....<br><br>3.  a new line is created for the text     |<br/>                 |
+|Functionally<br/> |using the keyboard to click on the gap between snippets                    |1.  add two snippets<br><br>2.  using the keyboard move to the gap between the snippets<br><br>3.  type text<br><br>    <br/><br><br/>                     |1.  the cursor appears in the gap<br><br>2.  the cursor background line - Type anything to insert a new line here....<br><br>3.  a new line is created for the text<br/>|<br/>                 |
+|Functionally      |using the mouse to click on the gap between similar objects                |1.  add two similar objects (table, mermaid, image...)<br><br>2.  click the gap between the objects using the mouse<br><br>    <br/>                       |1.  the cursor appears in the gap<br><br>2.  the cursor background line - Type anything to insert a new line here....                                                   |<br/>                 |
+|Functionally      |using the keyboard to click on the gap between similar objects             |1.  add two objects similar (table, mermaid, image...)<br><br>2.  using the keyboard move to the gap between the objects<br><br>    <br/><br><br/>         |1.  the cursor appears in the gap<br><br>2.  the cursor background line - Type anything to insert a new line here....                                                   |<br/>                 |
+|Functionally      |using the mouse to click on the gap between snippet and different object   |1.  add a snippet and a object (table, mermaid, image...)<br><br>2.  click the gap between the snippet and the object using the mouse<br><br>    <br/>     |1.  the cursor appears in the gap<br><br>2.  the cursor background line - Type anything to insert a new line here....                                                   |<br/>                 |
+|Functionally      |using the keyboard to click on the gap between snippet and different object|1.  add a snippet and a object (table, mermaid, image...)<br><br>2.  using the keyboard move to the gap between the snippet and the object<br><br>    <br/>|1.  the cursor appears in the gap<br><br>2.  the cursor background line - Type anything to insert a new line here....                                                   |<br/>                 |
 
 <br/>
 
-*   Arrow overlaps beginning of blank cell's "Type /" placeholder in editor ?
-
-*   Auth pages E2E - Tests to add ?
+<br/>
 
 # **ASAF**
 
@@ -147,13 +145,44 @@ STD -
 
 1.  STD - 📁 Global tokens should support more languages (Kotlin, Scala) - 2d
 
+\*doing QA with dana
+
+<br/>
+
+|**Test Case Type**|**Description**    |**Test step**|**Expected Result**|**Status**|
+|------------------|-------------------|-------------|-------------------|----------|
+|Functionally      |add token in Kotlin|<br/>        |<br/>              |<br/>     |
+|Functionally      |add token in Scala |<br/>        |<br/>              |<br/>     |
+
+<br/>
+
+2.  STD - 🐞 Playlist Top Down | Adding a doc in a playlist - 404 \*
+
     <br/>
 
-#860q49bgd
+<br/>
 
-2.  STD - 🐞 Playlist Top Down | Adding a doc in a playlist - 404
+|**Test Case Type**|**Description**      |**Test step**                                                                                                                                                                                                     |**Expected Result**                                                                                                                                                                             |**Status**|
+|------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|Functionally      |add doc in a playlist|1.  create new playlist<br><br>2.  add a doc to the playlist through the playlist<br><br>3.  commit the changes<br><br>4.  open playlist in view mode<br><br>5.  click edit doc<br><br/><br><br><br/><br><br><br/>|1.  a new playlist with a new doc inside is created<br><br>2.  the changes committed and the document will appear in the playlist in viewer mode<br><br>3.  the doc appear in edit mode<br><br/>|<br/>     |
 
-3.  STD - 🐞 Copy & Paste long files is too slow (Nadav)
+<br/>
+
+2.  STD - 🐞 Copy & Paste long files is too slow
+
+\*loader
+
+<br/>
+
+|**Test Case Type**|**Description**                                        |**Test step**                                                                                                                                                                 |**Expected Result**                                                                                                                                                                                                                 |**Status**|
+|------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|Functionally      |copy&paste long file                                   |1.  copy long file<br><br>2.  place the cursor on the first line of the doc<br><br>3.  paste (using keyboard/mouse)<br><br/><br><br><br/>                                     |1.  After pasting the long text in the doc a loader appears until all the text is pasted into the doc<br><br>2.  the loader look as figma<br><br>*    <br><br/>                                                                     |<br/>     |
+|Functionally      |while pasting a long doc operations cannot be performed|1.  copy long file<br><br>2.  place the cursor on the first line of the doc<br><br>3.  paste (using keyboard/mouse)<br><br>4.  try to write text<br><br>5.  try to add snippet|1.  After pasting the long text in the doc a loader appears until all the text is pasted into the doc<br><br>2.  the loader look as figma<br><br>3.  while pasting no operations can be performed (write text, add snippet)<br><br/>|<br/>     |
+|edge case         |while pasting a long doc operations commit changes     |1.  copy long file<br><br>2.  place the cursor on the first line of the doc<br><br>3.  paste (using keyboard/mouse)<br><br>4.  try to commit changes                          |1.  while pasting it will not be possible to commit<br><br/><br><br><br/><br><br><br/>                                                                                                                                              |<br/>     |
+
+<br/>
+
+<br/>
 
 <br/>
 
