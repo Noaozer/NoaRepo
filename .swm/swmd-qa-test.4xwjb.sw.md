@@ -9,25 +9,37 @@ Test Plan:
 
 # section 1 - write&read SWmd
 
-1) create a doc with editor commands **Markdown Syntax**\-
+1) create a doc with editor commands **Markdown Syntax** all syntax from the table
+
+2) commit the doc
+
+3) go through SWmd:
+
+*   compare the SWmd to the doc - make sure every syntax in SWmd represents command in the doc
+
+*   male sure the file is written in mark down syntax
+
+*   open the file - make sure Swimm read the file and shows every command right
+
+1) create a doc with that included not part of the markdown but part of the parser and serializer-
 
 1.  Gapcursor (It's default but we need to make sure it works properly and not forgotten).
 
-2.  **History (what do you mean?)**
+2.  History (doc history)
 
 3.  Slash commands (WIP [https://tiptap.dev/experiments/commands](https://tiptap.dev/experiments/commands), we can base ourselves on it instead)
 
-4.  **Floating menu (TODO) (the editor menu?)**
+4.  Floating menu (TODO) - bubble menu
 
 5.  Bubble menu (TODO) (AKA Context actions in the current editor)
 
-6.  **Keyboard shortcuts popover? (TODO) (do you mean command c/v/z... ?)**
+6.  Keyboard shortcuts popover? (TODO) (Swimm shortcuts)
 
 7.  Custom Paste (Markdown, Plaintext)
 
 8.  Focus (Adds a class to the focused element for custom styling or logic)
 
-9.  **prosemirror-codemark (Third party) (what?)**
+9.  prosemirror-codemark (Third party) -Code block view
 
 10.  AI stuff
 
@@ -39,10 +51,7 @@ Test Plan:
 
 *   male sure the file is written in mark down syntax
 
-4) open the file - make sure Swimm read the file and shows every command right
-
-<br/>
-
+*   open the file - make sure Swimm read the file and shows every command right
 <br/>
 
 1) create a doc with editor commands **Swimm Syntax**\-
@@ -56,18 +65,14 @@ Test Plan:
 4.  Mention
 
 5.  Text/Snippet Template
+2.  commit the doc
 
-2) commit the doc
-
-3) go through SWmd:
-
+3.  go through SWmd:
 *   compare the SWmd to the doc - make sure every syntax in SWmd represents command in the doc
 
 *   make sure the file is written in Swimm new syntax
 
-4) open the file - make sure Swimm read the file and shows every command right
-
-<br/>
+2) open the file - make sure Swimm read the file and shows every command right
 
 <br/>
 
@@ -84,29 +89,34 @@ Test Plan:
 *   compare the SWmd to the doc - make sure every syntax in SWmd represents command in the doc
 <br/>
 
-# Section 2 - Document Title & Heading Levels
-
 <br/>
 
-# Section 3 - Snippet file name header
+# Section 2 - SWMD bugs
 
-<br/>
+test cases:
 
-# Section 4 - collapsed (snippet, anywhere else?)
+1) code block - write `html + software language`
 
-<br/>
+```java
+if 
+else
+for (x=5)
+while  
+```
 
-# Section 5 - Playlist
+# Section 3 - regression bugs
 
-# Section 6 - Front-Matter/Preamble (don't know)
+# Section 4 - Document Title & Heading Levels
 
-<br/>
+# Section 5 - Snippet file name header
 
-# Section 7 - Link Text & Image Alt Text & Title (read about it, they can be a problem? included anchor headings and snippets?)
+# Section 6 - collapsed (snippet, anywhere else?)
 
-<br/>
+# Section 7 - Playlist
 
-<br/>
+# Section 8 - Front-Matter/Preamble (don't know)
+
+# Section 9 - Link Text & Image Alt Text & Title (read about it, they can be a problem? included anchor headings and snippets?)
 
 <br/>
 
