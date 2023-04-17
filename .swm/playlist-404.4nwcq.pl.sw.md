@@ -18,6 +18,8 @@ reproduce the bug
 <!-- Steps - Do not remove this comment -->
 1. [doc 404](doc-404.idi5i.sw.md)
 2. [doc 0.2 404](doc-02-404.3098p.sw.md)
+3. [doc 0.3 404](doc-03-404.7spta.sw.md)
+4. [doc 0.4 404](doc-04-404.yk0nh.sw.md)
 
 
 <br/>
