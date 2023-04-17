@@ -17,6 +17,7 @@ reproduce the bug
 
 <!-- Steps - Do not remove this comment -->
 1. [doc 404](doc-404.idi5i.sw.md)
+2. [doc 0.2 404](doc-02-404.3098p.sw.md)
 
 
 <br/>
