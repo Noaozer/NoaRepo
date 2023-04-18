@@ -20,8 +20,7 @@ bug
 
 <!-- Steps - Do not remove this comment -->
 1. [playlisttttttt :) - doc](playlisttttttt-doc.z04tp.sw.md)
-2. [doc 0.2 404](doc-02-404.3098p.sw.md)
-3. [playlistttttttt - doc](playlistttttttt-doc.7bh0v.sw.md)
+2. [playlistttttttt - doc](playlistttttttt-doc.7bh0v.sw.md)
 
 
 <br/>
