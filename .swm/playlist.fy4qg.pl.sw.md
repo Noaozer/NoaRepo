@@ -37,6 +37,7 @@ check the bugs
 <!-- Steps - Do not remove this comment -->
 1. [doc in playlist](doc-in-playlist.mpnqs.sw.md)
 2. [other doc ](other-doc.0mqpn.sw.md)
+3. [playlist 404 bug](playlist-404-bug.kuioy.pl.sw.md)
 
 
 <br/>
