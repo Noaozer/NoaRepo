@@ -36,6 +36,7 @@ check the bugs
 
 <!-- Steps - Do not remove this comment -->
 1. [doc in playlist](doc-in-playlist.mpnqs.sw.md)
+2. [other doc ](other-doc.0mqpn.sw.md)
 
 
 <br/>
