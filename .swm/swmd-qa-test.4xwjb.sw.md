@@ -68,7 +68,7 @@ Test Plan:
 8.  go through SWmd:
 *   compare the SWmd to the doc - make sure every syntax in SWmd represents command in the doc
 
-*   make sure the file is written in Swimm new syntax
+*   make sure the file is written in Swimm new syntax (view all symbols)
 2.  open the file - make sure Swimm read the file and shows every command right
 
 3.  create a doc with editor commands (Swimm + mark down syntax)
@@ -88,95 +88,91 @@ Test Plan:
 
 test cases:
 
-1.  code block - write `html + software language`
+according to category
 
-2.  Use isDirectory in path symbol - We cannot rely on that field to exist in case we need that information in other places.
-*   After fixing (2) - we should change `tokenizeSymbols` so it can take into consideration if a path is of type directory (using "isDirectory" field) - instead of letting it fail in case of trying to read folder contents.
+1.  Adding code block - write in `html + software other language`
 
-3)RST docs import automatically - RST is a file format for textual data used primarily in the Python programming language community for technical documentation
+2.  Using isDirectory in path symbol - We cannot rely on that field to exist in case we need that information in other places. still using this field? do we replace it?
 
-3.  Performance - While editing documents with a size-able amount of content there is an extremely noticeable amount of lag.
+3.  symbol next to each other - without gap (see that nothing breaks and still looks the same)
 
-4.  Images - using standard markdown the image didn’t display
+4.  2 symbols on the same line in the swmd, smartext overrides the result of the first symbol with the one before
 
-5.  provide common guidelines to convert .rst to .md
+5.  tokens that are on the same line in the same file override their applicability result
 
-6.  spaces, tabs, new lines do not persist
+6.  Import docs - RST docs import automatically (RST - is a file format for textual data used primarily in the Python programming language community for technical documentation)
 
-7.  make a link italic - open the doc and you'll **not** see that it shows with `em` prefix
+7.  Importing a markdown file (the content is blank)
 
-8.  Editor - new line is added when saving a document between a bullet item and the line after it (reproduce it and check the SWmd)
+8.  Performance - While editing documents with a size-able amount of content there is an extremely noticeable amount of lag.
 
-9.  SWMD on PRs - the line numbers changed and thus they see it as changes and it's a noise - use case swmd on PRs
+9.  Image symbol in swmd - using standard markdown the image (didn’t display in the previews swmd)
 
-10.  Link Reuse in MD should be supported
+10.  Spaces - check spaces-tabs, new lines do not persist
 
-11.  Check use a standard MD Linter - and we should verify that our schema is adheres to it (Linter is a system that go through mark down syntax and make sure it's fine)
+11.  make a link italic - open the doc and you'll see that it shows with `em` prefix, make sure it doesn't happen
 
-12.  Austosync not working when using "collapse snippet"
+12.  Editor - new line is added when saving a document between a bullet item and the line after it (reproduce it and check the SWmd)
 
-**13) remove blobShas - cross repo names not removed ?**
+13.  use case SWMD on PRs - the line numbers changed and thus they see it as changes and it's a noise
 
-14.  picked the token `o` from this line of code - token is not parsed properly out of SWMD
+14.  Using a standard MD Linter - verify that our schema is adheres to it (Linter is a system that go through mark down syntax and make sure it's fine)
 
-15.  Characters that break Smart Tokens -
-*   backtick and then ' breaks a smart token
+15.  Auto sync when using 'collapse snippet' (not working)
 
-*   slashes breaks smart tokens
+16.  picked the token `o` from this line of code - token is not parsed properly out of SWMD
 
-*   double quotes breaks after save and shown as outdated
+17.  check all Characters that break Smart Tokens -
 
-*   A token followed by `)` - the parenthesis is hidden
+18.  backtick and then ' breaks a smart token
 
-*   `|` (table?) in the context breaks the token breaks
+19.  slashes breaks smart tokens
 
-*   token with brackets breaks on draft
+20.  double quotes breaks after save and shown as outdated
 
-*   Typescript tokens with the type declarations adds a \`;' without the user writing it
+21.  A token followed by `)` - the parenthesis is hidden
 
-*   Tokens: starting with / doesn't allow you to select the rest of the string
+22.  `|` (table?) in the context breaks the token breaks
 
-*   smart token starting with ^ rendered badly
+23.  token with brackets breaks on draft
 
-*   smart tokens are saved with -1 wordIndexes - bug with global tokens that mis-parses words that have, for instance, a point inside of them. These tokens receive a -1 in their wordIndex - which is a bug.
+24.  Typescript tokens with the type declarations adds a \`;' without the user writing it
 
-*   smart tokens containing \[\[sym-link:(543f4280-4e24-4f18-b9c0-6422a46afbb1)**sw.md**\]\] **? Handle "real" merge conflicts in** \[\[sym-link:(543f4280-4e24-4f18-b9c0-6422a46afbb1)**sw.md**\]\] **(conflicts to the file blobs)?**
+25.  Tokens: starting with / doesn't allow you to select the rest of the string
 
-**22) Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob?**
+26.  smart token starting with ^ rendered badly
 
-23.  It wasn't clear that [**sw.md**](swmd.http:/.sw.md) files contain a link to the webapp
+27.  smart tokens are saved with -1 wordIndexes - bug with global tokens that mis-parses words that have, for instance, a point inside of them. These tokens receive a -1 in their wordIndex - which is a bug
 
-24)Importing a markdown file ➝ the content is blank
-
-\*\*25) Migrate from .swm to .\*\*\[\[sym-link:(543f4280-4e24-4f18-b9c0-6422a46afbb1)**sw.md**\]\] **| Banner is missing padding - what the diff between them both?**
-
-26.  when there are 2 symbols on the same line in the swmd, smartext overrides the result of the first symbol with the one before
-*   tokens that are on the same line in the same file override their applicability result
-27.  text rows should be shorter - split long rows - have a newline after 80 characters
-
-28.  Can't link in a pre-formatted code span - example: reate a pre-formatted code span using back ticks that is not a smart text. Try to add a link inside it.
+28.  text rows should be shorter - split long rows - have a newline after 80 characters
 
 29.  View Doc Diff | Enhance CR experience when reviewing non-code changes in Swimm doc
 
-30.  Playlist External File(MD) | When viewing remote MD file that contains relative image - fails to view
+30.  Playlist External File (MD) | When viewing remote MD file that contains relative image - fails to view
 
-31.  swmd review experience: smart token ids change when the tokens don't - and it's weird to review (see image)
+31.  swmd review experience: smart token ids change when the tokens don't - and it's weird to review
+<br/>
 
-32.  symbol next to each other
+1.  **Didn't understand:**
 
-# Section 3 - regression bugs
+2.  Link Reuse in MD should be supported **?**
 
-# Section 4 - Document Title & Heading Levels
+3.  remove blobShas - cross repo names not removed **?**
 
-# Section 5 - Snippet file name header
+4.  Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob **?**
+<br/>
 
-# Section 6 - collapsed (snippet, anywhere else?)
+# Document Title & Heading Levels
 
-# Section 7 - Playlist
+# Snippet file name header
 
-# Section 8 - Front-Matter/Preamble (don't know)
+# collapsed (snippet, anywhere else?)
 
-# Section 9 - Link Text & Image Alt Text & Title (read about it, they can be a problem? included anchor headings and snippets?)
+# Playlist
+
+# Front-Matter/Preamble (don't know)
+
+# Link Text & Image Alt Text & Title (read about it, they can be a problem? included anchor headings and snippets?)
 
 <br/>
 
