@@ -31,8 +31,8 @@ bug<br/>
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [doc 404 bug](doc-404-bug.w6nwh.sw.md)
-2. [bug 404 doc ](bug-404-doc.8l4t9.sw.md)
+1. [bug 404 doc ](bug-404-doc.8l4t9.sw.md)
+2. [doc 404 bug](doc-404-bug.w6nwh.sw.md)
 3. [doc bug 404 ](doc-bug-404.ww5mm.sw.md)
 
 
