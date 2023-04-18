@@ -5,9 +5,7 @@ file_version: 1.1.2
 app_version: 1.6.0
 ---
 
-bug<br/>
-bug<br/>
-bug<br/>
+<br/>bug<br/>
 bug<br/>
 bug<br/>
 bug<br/>
