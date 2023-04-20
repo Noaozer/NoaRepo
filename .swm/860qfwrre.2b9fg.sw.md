@@ -8,13 +8,13 @@ app_version: 1.6.3
 <!--MERMAID {width:100}-->
 ```mermaid
 sequenceDiagram
-Alice->>+John: Hello John, how are you?
-Alice->>+John: John, can you hear me?
-John-->>-Alice: Hi Alice, I can hear you!
+`2Flogo`\->>+John: `GitHub`
+Alice->>+John: `local`
+John-->>-Alice: `indexPages`
 John-->>-Alice: I feel great!
 
 ```
-<!--MCONTENT {content: "sequenceDiagram<br/>\nAlice->>+John: Hello John, how are you?<br/>\nAlice->>+John: John, can you hear me?<br/>\nJohn\\-\\-\\>>-Alice: Hi Alice, I can hear you!<br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n<br/>"} --->
+<!--MCONTENT {content: "sequenceDiagram<br/>\n`2Flogo`<swm-token data-swm-token=\":docusaurus.config.js:16:23:23:`        src: &#39;https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&amp;token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e&#39;,`\"/>\\->>+John: `GitHub`<swm-token data-swm-token=\":docusaurus.config.js:10:15:15:`  organizationName: &#39;Cyberdyne&#39;, // Usually your GitHub org/user name.`\"/><br/>\nAlice->>+John: `local`<swm-token data-swm-token=\":docusaurus.config.js:36:15:15:`      require.resolve(&quot;@easyops-cn/docusaurus-search-local&quot;),`\"/><br/>\nJohn\\-\\-\\>>-Alice: `indexPages`<swm-token data-swm-token=\":docusaurus.config.js:38:1:1:`        indexPages: true,`\"/><br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n<br/>"} --->
 
 <br/>
 
@@ -33,6 +33,20 @@ Crash --> [\*]
 <br/>
 
 <!--MERMAID {width:25}-->
+```mermaid
+stateDiagram-v2
+[\*] --> Still
+Still --> [\*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [\*]
+```
+<!--MCONTENT {content: "stateDiagram-v2<br/>\n\\[\\*\\] \\-\\-\\> Still<br/>\nStill \\-\\-\\> \\[\\*\\]<br/>\nStill \\-\\-\\> Moving<br/>\nMoving \\-\\-\\> Still<br/>\nMoving \\-\\-\\> Crash<br/>\nCrash \\-\\-\\> \\[\\*\\]<br/>"} --->
+
+<br/>
+
+<!--MERMAID {width:100}-->
 ```mermaid
 stateDiagram-v2
 [\*] --> Still
