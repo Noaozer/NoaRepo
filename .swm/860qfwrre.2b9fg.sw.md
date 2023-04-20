@@ -11,10 +11,10 @@ sequenceDiagram
 h->>+John: `GitHub`
 Alice->>+John: `5db5`
 John-->>-Alice: `repo`
-John-->>-Alice: I feel great!`number`
+John-->>-Alice: I feel great!
 
 ```
-<!--MCONTENT {content: "sequenceDiagram<br/>\nh->>+John: `GitHub`<swm-token data-swm-token=\":docusaurus.config.js:10:15:15:`  organizationName: &#39;Cyberdyne&#39;, // Usually your GitHub org/user name.`\"/><br/>\nAlice->>+John: `5db5`<swm-token data-swm-token=\":docusaurus.config.js:16:35:35:`        src: &#39;https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&amp;token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e&#39;,`\"/><br/>\nJohn\\-\\-\\>>-Alice: `repo`<swm-token data-swm-token=\":docusaurus.config.js:11:15:15:`  projectName: &#39;skynet&#39;, // Usually your repo name.`\"/><br/>\nJohn\\-\\-\\>>-Alice: I feel great!`number`<swm-token data-swm-token=\":docusaurus.config.js:13:1:1:`    number: {`\"/><br/>\n<br/>"} --->
+<!--MCONTENT {content: "sequenceDiagram<br/>\nh->>+John: `GitHub`<swm-token data-swm-token=\":docusaurus.config.js:10:15:15:`  organizationName: &#39;Cyberdyne&#39;, // Usually your GitHub org/user name.`\"/><br/>\nAlice->>+John: `5db5`<swm-token data-swm-token=\":docusaurus.config.js:15:35:35:`        src: &#39;https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&amp;token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e&#39;,`\"/><br/>\nJohn\\-\\-\\>>-Alice: `repo`<swm-token data-swm-token=\":docusaurus.config.js:11:15:15:`  projectName: &#39;skynet&#39;, // Usually your repo name.`\"/><br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n<br/>"} --->
 
 <br/>
 
