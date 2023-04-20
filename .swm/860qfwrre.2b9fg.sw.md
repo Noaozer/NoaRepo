@@ -28,10 +28,11 @@ A[Christmas] -->|Get money| B(Go working)
 B --> C{Let him think}
 C -->|One| D[Laptop]
 C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
+B -->|Three| F[fa:fa-car Car]
+
 
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go working)<br/>\nB \\-\\-\\> C{Let him think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go working)<br/>\nB \\-\\-\\> C{Let him think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nB \\-\\-\\>|Three| F\\[fa:fa-car Car\\]\n\n<br/><br/>"} --->
 
 <br/>
 
