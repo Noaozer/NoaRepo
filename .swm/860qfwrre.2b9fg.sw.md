@@ -8,13 +8,13 @@ app_version: 1.6.3
 <!--MERMAID {width:100}-->
 ```mermaid
 sequenceDiagram
-`2Flogo`\->>+John: `GitHub`
-Alice->>+John: `local`
-John-->>-Alice: `indexPages`
+h->>+John: g
+Alice->>+John: k
+John-->>-Alice: j
 John-->>-Alice: I feel great!
 
 ```
-<!--MCONTENT {content: "sequenceDiagram<br/>\n`2Flogo`<swm-token data-swm-token=\":docusaurus.config.js:16:23:23:`        src: &#39;https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&amp;token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e&#39;,`\"/>\\->>+John: `GitHub`<swm-token data-swm-token=\":docusaurus.config.js:10:15:15:`  organizationName: &#39;Cyberdyne&#39;, // Usually your GitHub org/user name.`\"/><br/>\nAlice->>+John: `local`<swm-token data-swm-token=\":docusaurus.config.js:36:15:15:`      require.resolve(&quot;@easyops-cn/docusaurus-search-local&quot;),`\"/><br/>\nJohn\\-\\-\\>>-Alice: `indexPages`<swm-token data-swm-token=\":docusaurus.config.js:38:1:1:`        indexPages: true,`\"/><br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n<br/>"} --->
+<!--MCONTENT {content: "sequenceDiagram<br/>\nh->>+John: g<br/>\nAlice->>+John: k<br/>\nJohn\\-\\-\\>>-Alice: j<br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n<br/>"} --->
 
 <br/>
 
