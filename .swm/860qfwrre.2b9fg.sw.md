@@ -7,29 +7,31 @@ app_version: 1.6.3
 
 <!--MERMAID {width:100}-->
 ```mermaid
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-BA A C{Let me think}
-C -->|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
-
+erDiagram
+CUSTOMER }|..|{ DELIVERY-ADDRESS : ffffff
+CUSTOMER ||--o{ ORDER : places
+CUSTOMER ||--o{ INVOICE : "liable for"
+DELIVERY-ADDRESS ||--o{ ORDER : yntntnytnt
+INVOICE ||--|{ ORDER : covers
+ORDER ||--|{ ORDER-ITEM : includes
+PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nBA A C{Let me think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
+<!--MCONTENT {content: "erDiagram<br/>\nCUSTOMER }|..|{ DELIVERY-ADDRESS : ffffff<br/>\nCUSTOMER ||--o{ ORDER : places<br/>\nCUSTOMER ||--o{ INVOICE : \"liable for\"<br/>\nDELIVERY-ADDRESS ||--o{ ORDER : yntntnytnt<br/>\nINVOICE ||--|{ ORDER : covers<br/>\nORDER ||--|{ ORDER-ITEM : includes<br/>\nPRODUCT-CATEGORY ||--|{ PRODUCT : contains<br/>\nPRODUCT ||--o{ ORDER-ITEM : \"ordered in\"<br/>"} --->
 
 <br/>
 
 <!--MERMAID {width:100}-->
 ```mermaid
 graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
+A[Christmas] -->|Get money| B(Go working)
+B --> C{Let him think}
 C -->|One| D[Laptop]
 C -->|Two| E[iPhone]
 C -->|Three| F[fa:fa-car Car]
 
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{Let me think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go working)<br/>\nB \\-\\-\\> C{Let him think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
 
 <br/>
 
