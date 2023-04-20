@@ -2,7 +2,7 @@
 id: 4xwjb
 title: SWmd QA test
 file_version: 1.1.2
-app_version: 1.6.0
+app_version: 1.7.0
 ---
 
 Test Plan:
@@ -132,25 +132,35 @@ according to category
 
 21.  A token followed by `)` - the parenthesis is hidden
 
-22.  `|` (table?) in the context breaks the token breaks
+22.  If you have smart token from line with | , the smart token is corrupted inside table
 
-23.  token with brackets breaks on draft
+23.  link to doc inside table is broken if doc name contains | - have a doc whose name has | and add link to it inside table
 
-24.  Typescript tokens with the type declarations adds a \`;' without the user writing it
+24.  using || inside table creates extra columns - view after commit
 
-25.  Tokens: starting with / doesn't allow you to select the rest of the string
+25.  token with brackets breaks on draft
 
-26.  smart token starting with ^ rendered badly
+26.  Typescript tokens with the type declarations adds a \`;' without the user writing it
 
-27.  smart tokens are saved with -1 wordIndexes - bug with global tokens that mis-parses words that have, for instance, a point inside of them. These tokens receive a -1 in their wordIndex - which is a bug
+27.  Tokens: starting with / doesn't allow you to select the rest of the string
 
-28.  text rows should be shorter - split long rows - have a newline after 80 characters
+28.  smart token starting with ^ rendered badly
 
-29.  View Doc Diff | Enhance CR experience when reviewing non-code changes in Swimm doc
+29.  smart tokens are saved with -1 wordIndexes - bug with global tokens that mis-parses words that have, for instance, a point inside of them. These tokens receive a -1 in their wordIndex - which is a bug
 
-30.  Playlist External File (MD) | When viewing remote MD file that contains relative image - fails to view
+30.  text rows should be shorter - split long rows - have a newline after 80 characters
 
-31.  swmd review experience: smart token ids change when the tokens don't - and it's weird to review
+31.  View Doc Diff | Enhance CR experience when reviewing non-code changes in Swimm doc
+
+32.  Playlist External File (MD) | When viewing remote MD file that contains relative image - fails to view
+
+33.  swmd review experience: smart token ids change when the tokens don't - and it's weird to review
+
+34.  Mermaid format - test changes in mermaid: replace the content and add context (new line, remove line, change line) , add token, change the template (Seems like now a change replacing new lines with <br/> is applied to the mermaid preview string, This means that after save the mermaid preview no longer works on github - the syntax is broken due to the added <br/> tags)
+
+35.  A `<br/>` in a mermaid diagram breaks the diagram on save load - test this specific case and try to use the new syntex in the content mermaid to make sure it doesn't brake it either.
+
+*    
 <br/>
 
 1.  **Didn't understand:**
@@ -160,7 +170,10 @@ according to category
 3.  remove blobShas - cross repo names not removed **?**
 
 4.  Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob **?**
-<br/>
+
+5.  "Github Enterprise Limitations" **what it means?**
+
+    <br/>
 
 # Document Title & Heading Levels
 
