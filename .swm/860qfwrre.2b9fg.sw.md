@@ -5,34 +5,31 @@ file_version: 1.1.2
 app_version: 1.6.3
 ---
 
-<!--MERMAID {width:100}-->
+<!--MERMAID {width:25}-->
 ```mermaid
-erDiagram
-CUSTOMER }|..|{ DELIVERY-ADDRESS : ffffff
-CUSTOMER ||--o{ ORDER : places
-CUSTOMER ||--o{ INVOICE : "liable for"
-DELIVERY-ADDRESS ||--o{ ORDER : yntntnytnt
-INVOICE ||--|{ ORDER : covers
-ORDER ||--|{ ORDER-ITEM : includes
-PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+sequenceDiagram
+Alice->>+John: Hello John, how are you?
+Alice->>+John: John, can you hear me?
+John-->>-Alice: Hi Alice, I can hear you!
+John-->>-Alice: I feel great!
+
+
 ```
-<!--MCONTENT {content: "erDiagram<br/>\nCUSTOMER }|..|{ DELIVERY-ADDRESS : ffffff<br/>\nCUSTOMER ||--o{ ORDER : places<br/>\nCUSTOMER ||--o{ INVOICE : \"liable for\"<br/>\nDELIVERY-ADDRESS ||--o{ ORDER : yntntnytnt<br/>\nINVOICE ||--|{ ORDER : covers<br/>\nORDER ||--|{ ORDER-ITEM : includes<br/>\nPRODUCT-CATEGORY ||--|{ PRODUCT : contains<br/>\nPRODUCT ||--o{ ORDER-ITEM : \"ordered in\"<br/>"} --->
+<!--MCONTENT {content: "sequenceDiagram<br/>\nAlice->>+John: Hello John, how are you?<br/>\nAlice->>+John: John, can you hear me?<br/>\nJohn\\-\\-\\>>-Alice: Hi Alice, I can hear you!<br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n\n<br/>"} --->
 
 <br/>
 
-<!--MERMAID {width:100}-->
+<!--MERMAID {width:25}-->
 ```mermaid
-graph TD
-A[Christmas] -->|Get money| B(Go working)
-B --> C{Let him think}
-C -->|One| D[Laptop]
-C -->|Two| E[iPhone]
-B -->|Three| F[fa:fa-car Car]
-
-
+stateDiagram-v2
+[\*] --> Still
+Still --> [\*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [\*]
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go working)<br/>\nB \\-\\-\\> C{Let him think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nB \\-\\-\\>|Three| F\\[fa:fa-car Car\\]\n\n<br/><br/>"} --->
+<!--MCONTENT {content: "stateDiagram-v2<br/>\n\\[\\*\\] \\-\\-\\> Still<br/>\nStill \\-\\-\\> \\[\\*\\]<br/>\nStill \\-\\-\\> Moving<br/>\nMoving \\-\\-\\> Still<br/>\nMoving \\-\\-\\> Crash<br/>\nCrash \\-\\-\\> \\[\\*\\]<br/>"} --->
 
 <br/>
 
