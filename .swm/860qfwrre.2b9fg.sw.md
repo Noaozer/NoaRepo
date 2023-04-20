@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.6.3
 ---
 
-<!--MERMAID {width:25}-->
+<!--MERMAID {width:100}-->
 ```mermaid
 sequenceDiagram
 Alice->>+John: Hello John, how are you?
@@ -13,9 +13,22 @@ Alice->>+John: John, can you hear me?
 John-->>-Alice: Hi Alice, I can hear you!
 John-->>-Alice: I feel great!
 
-
 ```
-<!--MCONTENT {content: "sequenceDiagram<br/>\nAlice->>+John: Hello John, how are you?<br/>\nAlice->>+John: John, can you hear me?<br/>\nJohn\\-\\-\\>>-Alice: Hi Alice, I can hear you!<br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "sequenceDiagram<br/>\nAlice->>+John: Hello John, how are you?<br/>\nAlice->>+John: John, can you hear me?<br/>\nJohn\\-\\-\\>>-Alice: Hi Alice, I can hear you!<br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n<br/>"} --->
+
+<br/>
+
+<!--MERMAID {width:50}-->
+```mermaid
+stateDiagram-v2
+[\*] --> Still
+Still --> [\*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [\*]
+```
+<!--MCONTENT {content: "stateDiagram-v2<br/>\n\\[\\*\\] \\-\\-\\> Still<br/>\nStill \\-\\-\\> \\[\\*\\]<br/>\nStill \\-\\-\\> Moving<br/>\nMoving \\-\\-\\> Still<br/>\nMoving \\-\\-\\> Crash<br/>\nCrash \\-\\-\\> \\[\\*\\]<br/>"} --->
 
 <br/>
 
