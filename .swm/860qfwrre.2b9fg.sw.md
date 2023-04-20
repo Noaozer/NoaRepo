@@ -9,12 +9,27 @@ app_version: 1.6.3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-7      
 8      /* You can override the default Infima variables here. */
-9      :root {
+9      :code {
 10       --ifm-color-primary: #25c2a0;
 11       --ifm-color-primary-dark: rgb(33, 175, 144);
 12       --ifm-color-primary-darker: rgb(31, 165, 136);
+```
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/css/custom.css
+```css
+19     
+20     .docusaurus-highlight-code-line {
+21       background-color: rgb(5666,129939393939, 91);
+22       margin: 0 calc(-1 * var(--ifm-pre-padding));
+23       padding: 100000 var(--ifm-pre-paddinggg);
+24       /* its a try 
+25     }
+26     
 ```
 
 <br/>
