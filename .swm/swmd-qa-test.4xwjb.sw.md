@@ -7,6 +7,72 @@ app_version: 1.7.0
 
 Test Plan:
 
+# Milestone 1
+
+*   Create a new swmd (`@swimm/swmd`) package.
+
+*   Bring in the bare minimum of parsing/serialization, editor component an so on.
+
+*   Bring in the standalone demo app for developing the editor.
+
+    *   Decide on what it should include. Do we want some debug panel in the main app?
+
+*   TipTap Vue Devtools plugin?
+
+*   Infrastructure for testing.
+
+    *   vitest
+
+    *   Cypress/Playwright component testing?
+
+*   Integrate the new `SwmdEditor` component into the web app as a new page (Without most of the existing functionality of `EditDoc`), under a feature flag in the `.env` that will modify the router.
+
+    *   TODO We might want something that can work at runtime?
+
+*   Handle the interface between `SwmdEditor` and where to parse/serialize the doc, avoiding `v-model` cycles, and so on. (In particular the title component is outside the `SwmdEditor`.)
+
+test -
+
+# Milestone 2
+
+*   New Drafts Store for the new format.
+
+*   Save/Load (Commit) for the doc.
+
+### Doc page - `https://app.swimm.io/workspaces/:workspaceId/repos/:repoId/branch/:branch/docs/:docId[/edit]`
+
+**New**
+
+*   Generate new draft ID and save an empty draft
+
+*   Navigate to edit doc page
+
+**Load**
+
+*   if draft exists for `docId`:
+
+    *   load draft
+
+*   else:
+
+    *   load file (Committed doc) (How? What code should I use for this?)
+
+**On change**
+
+*   Save the draft (Who? Debounce? Inidication of saving?)
+
+**(Batch) Commit**
+
+*   Commit the drafts
+
+*   Save to database (How? What code should I use for this?)
+
+test -
+
+<br/>
+
+<br/>
+
 # section 1 - write&read SWmd
 
 1.  create a doc with editor commands **Markdown Syntax** all syntax from the table
@@ -156,22 +222,21 @@ according to category
 
 33.  swmd review experience: smart token ids change when the tokens don't - and it's weird to review
 
-34.  Mermaid format - test changes in mermaid: replace the content and add context (new line, remove line, change line) , add token, change the template (Seems like now a change replacing new lines with <br/> is applied to the mermaid preview string, This means that after save the mermaid preview no longer works on github - the syntax is broken due to the added <br/> tags)
+34.  Mermaid format - test changes in mermaid: replace the content and add context (new line, remove line, change line) , add token, change the template (Seems like now a change replacing new lines with<br/>
+    is applied to the mermaid preview string, This means that after save the mermaid preview no longer works on github - the syntax is broken due to the added<br/>
+    tags)
 
 35.  A `<br/>` in a mermaid diagram breaks the diagram on save load - test this specific case and try to use the new syntex in the content mermaid to make sure it doesn't brake it either.
 
-*    
-<br/>
+36.  **Didn't understand:**
 
-1.  **Didn't understand:**
+37.  Link Reuse in MD should be supported **?**
 
-2.  Link Reuse in MD should be supported **?**
+38.  remove blobShas - cross repo names not removed **?**
 
-3.  remove blobShas - cross repo names not removed **?**
+39.  Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob **?**
 
-4.  Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob **?**
-
-5.  "Github Enterprise Limitations" **what it means?**
+40.  "Github Enterprise Limitations" **what it means?**
 
     <br/>
 
