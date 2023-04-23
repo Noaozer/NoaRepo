@@ -9,68 +9,6 @@ Test Plan:
 
 # Milestone 1
 
-*   Create a new swmd (`@swimm/swmd`) package.
-
-*   Bring in the bare minimum of parsing/serialization, editor component an so on.
-
-*   Bring in the standalone demo app for developing the editor.
-
-    *   Decide on what it should include. Do we want some debug panel in the main app?
-
-*   TipTap Vue Devtools plugin?
-
-*   Infrastructure for testing.
-
-    *   vitest
-
-    *   Cypress/Playwright component testing?
-
-*   Integrate the new `SwmdEditor` component into the web app as a new page (Without most of the existing functionality of `EditDoc`), under a feature flag in the `.env` that will modify the router.
-
-    *   TODO We might want something that can work at runtime?
-
-*   Handle the interface between `SwmdEditor` and where to parse/serialize the doc, avoiding `v-model` cycles, and so on. (In particular the title component is outside the `SwmdEditor`.)
-
-test -
-
-# Milestone 2
-
-*   New Drafts Store for the new format.
-
-*   Save/Load (Commit) for the doc.
-
-### Doc page - `https://app.swimm.io/workspaces/:workspaceId/repos/:repoId/branch/:branch/docs/:docId[/edit]`
-
-**New**
-
-*   Generate new draft ID and save an empty draft
-
-*   Navigate to edit doc page
-
-**Load**
-
-*   if draft exists for `docId`:
-
-    *   load draft
-
-*   else:
-
-    *   load file (Committed doc) (How? What code should I use for this?)
-
-**On change**
-
-*   Save the draft (Who? Debounce? Inidication of saving?)
-
-**(Batch) Commit**
-
-*   Commit the drafts
-
-*   Save to database (How? What code should I use for this?)
-
-test -
-
-<br/>
-
 <br/>
 
 # section 1 - write&read SWmd
@@ -227,16 +165,15 @@ according to category
     tags)
 
 35.  A `<br/>` in a mermaid diagram breaks the diagram on save load - test this specific case and try to use the new syntex in the content mermaid to make sure it doesn't brake it either.
+1.  **Didn't understand:**
 
-36.  **Didn't understand:**
+2.  Link Reuse in MD should be supported **?**
 
-37.  Link Reuse in MD should be supported **?**
+3.  remove blobShas - cross repo names not removed **?**
 
-38.  remove blobShas - cross repo names not removed **?**
+4.  Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob **?**
 
-39.  Doc cannot be opened in the web due to extra spacings in the file\_blobs field - Someone from Orca accidentally ran Prettier or linter on this swmd file and it moved the file\_blobs one tab ahead which made the swmd parser to not being able to open it (no errors were shown, no logs). After reverting this change the doc can be loaded well - what is file blob **?**
-
-40.  "Github Enterprise Limitations" **what it means?**
+5.  "Github Enterprise Limitations" **what it means?**
 
     <br/>
 
