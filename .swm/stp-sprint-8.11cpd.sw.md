@@ -60,10 +60,10 @@ Section - notice section above :
 
 <br/>
 
-|                               |                                                             |                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|<br/>                          |<br/>                                                        |<br/>                                                                                                                                                                             |<br/>                                                                                                                                                                                                                                                                                                                                                                                                                                           |<br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Test Case Type**             |**Description**                                              |**Pre-condition**                                                                                                                                                                 |**Test step**                                                                                                                                                                                                                                                                                                                                                                                                                                   |**Expected Result**                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|functionally/Usability/Security|Review Auto-Sync panel grouped by resolution type - view mode|\* document with auto-syncable/outdated items                                                                                                                                     |1\. open the doc - in view mode<br><br>2\. open the right side bar<br><br>3. click on "Enter Edit mode"                                                                                                                                                                                                                                                                                                                                         |1\. Review Auto-Sync panel grouped by resolution type - Auto syncable section and Outdated section<br><br>2\. The auto-syncable and outdated items are grouped by resolution type in the review Auto-Sync panel<br><br>3\. No CTA's displayed next to the items<br><br>4\. there is a message: "Enter Edit mode to resolve."<br><br>5. The text "Enter Edit mode" is clickable button that switches to Edit mode                                                                             |
+|functionally/Usability/Security|Review Auto-Sync panel grouped by resolution type - view mode|\* document with auto-syncable/outdated items                                                                                                                                     |1\. open the doc - in view mode<br><br>2\. open the right side bar<br><br>3.  click on "Enter Edit mode"                                                                                                                                                                                                                                                                                                                                        |1\. Review Auto-Sync panel grouped by resolution type - Auto syncable section and Outdated section<br><br>2\. The auto-syncable and outdated items are grouped by resolution type in the review Auto-Sync panel<br><br>3\. No CTA's displayed next to the items<br><br>4\. there is a message: "Enter Edit mode to resolve."<br><br>5.  The text "Enter Edit mode" is clickable button that switches to Edit mode                                                                            |
 |<br/>                          |Auto syncable and Outdated order                             |\* document with auto sync and outdated items<br><br>\* some of the items has instance                                                                                            |1\. open the doc - in a view mode<br><br>2\. open the right side bar                                                                                                                                                                                                                                                                                                                                                                            |1\. the review auto sync panel grouped by resolution type: "Autosyncable" and ""Out of date"<br><br>2\. the order in "Auto syncable" section is - by objects (token, snippets, path....) if the object has other mention in the doc they will be nested according to their location in the doc.<br><br>3\. the order in "Outdated" section is - by objects (token, snippets, path....) if the object has other mention in the doc they will be nested according to their location in the doc.|
 |<br/>                          |UI - "Review auto-sync" panel                                |\* document with X auto syncable and outdated items                                                                                                                               |1\. open the document<br><br>2\. open the right side bar<br><br>3\. compare UI to Figma<br><br>4\. switch to edit mode<br><br>5\. compare UI to Figma                                                                                                                                                                                                                                                                                           |1\. the UI looks as Figma - in view mode _no CTA's_ notice section above - "Enter Edit mode to resolve."<br><br>2\. the UI looks as Figma - on view mode _there is CTA's_ notice section above - "X code references were changed and this doc is now outdated. Resolve and commit them to keep this doc up to date.""                                                                                                                                                                        |
 |<br/>                          |Clickable items                                              |\* document with auto sync and outdated items                                                                                                                                     |1\. open the doc<br><br>2\. open the right side bar<br><br>3\. click on the items in the review auto sync panel<br><br>4\. switch to edit mode<br><br>5\. click on the items in the review auto sync panel                                                                                                                                                                                                                                      |1\. Each item in the panel is clickable in view mode and in edit mode.<br><br>2\. Clicking on an item will scroll and focus the document on the corresponding outdated code reference.                                                                                                                                                                                                                                                                                                       |
@@ -73,6 +73,353 @@ Section - notice section above :
 |<br/>                          |CTA - Outdated remove item                                   |\* document with outdated items (tokens, snippets, path, doc)                                                                                                                     |1\. open the doc<br><br>2\. open the right side bar<br><br>3\. switch to edit mode<br><br>4\. at the preview auto sync in outdated section - click on the remove icons                                                                                                                                                                                                                                                                          |1\. The document will scroll to the referenced symbol<br><br>2\. Animation: the whole line fades to 0 opacity, then disappears<br><br>3\. A micro animation will be shown in the doc itself (According to the item)                                                                                                                                                                                                                                                                          |
 |<br/>                          |Resolve Auto sync - Accept all                               |\* document with auto syncable items (tokens, snippets, path)<br><br>\* some item in both "Autosyncable"<br><br>section represent a group of multiple instances                   |1\. open doc on edit mode<br><br>2\. open right side bar<br><br>3\. click accept all on review auto syncable<br><br>4\. Undo (c+z)                                                                                                                                                                                                                                                                                                              |1\. Accept all resolves all items at once in a single transaction<br><br>2\. No scrolling will occur in this case<br><br>3\. When all the section's items are resolved - Auto syncable section doesn't appear<br><br>4\. undo to accept all action return all auto syncable items to the doc and to the preview auto syncable section                                                                                                                                                        |
 |<br/>                          |Resolve all items                                            |\* document with auto syncable and outdated items                                                                                                                                 |1\. open the doc in edit mode<br><br>2\. open the right side bar<br><br>3\. accept all auto syncable items<br><br>4\. remove all outdated items                                                                                                                                                                                                                                                                                                 |1\. after accept all auto syncable items - the auto-syncable section does not appear<br><br>2\. after remove all outdated items - the Outdated section does not appear<br><br>3\. review Auto-sync section is empty<br><br>4\. celebration animation on the sidebar ""resolve all"" - Animation: whole line fades to 0 opacity, then disappears                                                                                                                                              |
+
+<br/>
+
+**Review Auto-sync improvements 10**
+
+### **C50: Review Auto-Sync panel grouped by resolution type - view mode**
+
+<br/>
+
+|                       |                |                |                  |
+|-----------------------|----------------|----------------|------------------|
+|**Type**Functional     |**Priority**High|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>           |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with auto-syncable/outdated items  
+
+#### Steps
+
+1.  open the doc - in view mode
+
+2.  open the right side bar
+
+3.  click on "Enter Edit mode"
+
+#### Expected Result
+
+1.  Review Auto-Sync panel grouped by resolution type - Auto syncable section and Outdated section
+
+2.  The auto-syncable and outdated items are grouped by resolution type in the review Auto-Sync panel
+
+3.  No CTA's displayed next to the items
+
+4.  there is a message: "Enter Edit mode to resolve."
+
+5.  The text "Enter Edit mode" is clickable button that switches to Edit mode
+
+### **C51: Auto syncable and Outdated order**
+
+<br/>
+
+|                       |                |                |                  |
+|-----------------------|----------------|----------------|------------------|
+|**Type**Functional     |**Priority**High|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>           |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with auto sync and outdated items
+
+*   some of the items has instance
+
+#### Steps
+
+1.  open the doc - in a view mode
+
+2.  open the right side bar
+
+#### Expected Result
+
+1.  the review auto sync panel grouped by resolution type: "Autosyncable" and "Out of date"
+
+2.  the order in "Auto syncable" section is -  by objects (token, snippets, path....) if the object has other mention in the doc they will be nested according to their location in the doc.
+
+3.  the order in "Outdated" section is - by objects (token, snippets, path....)  if the object has other mention in the doc they will be nested according to their location in the doc.
+
+### **C52: UI - "Review auto-sync" panel**
+
+<br/>
+
+|                       |                  |                |                  |
+|-----------------------|------------------|----------------|------------------|
+|**Type**Compatibility  |**Priority**Medium|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>             |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with X auto syncable and outdated items
+
+#### Steps
+
+1.  open the document
+
+2.  open the right side bar
+
+3.  compare UI to Figma
+
+4.  switch to edit mode
+
+5.  compare UI to Figma
+
+#### Expected Result
+
+1.  the UI looks as Figma - in view mode<br/>
+    \*no CTA's<br/>
+    \*notice section above - "Enter Edit mode to resolve."
+
+2.  the UI looks as Figma - on view mode<br/>
+    \*there is CTA's<br/>
+    \*notice section above - "X code references were changed and this doc is now outdated.<br/>
+    Resolve and commit them to keep this doc up to date."
+
+### **C53: Clickable items**
+
+<br/>
+
+|                       |                    |                |                  |
+|-----------------------|--------------------|----------------|------------------|
+|**Type**Performance    |**Priority**Critical|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>               |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+\*document with auto sync and outdated items
+
+#### Steps
+
+1.  open the doc
+
+2.  open the right side bar
+
+3.  click on the items in the review auto sync panel
+
+4.  switch to edit mode
+
+5.  click on the items in the review auto sync panel
+
+#### Expected Result
+
+1.  Each item in the panel is clickable in view mode and in edit mode.
+
+2.  Clicking on an item will scroll and focus the document on the corresponding outdated code reference.
+
+### **C54: Clickable items - nested**
+
+<br/>
+
+|                       |                    |                |                  |
+|-----------------------|--------------------|----------------|------------------|
+|**Type**Functional     |**Priority**Critical|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>               |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with auto sync and outdated items - each item has multiple instances
+
+#### Steps
+
+1.  open the doc
+
+2.  open the right side bar
+
+3.  click on each item in both "Autosyncable" and "Out of date" sections that represent a group of multiple instances (the heading)
+
+4.  click on every instance
+
+5.  switch to edit mode
+
+6.  click on each item in both "Autosyncable" and "Out of date" sections that represent a group of multiple instances (the heading)
+
+7.  click on every instance
+
+#### Expected Result
+
+1.  clicking on the heading in nested item is leading (scroll and focus) to the first instance which is located first in the doc - in view and edit mode
+
+2.  clicking on the the instances in nested item is leading (scroll and focus) to the instance in the doc - in view and edit mode
+
+### **C55: CTA 's to accept or remove review items - edit mode**
+
+<br/>
+
+|                       |                    |                |                  |
+|-----------------------|--------------------|----------------|------------------|
+|**Type**Compatibility  |**Priority**Critical|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>               |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document that has auto sync and outdated items
+
+*   some of the item in both "Autosyncable" and "Out of date" sections can represent a group of multiple instances
+
+#### Steps
+
+1.  open the doc
+
+2.  open the right side bar
+
+3.  switch to edit mode
+
+4.  compare UI to Figma
+
+#### Expected Result
+
+1.  Next to each item, there is a Call-To-Action (CTA) button (UI as Figma) to resolve the item directly from the sidebar without going to its referenced place in the document - the CTA's appears only in Edit mode
+
+### **C56: CTA - Autosyncable accept item**
+
+<br/>
+
+|                       |                  |                |                  |
+|-----------------------|------------------|----------------|------------------|
+|**Type**Other          |**Priority**Medium|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>             |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with auto syncable items (tokens, snippets, path)
+
+#### Steps
+
+1.  open the doc
+
+2.  open the right side bar
+
+3.  switch to edit mode
+
+4.  at the preview auto sync section - click on the V icon to accept(the item is from the auto syncable group)
+
+#### Expected Result
+
+1.  The document will scroll to the referenced symbol
+
+2.  Animation: the whole line fades to 0 opacity, then disappears
+
+3.  A micro animation will be shown in the doc itself (According to the item)
+
+### **C57: CTA - Outdated remove item**
+
+<br/>
+
+|                       |                    |                |                  |
+|-----------------------|--------------------|----------------|------------------|
+|**Type**Functional     |**Priority**Critical|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>               |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with outdated items (tokens, snippets, path, doc)
+
+#### Steps
+
+1.  open the doc
+
+2.  open the right side bar
+
+3.  switch to edit mode
+
+4.  at the preview auto sync in outdated section - click on the remove icons
+
+#### Expected Result
+
+1.  The document will scroll to the referenced symbol
+
+2.  Animation: the whole line fades to 0 opacity, then disappears
+
+3.  A micro animation will be shown in the doc itself (According to the item)
+
+### **C58: Resolve Auto sync - Accept all**
+
+<br/>
+
+|                       |                    |                |                  |
+|-----------------------|--------------------|----------------|------------------|
+|**Type**Functional     |**Priority**Critical|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>               |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with auto syncable items (tokens, snippets, path)
+
+*   some item in both "Autosyncable" section represent a group of multiple instances
+
+#### Steps
+
+1.  open doc on edit mode
+
+2.  open right side bar
+
+3.  click accept all on review auto syncable
+
+4.  Undo (c+z)
+
+#### Expected Result
+
+1.  Accept all resolves all items at once in a single transaction
+
+2.  No scrolling will occur in this case
+
+3.  When all the section's items are resolved - Auto syncable section doesn't appear
+
+4.  undo to accept all action return all auto syncable items to the doc and to the preview auto syncable section
+
+### **C59: Resolve all items**
+
+<br/>
+
+|                       |                |                |                  |
+|-----------------------|----------------|----------------|------------------|
+|**Type**Functional     |**Priority**High|**Estimate**None|**References**None|
+|**Automation Type**None|<br/>           |<br/>           |<br/>             |
+
+<br/>
+
+#### Preconditions
+
+*   document with auto syncable and outdated items
+
+#### Steps
+
+1.  open the doc in edit mode
+
+2.  open the right side bar
+
+3.  accept all auto syncable items
+
+4.  remove all outdated items
+
+#### Expected Result
+
+1.  after accept all auto syncable items - the auto-syncable section does not appear
+
+2.  after remove all outdated items - the Outdated section does not appear
+
+3.  review Auto-sync section is empty  
+
+4.  celebration animation on the sidebar "resolve all" - Animation: whole line fades to 0 opacity, then disappears
 
 <br/>
 
