@@ -4,11 +4,6 @@ sigjrivmerkfvmnorkdfv ckc
 
 rrrr
 
-rrrr
-
-
-rrrr
-
-
+rr
 
 fervcmwekvcmekrdmvced
