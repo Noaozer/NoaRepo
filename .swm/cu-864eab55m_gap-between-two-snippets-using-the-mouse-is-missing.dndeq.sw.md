@@ -142,10 +142,7 @@ noa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-3      sigjrivmerkfvmnorkdfv ckc
-4      
-5      fervcmwekvcmekrdmvced
-6      
+9      fervcmwekvcmekrdmvced
 ```
 
 <br/>
