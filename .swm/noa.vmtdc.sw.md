@@ -6,6 +6,22 @@ app_version: 1.7.2
 ---
 
 ## noa
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+1.  cesdvs
+
+2.  vesdv
+
+3.  s
+
+4.  dvsv
+
+*
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 LICENSE
 ```
@@ -17,6 +33,18 @@ app_version: 1.7.2
 6      
 7      
 ```
+
+<br/>
+
+### 3
+
+# 1
+
+## 2
+
+`the`<swm-token data-swm-token=":LICENSE:3:36:36:`The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.`"/>
+
+<br/>
 
 <br/>
 
