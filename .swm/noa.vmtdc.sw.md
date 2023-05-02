@@ -17,36 +17,8 @@ app_version: 1.7.2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-3      sigjrivmerkfvmnorkdfv ckc
-4      
-5      rrrr
-6      
-7      rr
-8      
-9      fervcmwekvcmekrdmvced
-10     
-```
-
-<br/>
-
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
 2      slug: /
-3      sigjrivmerkfvmnorkdfv ckc
-```
-
-<br/>
-
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-6      
-7      rr
-8      
-9      fervcmwekvcmekrdmvced
+3      sigjrivmerkfvmnorkdfv ckc fff
 ```
 
 <br/>
