@@ -16,16 +16,17 @@ Sociis natoque penatibus et magnis dis parturient. Augue ut lectus arcu bibendum
 TRY
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
+<!-- collapsed -->
+
 ```markdown
 2      slug: /
 3      
 4      
 5      
 6      
-7      gg
+7      ggGGGGGGGG
 8      
 9      fervcmwekvcmekrdmvced
-10     
 ```
 
 <br/>
