@@ -7,9 +7,12 @@ app_version: 1.7.2
 
 <!--MERMAID {width:100}-->
 ```mermaid
-
+pie title Pets adopted by volunteers
+"Dogs" : 386
+"Cats" : 85
+"Rats" : 15
 ```
-<!--MCONTENT {content: "<br/>"} --->
+<!--MCONTENT {content: "pie title Pets adopted by volunteers<br/>\n\"Dogs\" : 386<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15<br/>"} --->
 
 <br/>
 
