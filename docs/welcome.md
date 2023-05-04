@@ -4,6 +4,6 @@ slug: /
 
 
 
-ggGGGGGGGG
+ggG
 
 fervcmwekvcmekrdmvced
