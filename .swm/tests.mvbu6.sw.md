@@ -7,15 +7,16 @@ app_version: 1.7.2
 
 <!--MERMAID {width:100}-->
 ```mermaid
-sequenceDiagram
-Alice->>+John: Hello John, how are you?
-Alice->>+John: John, can you hear me?
-John-->>-Alice: Hi Alice, I can hear you!
-John-->>-Alice: I feel great!
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Tests}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
 
 
 ```
-<!--MCONTENT {content: "sequenceDiagram<br/>\nAlice->>+John: Hello John, how are you?<br/>\nAlice->>+John: John, can you hear me?<br/>\nJohn\\-\\-\\>>-Alice: Hi Alice, I can hear you!<br/>\nJohn\\-\\-\\>>-Alice: I feel great!<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{Tests}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n\n<br/>"} --->
 
 <br/>
 
