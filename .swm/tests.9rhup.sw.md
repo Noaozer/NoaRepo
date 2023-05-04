@@ -7,9 +7,19 @@ app_version: 1.7.2
 
 <!--MERMAID {width:100}-->
 ```mermaid
-Noa
+gitGraph
+commit
+commit
+branch develop
+checkout develop
+commit
+commit
+checkout main
+merge develop
+commit
+commit
 ```
-<!--MCONTENT {content: "Noa"} --->
+<!--MCONTENT {content: "gitGraph<br/>\ncommit<br/>\ncommit<br/>\nbranch develop<br/>\ncheckout develop<br/>\ncommit<br/>\ncommit<br/>\ncheckout main<br/>\nmerge develop<br/>\ncommit<br/>\ncommit<br/>"} --->
 
 <br/>
 
