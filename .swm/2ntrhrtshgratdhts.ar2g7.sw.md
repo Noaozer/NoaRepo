@@ -2,26 +2,10 @@
 id: ar2g7
 title: 2ntrhrtshgratdhts
 file_version: 1.1.2
-app_version: 1.7.2
+app_version: 1.8.0
 ---
 
 ccew
-
-<br/>
-
-dsc
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-5      
-6      
-7      gg
-8      sigjrivmerkfvmnorkdfv ckc
-9      
-10     
-```
-
-<br/>
 
 vr
 
@@ -37,28 +21,22 @@ vewv
 5      
 6      
 7      gg
-8      sigjrivmerkfvmnorkdfv ckc
-9      
+8      
+9      fervcmwekvcmekrdmvced
 10     
-11     
-12     
-13     
-14     
-15     fervcmwekvcmekrdmvced
-16     
 ```
 
 <br/>
 
 <br/>
 
-`customCss`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`          customCss: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
+`customCss`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          customCss: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
 
 `📄 docs/welcome.md`
 
 <br/>
 
-<div align="center"><img src="https://media2.giphy.com/media/RB46T9ysjzDEs/giphy.gif?cid=d56c4a8bgpqkrf6jrxmu59xdehxfw7bhdzyfw5zherl2e0po&ep=v1_gifs_trending&rid=giphy.gif&ct=g" style="width:'50%'"/></div>
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBTm9hUmVwbyUzQSUzQU5vYW96ZXI%3D%2Fda51ca6d-f8e5-49a5-80e8-ccf4fd850875.png?alt=media&token=81cea1a8-7204-444b-ad98-6d12e0d7ae9a" style="width:'50%'"/></div>
 
 <br/>
 
