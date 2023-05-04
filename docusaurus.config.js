@@ -9,7 +9,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
   projectName: 'skynet', // Usually your repo name.
-  themeConfig: {
+  themeConfigg: {
       logo: {
         alt: 'Swimm',
         src: 'https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e',
