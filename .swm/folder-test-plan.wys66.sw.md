@@ -26,9 +26,8 @@ Dev local/Staging, variable workspaces
 *   Performing QA tests in a continuous interface with the development team (Orbit) and fixing bugs on an ongoing basis
 
 *   Receiving rejections from UX/PM and fixing them until the next version is released
-<br/>
 
-<br/>
+    <br/>
 
 **Software Test Plan**
 
@@ -48,29 +47,47 @@ Creating Folders:
 
 Folder Functionality:
 
-1.  Folder ellipsis functionality - rename/delete/move to folder - **Saar** - What about get shareable link? and pin?
+1.  Folder ellipsis functionality - rename/delete/move to folder
 
-2.  Documents in the folder are displayed correctly
+2.  Pin playlists inside folders
 
-3.  batch commit to all documents in the folder
+3.  Documents in the folder are displayed correctly
 
-4.  batch commit to some of the documents in the folder
+4.  batch commit to all documents in the folder
 
-5.  discard documents that are in the folder
+5.  batch commit to some of the documents in the folder
+
+6.  discard documents that are in the folder
+
+7.  Drafts docs/playlists saves as part of the folder
+
+8.  Combine drafts and committed docs/playlists as part of the folder
+
+9.  In the same folder commit doc/playlist from different branches
+
+10.  In the same folder saves drafts doc/playlist from different branches
+
+11.  Combine drafts and committed docs/playlists as part of from different branches the same folder
+
+*    
 
 Move to folder:
 
 1.  Move to folder hub modle
 
-2.  Relocate documents/playlists/subfolders into a folder through ellipsis
+2.  create new folder
 
-3.  Relocate documents/playlists/subfolders outside the folder
+3.  Relocate documents/playlists/subfolders into a folder through ellipsis
 
-4.  Relocate documents/playlists/subfolders to different folder
+4.  Relocate documents/playlists/subfolders outside the folder
 
-5.  Drag&Drop functionality
+5.  Relocate documents/playlists/subfolders to different folder
 
-6.  Batch action - check box functionality (move&deldte)
+6.  Drag&Drop functionality \*not yet
+
+7.  Batch action - check box functionality (move)
+
+8.  ellipsis next to share - doc
 
 Display:
 
@@ -80,31 +97,27 @@ Display:
 
 3.  Folder view switch - and back to Repo
 
-4.  Filter: Folders
+4.  Filter: Folders - folders
 
-5.  Search Folders
+5.  Search subfolders/docs and playlists in a folder
 
-6.  Search subfolders/docs and playlists in a folder
+6.  Editor anatomy - hover, select a folder, move to folder hub model
 
-7.  Recent events (Admin view) - folders user events
+7.  Change order using - Name, Status, Author, Last Modified
 
-8.  Editor anatomy - hover, select a folder, move to folder hub model
-
-9.  Change order using - Name, Status, Author, Last Modified
-<br/>
-
+    <br/>
 *   User Interface - Compatibility tests
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
 
 2.  Compatibility tests (icon sizes, locations, etc.)
-<br/>
 
+    <br/>
 *   User Experience - Usability tests
 1.  Intuitive buttons
 
 2.  Easy to use and understand
-<br/>
 
+    <br/>
 *   Destructive - Edge cases
 1.  Error messages
 
@@ -116,8 +129,13 @@ Display:
 
 5.  Move outdated documents and local draft into the folder
 
-<br/>
+6.  Delete folder with docs/playlist/sub folders that are committed to different branche
 
+7.  Delete folder with docs/playlist/sub folders that are committed to different branches
+
+8.  Delete folder with docs/playlist/sub folders that are committed to different branches
+
+9.  demo repo - without folders
 *   Sanity test
 1.  Repo page - Sections
 
@@ -136,32 +154,21 @@ Display:
 1.  After QA testing session and the bug fixes an additional session will be conducted that will include regression testing in order to make sure that fixing a bug did not create a new bug
 
 2.  The tests will be written later according to the results of the first round
-<br/>
 
+    <br/>
 *   Automated
 1.  **Saar -** Do you plan to write automated tests? Saw you have E2E ticket
-<br/>
 
+    <br/>
 *   Security Test - Folders Analytics
 1.  The events sent do not contain sensitive information
+
+    <br/>
 <br/>
 
 <br/>
 
 <br/>
-
-**Software Teat Design:**
-
-1.  add new Folder - **Saar** only through Repo page? why it's not part of creation hub model?
-
-2.  Add Users different Icon
-<br/>
-
-<br/>
-
-<br/>
-
-**Software Test Report**
 
 <br/>
 
