@@ -69,8 +69,6 @@ Folder Functionality:
 
 11.  Combine drafts and committed docs/playlists as part of from different branches the same folder
 
-*    
-
 Move to folder:
 
 1.  Move to folder hub modle
@@ -142,14 +140,16 @@ Display:
 2.  Doc flow
 
 3.  Editor flow
-<br/>
 
+    <br/>
 *   Performance
 1.  Measuring time for changing a branch - verify the distribution of changed documents and a list of documents
 
 2.  Measuring time for batch commit to all documents in the folder
 
 3.  Measuring time for moving a lot of documents/playlist/folder to a folder
+
+4.  Measuring time for deleting a folder with lot of documents/playlist/folder
 *   Regression - 2nd QA round
 1.  After QA testing session and the bug fixes an additional session will be conducted that will include regression testing in order to make sure that fixing a bug did not create a new bug
 
@@ -164,8 +164,6 @@ Display:
 1.  The events sent do not contain sensitive information
 
     <br/>
-<br/>
-
 <br/>
 
 <br/>
