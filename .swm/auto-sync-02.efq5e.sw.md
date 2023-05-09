@@ -10,12 +10,12 @@ snippet `dirName`<swm-token data-swm-token=":sidebars.js:14:14:14:`  tutorialSid
 ### 📄 docs/welcome.md
 ```markdown
 8      52
-9      int Xx = noa ozer
+9      int Xx = noa auto suncable ozer
 ```
 
 <br/>
 
-`noa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = noa ozer`"/>
+<br/>
 
 <br/>
 
@@ -23,13 +23,13 @@ snippet `dirName`<swm-token data-swm-token=":sidebars.js:14:14:14:`  tutorialSid
 ```mermaid
 graph TD
 A[Christmas] -->|Get money| B(Go shopping)
-B --> C{`noa`}
+B --> C{}
 C -->|One| D[Laptop]
 C -->|Two| E[iPhone]
 C -->|Three| F[fa:fa-car Car]
 
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{`noa`<swm-token data-swm-token=\":docs/welcome.md:9:6:6:`int Xx = noa ozer`\"/>}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
 
 <br/>
 
