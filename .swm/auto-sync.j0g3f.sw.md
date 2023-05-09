@@ -5,19 +5,6 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet 1
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-2      slug: /
-3      
-4      Use the sidebar to navigate between docs or use the search bar on the topbar.
-5      
-6      
-```
-
-<br/>
-
 snippet 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
