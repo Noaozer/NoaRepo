@@ -1,6 +1,6 @@
 ---
 id: efq5e
-title: "Auto Sync "
+title: Auto Sync - 0.2
 file_version: 1.1.2
 app_version: 1.8.0
 ---
@@ -9,15 +9,12 @@ WELCOMESSSSS
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-2      slug: /
-3      sidebar_position: 1
 4      ---
 5      
 6      # Welcome
-7      
+7      #NOA
 8      Use the sidebar to navigate between docs or use the search bar on the topbar.
 9      
-10     
 ```
 
 <br/>
