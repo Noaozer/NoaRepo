@@ -5,17 +5,19 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet `noa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = noa auto suncable ozer`"/>
+snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
 8      52
-9      int Xx = noa auto suncable ozer
+9      int Xx = noa1010202  ozer auto suncable 
 ```
 
 <br/>
 
-`noa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = noa auto suncable ozer`"/>
+bhnbjun
+
+<br/>
 
 noaoaaa
 
