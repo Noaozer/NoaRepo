@@ -5,7 +5,19 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-<br/>
+snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/css/custom.css
+```css
+1      /* stylelint-disable docusaurus/copyright-header */
+2      /**
+3      /* You can override the default Infima variables here. */
+4      
+5      
+6      }
+7      
+8      
+```
 
 <br/>
 
