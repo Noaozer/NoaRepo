@@ -9,9 +9,9 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-2      ver
-3      vre
-4      vre4
+8      5
+9      noa
+10     
 ```
 
 <br/>
