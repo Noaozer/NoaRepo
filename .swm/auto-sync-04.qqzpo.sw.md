@@ -9,28 +9,13 @@ snippet 1 - welcome
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-1      Hello it's noa
-2      
-3      it's a QA test session 
 4      Hello it's noa
 5      
-6      
-7      
-8      it's a QA test session 
-9      Hello it's noa
+6      it's a QA test session 
+7      Hello it's noa
+8      
+9      it's a QA test session 
 10     
-11     it's a QA test session 
-12     Hello it's noa
-13     
-14     
-15     
-16     it's a QA test session 
-17     Hello it's noa
-18     
-19     it's a QA test session 
-20     Hello it's noa
-21     
-22     it's a QA test session 
 ```
 
 <br/>
@@ -41,10 +26,10 @@ snippet 2 - CSS
 ```css
 2      /**
 3      /* You can override the default Infima variables here. */
-4      
-5      
-6      }
-7      
+4       heyyyyyyy
+5      heyyyyyy
+6      
+7      }
 8      
 ```
 
@@ -84,8 +69,6 @@ snippet 4 - git ignore
 <br/>
 
 `noa`<swm-token data-swm-token=":docs/welcome.md:1:6:6:`Hello it&#39;s noa`"/>
-
-<br/>
 
 <br/>
 
