@@ -20,37 +20,15 @@ snippet 1
 
 <br/>
 
+hey - draftttt
+
+<br/>
+
 snippet 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-5      it's a QA test session 
-6      
-7      
-8      it's a QA test session 
-9      
-```
-
-<br/>
-
-snippet 3
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-5      it's a QA test session 
-6      
-7      
-8      it's a QA test session 
-9      
-```
-
-<br/>
-
-snippet 4
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-3      it's a QA test session 5
+2      ver
 ```
 
 <br/>
@@ -66,6 +44,16 @@ snippet 6
 5      
 6      
 7      }
+```
+
+<br/>
+
+snippets
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/welcome.md
+```markdown
+3      vre
+4      vre4
 ```
 
 <br/>
