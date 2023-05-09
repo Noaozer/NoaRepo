@@ -10,7 +10,7 @@ snippet `dirName`<swm-token data-swm-token=":sidebars.js:14:14:14:`  tutorialSid
 ### 📄 docs/welcome.md
 ```markdown
 8      52
-9      int Xx = noaaaa
+9      int Xx = noa ozer
 ```
 
 <br/>
@@ -23,14 +23,13 @@ bhjbhbj
 ```mermaid
 graph TD
 A[Christmas] -->|Get money| B(Go shopping)
-B --> C{`noaaaa`}
+B --> C{`noa`}
 C -->|One| D[Laptop]
 C -->|Two| E[iPhone]
 C -->|Three| F[fa:fa-car Car]
 
-
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{`noaaaa`<swm-token data-swm-token=\":docs/welcome.md:9:6:6:`int Xx = noaaaa`\"/>}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{`noa`<swm-token data-swm-token=\":docs/welcome.md:9:6:6:`int Xx = noa ozer`\"/>}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n<br/>"} --->
 
 <br/>
 
