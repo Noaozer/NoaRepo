@@ -5,19 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet 1
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-3      it's a QA test session 
-4      Hello it's noa
-5      
-6      it's a QA test session 
-7      
-8      
-9      it's a QA test session 
-10     
-```
+let's check is we can commit without fix the snippets
 
 <br/>
 
@@ -25,9 +13,7 @@ snippet 2 - welcome
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-1      Hello it's noa
-2      
-3      it's a QA test session 
+4      vre4
 ```
 
 <br/>
