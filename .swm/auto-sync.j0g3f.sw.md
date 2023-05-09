@@ -25,12 +25,20 @@ snippet 1 - Auto syncable
 
 <br/>
 
-snippet 2 - outdated
+snippet 2 - Auto syncable
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-24       display: block;
-25       margin: 0 calc(-1 * var(--ifm-pre-padding));
+20     yes
+21     of
+22       background-color: rgb(72, 77, 91);
+23       
+24     
+25         noadisplay: block;
+26       margin: 0 calc(-1 * var(--ifm-pre-padding));
+27       padding: 0 var(--ifm-pre-padding);
+28     }
+29     
 ```
 
 <br/>
