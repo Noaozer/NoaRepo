@@ -16,11 +16,8 @@ snippet 1 - Auto syncable
 12       --ifm-color-primary-darker: rgb(31, 165, 136);
 13       --ifm-color-primary-darkest: rgb(26, 136, 112);
 14       --ifm-color-primary-light: rgb(70, 203, 174);
-15       --ifm-color-primary-lighter: rgb(102, 212, 189);
-16       --ifm-color-primary-lightest: rgb(146, 224, 208);
-17       --ifm-code-font-size: 95%;
-18     }
-19     
+15     
+16     }
 ```
 
 <br/>
@@ -29,13 +26,10 @@ snippet 2 - Auto syncable
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-12       --ifm-color-primary-darker: rgb(31, 165, 136);
-13       --ifm-color-primary-darkest: rgb(26, 136, 112);
-14       --ifm-color-primary-light: rgb(70, 203, 174);
-15       --ifm-color-primary-lighter: rgb(102, 212, 189);
-16       --ifm-color-primary-lightest: rgb(146, 224, 208);
-17       --ifm-code-font-size: 95%;
-18     }
+3       * Any CSS included here will be global. The classic template
+4       * bundles Infima by default. Infima is a CSS framework designed to
+5       * work well for content-centric websites.
+6       */
 ```
 
 <br/>
