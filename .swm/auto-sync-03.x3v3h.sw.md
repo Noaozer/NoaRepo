@@ -26,40 +26,33 @@ snippet 1
 15       margin: 0 calc(-1 * var(--ifm-pre-padding));
 16     
 17     
-18     
-19     
-20     
-21     
-22      noa
-23     vmfdk
-24       padding: 0 var(--ifm-pre-padding);
-25     }noa ozer display: block;
-26     vmfdk
-27       margin: 0 calc(-1 * var(--ifm-pre-padding));
-28       padding: 0 var(--ifm-pre-padding);
-29     vmfdk
-30     
-31     
-32     
+18     vmfdk
+19       padding: 0 var(--ifm-pre-padding);
+20     }noa ozer display: block;
+21     vmfdk
+22       margin: 0 calc(-1 * var(--ifm-pre-padding));
+23       padding: 0 var(--ifm-pre-padding);
+24     vmfdk
+25     
+26     
+27     
+28     }noa ozer display: block;
+29       margin: 0 calc(-1 * var(--ifm-pre-padding));
+30       padvmfdkding: 0 var(--ifm-pre-padding);
+31     vmfdk
+32     }noa ozer display: block;
 33     
 34     
-35     noa noa
-36     
-37     
-38     
-39     
-40     }noa ozer display: block;
-41       margin: 0 calc(-1 * var(--ifm-pre-padding));
-42       padvmfdkding: 0 var(--ifm-pre-padding);
-43     vmfdk
-44     }noa ozer display: block;
-45     
-46     
-47     
-48     noa.  
-49       margin: 0 calc(-1 * var(--ifm-pre-padding));
-50       padding:vmfdk 0 var(--ifm-pre-padding);
-51     }
+35     
+36     noa.  
+37       margin: 0 calc(-1 * var(--ifm-pre-padding));
+38       padding:vmfdk 0 var(--ifm-pre-padding);
+39     }
+40       noa ozer display: block;
+41       margin: 0 calvmfdkc(-1 * var(--ifm-pre-padding));
+42       padding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);
+43     }vmfdk
+44     
 ```
 
 <br/>
