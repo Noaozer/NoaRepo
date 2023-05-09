@@ -11,7 +11,6 @@ snippets `custom`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`      
 ```markdown
 8      52
 9      int X = noa
-10     noa
 ```
 
 <br/>
