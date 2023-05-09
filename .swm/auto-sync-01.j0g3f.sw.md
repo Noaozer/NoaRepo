@@ -47,9 +47,7 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 
 `name`<swm-token data-swm-token=":docusaurus.config.js:11:17:17:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
 
-`📄 docs/Noa`
-
-<br/>
+`📄 docs/Noaozer`
 
 `📄 docs/welcome.md`
 
