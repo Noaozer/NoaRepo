@@ -47,13 +47,11 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 
 `name`<swm-token data-swm-token=":docusaurus.config.js:11:17:17:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
 
+[[sym:./docs/noa path test(5d9413c1-06f5-4945-a320-b50130c6985b)]]
+
 `📄 docs/welcome.md`
 
 `📄 static/.nojekyll`
-
-[[sym:./docs/noa path test(5d9413c1-06f5-4945-a320-b50130c6985b)]]
-
-<br/>
 
 <br/>
 
