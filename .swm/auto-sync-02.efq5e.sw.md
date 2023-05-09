@@ -15,7 +15,7 @@ snippet `dirName`<swm-token data-swm-token=":sidebars.js:14:14:14:`  tutorialSid
 
 <br/>
 
-jhbyugbyugpyugh
+`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`        theme: {`"/>
 
 <br/>
 
