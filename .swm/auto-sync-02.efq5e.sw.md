@@ -12,10 +12,12 @@ WELCOMESSSSS
 4      ---
 5      
 6      # Welcome
-7      #NOA
-8      Use the sidebar to navigate between docs or use the search bar on the topbar.
-9      
+7      Use the sidebar to navigate between docs or use the search bar on the topbar.
 ```
+
+<br/>
+
+NOA 0.2
 
 <br/>
 
