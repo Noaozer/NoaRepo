@@ -25,7 +25,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
         },
-   : {
+   theme: {
    : require.resolve('./src/css/custom.css'),
         },
       },
