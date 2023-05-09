@@ -28,8 +28,6 @@ snippet 1 - Auto syncable
 snippet 2 - outdated
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
-<!-- collapsed -->
-
 ```css
 24       display: block;
 25       margin: 0 calc(-1 * var(--ifm-pre-padding));
