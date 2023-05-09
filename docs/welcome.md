@@ -1,11 +1,12 @@
 vrenj
 
 4
-int X = noa
+
 
 
 
 52
+int X = noa
 noa
 
 
