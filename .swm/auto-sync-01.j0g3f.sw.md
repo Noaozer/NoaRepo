@@ -9,16 +9,6 @@ vgvhybvh
 
 <br/>
 
-snippets `custom5645m`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          custom5645m: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-8      52
-9      int Xx = noaaaa
-```
-
-<br/>
-
 snippet 1 `classic`<swm-token data-swm-token=":docusaurus.config.js:22:7:7:`      &#39;@docusaurus/preset-classic&#39;,`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
