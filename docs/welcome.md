@@ -6,7 +6,7 @@ vrenj
 
 
 52
-int Xx = noa ozer
+int Xx = noa auto suncable ozer
 noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv
 
 
