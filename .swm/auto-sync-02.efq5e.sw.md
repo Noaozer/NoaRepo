@@ -22,7 +22,15 @@ WELCOMESSSSS - 0.2
 13       
 14     noa ozer display: block;
 15       margin: 0 calc(-1 * var(--ifm-pre-padding));
-16       padding: 0 var(--ifm-pre-padding);
+16     
+17     
+18     
+19     
+20     
+21     
+22      noa
+23     vmfdk
+24       padding: 0 var(--ifm-pre-padding);
 ```
 
 <br/>
