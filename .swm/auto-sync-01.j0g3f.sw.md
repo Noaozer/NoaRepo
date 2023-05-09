@@ -47,6 +47,10 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 
 `name`<swm-token data-swm-token=":docusaurus.config.js:11:17:17:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
 
+`📄 src/components/.gitkeep`
+
+[[sym:./docs/noa path test(e83bfcb6-390b-4fbd-8bf2-2ee74cffccf2)]]
+
 `Built`<swm-token data-swm-token=":docusaurus.config.js:4:5:5:`  tagline: &#39;Built With Docusaurus&#39;,`"/>
 
 <br/>
