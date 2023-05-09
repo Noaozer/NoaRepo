@@ -19,10 +19,12 @@
 
 yes
 of
+if
+and
   background-color: rgb(72, 77, 91);
   
 
-    noadisplay: block;
+  noa ozer display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
