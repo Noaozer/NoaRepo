@@ -5,17 +5,18 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippets
+snippets `customCss`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          customCss: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
 8      52
-9      noa
+9      int X = noa
+10     noa
 ```
 
 <br/>
 
-snippet 1
+snippet 1 `com`<swm-token data-swm-token=":docusaurus.config.js:16:11:11:`        src: &#39;https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&amp;token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e&#39;,`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
