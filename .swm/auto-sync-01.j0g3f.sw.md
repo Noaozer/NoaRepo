@@ -24,13 +24,11 @@ snippet 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-3      it's a QA test session 
-4      Hello it's noa
-5      
-6      it's a QA test session 
+5      it's a QA test session 
+6      
 7      
-8      
-9      it's a QA test session 
+8      it's a QA test session 
+9      
 ```
 
 <br/>
@@ -39,13 +37,11 @@ snippet 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-3      it's a QA test session 
-4      Hello it's noa
-5      
-6      it's a QA test session 
+5      it's a QA test session 
+6      
 7      
-8      
-9      it's a QA test session 
+8      it's a QA test session 
+9      
 ```
 
 <br/>
@@ -54,12 +50,7 @@ snippet 4
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-18     
-19     it's a QA test session 
-20     Hello it's noa
-21     
-22     it's a QA test session 
-23     
+3      it's a QA test session 5
 ```
 
 <br/>
