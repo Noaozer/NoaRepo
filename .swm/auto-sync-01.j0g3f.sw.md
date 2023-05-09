@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippets `customCss`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          customCss: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
+snippets `custom`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          custom: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
