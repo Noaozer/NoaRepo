@@ -7,14 +7,16 @@ app_version: 1.8.0
 
 snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
-3      /* You can override the default Infima variables here. */
-4       heyyyyyyy
-5      
-6      
-7      }
+### 📄 docs/welcome.md
+```markdown
+2      ver
+3      vre
+4      vre4
 ```
+
+<br/>
+
+jhbyugbyugpyugh
 
 <br/>
 
