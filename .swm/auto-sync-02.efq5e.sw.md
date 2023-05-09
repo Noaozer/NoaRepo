@@ -20,10 +20,9 @@ WELCOMESSSSS - 0.2
 11     and
 12       background-color: rgb(72, 77, 91);
 13       
-14     
-15       noa ozer display: block;
-16       margin: 0 calc(-1 * var(--ifm-pre-padding));
-17       padding: 0 var(--ifm-pre-padding);
+14     noa ozer display: block;
+15       margin: 0 calc(-1 * var(--ifm-pre-padding));
+16       padding: 0 var(--ifm-pre-padding);
 ```
 
 <br/>

@@ -22,12 +22,19 @@ snippet 1
 11     and
 12       background-color: rgb(72, 77, 91);
 13       
-14     
-15       noa ozer display: block;
-16       margin: 0 calc(-1 * var(--ifm-pre-padding));
-17       padding: 0 var(--ifm-pre-padding);
-18     }
-19     
+14     noa ozer display: block;
+15       margin: 0 calc(-1 * var(--ifm-pre-padding));
+16       padding: 0 var(--ifm-pre-padding);
+17     }noa ozer display: block;
+18       margin: 0 calc(-1 * var(--ifm-pre-padding));
+19       padding: 0 var(--ifm-pre-padding);
+20     }noa ozer display: block;
+21       margin: 0 calc(-1 * var(--ifm-pre-padding));
+22       padding: 0 var(--ifm-pre-padding);
+23     }noa ozer display: block;
+24       margin: 0 calc(-1 * var(--ifm-pre-padding));
+25       padding: 0 var(--ifm-pre-padding);
+26     }
 ```
 
 <br/>
@@ -37,8 +44,8 @@ snippet 2 - welcome
 ### 📄 docs/welcome.md
 ```markdown
 1      Hello it's noa
-2      it's a QA test session 
-3      
+2      
+3      it's a QA test session 
 ```
 
 <br/>
