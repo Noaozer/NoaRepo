@@ -16,14 +16,7 @@ snippet 1
 5      
 6      }
 7      
-8      yes
-9      of
-10     if
-11     and
-12       background-color: rgb(72, 77, 91);
-13       
-14     noa ozer display: block;
-15       margin: 0 calc(-1 * var(--ifm-pre-padding));
+8      
 ```
 
 <br/>
@@ -72,30 +65,6 @@ snippet 4
 
 <br/>
 
-snippet 5
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
-21     vmfdk
-22       margin: 0 calc(-1 * var(--ifm-pre-padding));
-23       padding: 0 var(--ifm-pre-padding);
-24     vmfdk
-25     
-26     
-27     
-28     }noa ozer display: block;
-29       margin: 0 calc(-1 * var(--ifm-pre-padding));
-30       padvmfdkding: 0 var(--ifm-pre-padding);
-31     vmfdk
-32     }noa ozer display: block;
-33     
-34     
-35     
-36     noa.  
-```
-
-<br/>
-
 snippet 6
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
@@ -107,43 +76,7 @@ snippet 6
 5      
 6      }
 7      
-8      yes
-9      of
-10     if
-11     and
-12       background-color: rgb(72, 77, 91);
-13       
-14     noa ozer display: block;
-15       margin: 0 calc(-1 * var(--ifm-pre-padding));
-16     
-17     
-18     vmfdk
-19       padding: 0 var(--ifm-pre-padding);
-20     }noa ozer display: block;
-21     vmfdk
-22       margin: 0 calc(-1 * var(--ifm-pre-padding));
-23       padding: 0 var(--ifm-pre-padding);
-24     vmfdk
-25     
-26     
-27     
-28     }noa ozer display: block;
-29       margin: 0 calc(-1 * var(--ifm-pre-padding));
-30       padvmfdkding: 0 var(--ifm-pre-padding);
-31     vmfdk
-32     }noa ozer display: block;
-33     
-34     
-35     
-36     noa.  
-37       margin: 0 calc(-1 * var(--ifm-pre-padding));
-38       padding:vmfdk 0 var(--ifm-pre-padding);
-39     }
-40       noa ozer display: block;
-41       margin: 0 calvmfdkc(-1 * var(--ifm-pre-padding));
-42       padding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);
-43     }vmfdk
-44     
+8      
 ```
 
 <br/>
