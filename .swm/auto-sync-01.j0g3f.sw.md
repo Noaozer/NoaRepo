@@ -13,10 +13,9 @@ snippet 1
 2      /**
 3      /* You can override the default Infima variables here. */
 4       heyyyyyyy
-5      heyyyyyy
+5      
 6      
 7      }
-8      
 ```
 
 <br/>
@@ -25,13 +24,13 @@ snippet 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-16     it's a QA test session 
-17     Hello it's noa
-18     
-19     it's a QA test session 
-20     Hello it's noa
-21     
-22     it's a QA test session 
+3      it's a QA test session 
+4      Hello it's noa
+5      
+6      it's a QA test session 
+7      
+8      
+9      it's a QA test session 
 ```
 
 <br/>
@@ -40,13 +39,13 @@ snippet 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-16     it's a QA test session 
-17     Hello it's noa
-18     
-19     it's a QA test session 
-20     Hello it's noa
-21     
-22     it's a QA test session 
+3      it's a QA test session 
+4      Hello it's noa
+5      
+6      it's a QA test session 
+7      
+8      
+9      it's a QA test session 
 ```
 
 <br/>
@@ -73,10 +72,9 @@ snippet 6
 2      /**
 3      /* You can override the default Infima variables here. */
 4       heyyyyyyy
-5      heyyyyyy
+5      
 6      
 7      }
-8      
 ```
 
 <br/>
