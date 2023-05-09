@@ -5,22 +5,25 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-WELCOMESSSSS
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-3      
-4      Use the sidebar to navigate between docs or use the search bar on the topbar.
-```
-
-<br/>
-
 WELCOMESSSSS - 0.2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-1      ---
-2      slug: /
+### 📄 src/css/custom.css
+```css
+3      /* You can override the default Infima variables here. */
+4      
+5      
+6      }
+7      
+8      yes
+9      of
+10     if
+11     and
+12       background-color: rgb(72, 77, 91);
+13       
+14     
+15       noa ozer display: block;
+16       margin: 0 calc(-1 * var(--ifm-pre-padding));
+17       padding: 0 var(--ifm-pre-padding);
 ```
 
 <br/>
