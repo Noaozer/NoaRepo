@@ -29,16 +29,13 @@ snippet 2 - Auto syncable
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-20     yes
-21     of
-22       background-color: rgb(72, 77, 91);
-23       
-24     
-25         noadisplay: block;
-26       margin: 0 calc(-1 * var(--ifm-pre-padding));
-27       padding: 0 var(--ifm-pre-padding);
-28     }
-29     
+12       --ifm-color-primary-darker: rgb(31, 165, 136);
+13       --ifm-color-primary-darkest: rgb(26, 136, 112);
+14       --ifm-color-primary-light: rgb(70, 203, 174);
+15       --ifm-color-primary-lighter: rgb(102, 212, 189);
+16       --ifm-color-primary-lightest: rgb(146, 224, 208);
+17       --ifm-code-font-size: 95%;
+18     }
 ```
 
 <br/>
