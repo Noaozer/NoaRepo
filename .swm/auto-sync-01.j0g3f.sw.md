@@ -34,7 +34,7 @@ hey - draftttt
 
 <br/>
 
-snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`          sidebarPath: require.resolve(&#39;./sidebars.js&#39;),`"/>
+snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`          sidebarPath: require.resolve(&#39;./sidebars.js&#39;),`"/> `custommmmm`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          custommmmm: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
@@ -54,6 +54,10 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 `name`<swm-token data-swm-token=":docusaurus.config.js:11:17:17:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
 
 `Built`<swm-token data-swm-token=":docusaurus.config.js:4:5:5:`  tagline: &#39;Built With Docusaurus&#39;,`"/>
+
+`custommmmm`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`          custommmmm: require.resolve(&#39;./src/css/custom.css&#39;),`"/>
+
+<br/>
 
 <br/>
 
