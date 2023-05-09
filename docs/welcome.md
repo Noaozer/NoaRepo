@@ -6,7 +6,7 @@ vrenj
 
 
 52
-int X = noa
+int X x x x x = noa
 noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv
 
 
