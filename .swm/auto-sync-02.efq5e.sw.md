@@ -11,7 +11,6 @@ snippet `dirName`<swm-token data-swm-token=":sidebars.js:14:14:14:`  tutorialSid
 ```markdown
 8      52
 9      int X = noa
-10     noa
 ```
 
 <br/>
