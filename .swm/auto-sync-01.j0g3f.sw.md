@@ -5,6 +5,17 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
+snippets
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/welcome.md
+```markdown
+8      5
+9      noa
+10     
+```
+
+<br/>
+
 snippet 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
