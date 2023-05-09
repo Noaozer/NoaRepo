@@ -5,20 +5,6 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet 1 - welcome
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-1      Hello it's noa 
-2      
-3      it's a QA test session 
-4      Hello it's noa
-5      
-6      it's a QA test session 
-```
-
-<br/>
-
 snippet 2 - CSS
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
@@ -66,7 +52,7 @@ snippet 4 - git ignore
 
 <br/>
 
-`noa`<swm-token data-swm-token=":docs/welcome.md:1:6:6:`Hello it&#39;s noa`"/>
+<br/>
 
 <br/>
 
