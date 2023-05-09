@@ -9,7 +9,6 @@ snippet 1 - Auto syncable
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-7      
 8      /* You can override the default Infima variables here. */
 9      :root {
 10       --ifm-color-primary: #25c2a0;
@@ -22,7 +21,6 @@ snippet 1 - Auto syncable
 17       --ifm-code-font-size: 95%;
 18     }
 19     
-20     .docusaurus-highlight-code-line {
 ```
 
 <br/>
@@ -30,9 +28,11 @@ snippet 1 - Auto syncable
 snippet 2 - outdated
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
+<!-- collapsed -->
+
 ```css
-22       display: block;
-23       margin: 0 calc(-1 * var(--ifm-pre-padding));
+24       display: block;
+25       margin: 0 calc(-1 * var(--ifm-pre-padding));
 ```
 
 <br/>
