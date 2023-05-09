@@ -24,17 +24,42 @@ snippet 1
 13       
 14     noa ozer display: block;
 15       margin: 0 calc(-1 * var(--ifm-pre-padding));
-16       padding: 0 var(--ifm-pre-padding);
-17     }noa ozer display: block;
-18       margin: 0 calc(-1 * var(--ifm-pre-padding));
-19       padding: 0 var(--ifm-pre-padding);
-20     }noa ozer display: block;
-21       margin: 0 calc(-1 * var(--ifm-pre-padding));
-22       padding: 0 var(--ifm-pre-padding);
-23     }noa ozer display: block;
-24       margin: 0 calc(-1 * var(--ifm-pre-padding));
-25       padding: 0 var(--ifm-pre-padding);
-26     }
+16     
+17     
+18     
+19     
+20     
+21     
+22      noa
+23     vmfdk
+24       padding: 0 var(--ifm-pre-padding);
+25     }noa ozer display: block;
+26     vmfdk
+27       margin: 0 calc(-1 * var(--ifm-pre-padding));
+28       padding: 0 var(--ifm-pre-padding);
+29     vmfdk
+30     
+31     
+32     
+33     
+34     
+35     noa noa
+36     
+37     
+38     
+39     
+40     }noa ozer display: block;
+41       margin: 0 calc(-1 * var(--ifm-pre-padding));
+42       padvmfdkding: 0 var(--ifm-pre-padding);
+43     vmfdk
+44     }noa ozer display: block;
+45     
+46     
+47     
+48     noa.  
+49       margin: 0 calc(-1 * var(--ifm-pre-padding));
+50       padding:vmfdk 0 var(--ifm-pre-padding);
+51     }
 ```
 
 <br/>
