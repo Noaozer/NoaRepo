@@ -49,9 +49,11 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 
 `📄 docs/welcome.md`
 
-[[sym:./docs/noa path test(e83bfcb6-390b-4fbd-8bf2-2ee74cffccf2)]]
-
 `📄 static/.nojekyll`
+
+[[sym:./docs/noa path test(5d9413c1-06f5-4945-a320-b50130c6985b)]]
+
+<br/>
 
 <br/>
 
