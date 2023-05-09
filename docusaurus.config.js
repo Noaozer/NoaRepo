@@ -26,7 +26,7 @@ module.exports = {
           routeBasePath: '/',
         },
         theme: {
-          custommmm45645m: require.resolve('./src/css/custom.css'),
+          custom5645m: require.resolve('./src/css/custom.css'),
         },
       },
     ],
