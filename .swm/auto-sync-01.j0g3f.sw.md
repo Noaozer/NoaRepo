@@ -24,15 +24,6 @@ hey - draftttt
 
 <br/>
 
-snippet 2
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-2      ver
-```
-
-<br/>
-
 snippet 6
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
@@ -44,20 +35,6 @@ snippet 6
 5      
 6      
 7      }
-```
-
-<br/>
-
-snippets
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-9      vre
-10     
-11     
-12     
-13     6
-14     vre4
 ```
 
 <br/>
