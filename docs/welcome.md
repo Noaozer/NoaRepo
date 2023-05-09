@@ -7,7 +7,7 @@ vrenj
 
 52
 int X = noa
-noa
+noooooooaaaaaaa
 
 
 
