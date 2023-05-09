@@ -5,31 +5,39 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet 1 - Auto syncable
+snippet 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
-8      /* You can override the default Infima variables here. */
-9      :root {
-10       --ifm-color-primary: #25c2a0;
-11       --ifm-color-primary-dark: rgb(33, 175, 144);
-12       --ifm-color-primary-darker: rgb(31, 165, 136);
-13       --ifm-color-primary-darkest: rgb(26, 136, 112);
-14       --ifm-color-primary-light: rgb(70, 203, 174);
-15     
-16     }
+### 📄 docs/welcome.md
+```markdown
+2      slug: /
+3      
+4      Use the sidebar to navigate between docs or use the search bar on the topbar.
+5      
+6      
 ```
 
 <br/>
 
-snippet 2 - Auto syncable
+snippet 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-3       * Any CSS included here will be global. The classic template
-4       * bundles Infima by default. Infima is a CSS framework designed to
-5       * work well for content-centric websites.
-6       */
+1      /* stylelint-disable docusaurus/copyright-header */
+2      /**
+3      /* You can override the default Infima variables here. */
+4      
+5      
+6      }
+7      
+8      yes
+9      of
+10     if
+11     and
+12       background-color: rgb(72, 77, 91);
+13       
+14     
+15       noa ozer display: block;
+16       margin: 0 calc(-1 * var(--ifm-pre-padding));
 ```
 
 <br/>
