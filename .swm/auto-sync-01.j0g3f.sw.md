@@ -52,8 +52,12 @@ snippets
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-3      vre
-4      vre4
+9      vre
+10     
+11     
+12     
+13     6
+14     vre4
 ```
 
 <br/>
