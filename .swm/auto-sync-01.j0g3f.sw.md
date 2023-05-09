@@ -16,7 +16,7 @@ snippets `customCss`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`   
 
 <br/>
 
-snippet 1 `com`<swm-token data-swm-token=":docusaurus.config.js:16:11:11:`        src: &#39;https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&amp;token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e&#39;,`"/>
+snippet 1 `classic`<swm-token data-swm-token=":docusaurus.config.js:22:7:7:`      &#39;@docusaurus/preset-classic&#39;,`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
