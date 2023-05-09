@@ -9,13 +9,12 @@ snippet 1 - welcome
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
+1      Hello it's noa 
+2      
+3      it's a QA test session 
 4      Hello it's noa
 5      
 6      it's a QA test session 
-7      Hello it's noa
-8      
-9      it's a QA test session 
-10     
 ```
 
 <br/>
@@ -27,10 +26,9 @@ snippet 2 - CSS
 2      /**
 3      /* You can override the default Infima variables here. */
 4       heyyyyyyy
-5      heyyyyyy
+5      
 6      
 7      }
-8      
 ```
 
 <br/>
