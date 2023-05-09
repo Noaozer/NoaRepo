@@ -15,7 +15,7 @@ snippet `dirName`<swm-token data-swm-token=":sidebars.js:14:14:14:`  tutorialSid
 
 <br/>
 
-bhjbhbj
+`noa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = noa ozer`"/>
 
 <br/>
 
