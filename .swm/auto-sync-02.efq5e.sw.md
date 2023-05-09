@@ -9,15 +9,9 @@ WELCOMESSSSS
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
-4      ---
-5      
-6      # Welcome
-7      Use the sidebar to navigate between docs or use the search bar on the topbar.
+3      
+4      Use the sidebar to navigate between docs or use the search bar on the topbar.
 ```
-
-<br/>
-
-NOA 0.2
 
 <br/>
 
@@ -27,7 +21,6 @@ WELCOMESSSSS - 0.2
 ```markdown
 1      ---
 2      slug: /
-3      sidebar_position: 1
 ```
 
 <br/>
