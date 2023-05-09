@@ -1,7 +1,7 @@
 vrenj
 
 4
-noa
+int X = noa
 
 
 
