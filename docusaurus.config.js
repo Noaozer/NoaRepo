@@ -9,7 +9,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
   projectName: 'skynet', // Usually your repo name.
-  themeConfig: {
+  : {
     navbar: {
       logo: {
         alt: 'Swimm',
