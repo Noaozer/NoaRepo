@@ -24,13 +24,32 @@ WELCOMESSSSS - 0.2
 15       margin: 0 calc(-1 * var(--ifm-pre-padding));
 16     
 17     
-18     
-19     
-20     
-21     
-22      noa
-23     vmfdk
-24       padding: 0 var(--ifm-pre-padding);
+18     vmfdk
+19       padding: 0 var(--ifm-pre-padding);
+20     }noa ozer display: block;
+21     vmfdk
+22       margin: 0 calc(-1 * var(--ifm-pre-padding));
+23       padding: 0 var(--ifm-pre-padding);
+24     vmfdk
+25     
+26     
+27     
+28     }noa ozer display: block;
+29       margin: 0 calc(-1 * var(--ifm-pre-padding));
+30       padvmfdkding: 0 var(--ifm-pre-padding);
+31     vmfdk
+32     }noa ozer display: block;
+33     
+34     
+35     
+36     noa.  
+37       margin: 0 calc(-1 * var(--ifm-pre-padding));
+38       padding:vmfdk 0 var(--ifm-pre-padding);
+39     }
+40       noa ozer display: block;
+41       margin: 0 calvmfdkc(-1 * var(--ifm-pre-padding));
+42       padding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);adding: 0 var(--ifm-pre-padding);
+43     }vmfdk
 ```
 
 <br/>
