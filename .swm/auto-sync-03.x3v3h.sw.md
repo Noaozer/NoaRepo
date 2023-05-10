@@ -5,48 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-Snippet 1 - Noaozer
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/Noaozer
-```
-1      noa
-2      trying 
-```
-
 <br/>
-
-Snippet 2 - Noaozer
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/Noaozer
-```
-3      test 
-4      path
-5      auto sync
-6      
-```
-
-<br/>
-
-Snippet 3 - CSS
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
-1      /* stylelint-disable docusaurus/copyright-header */
-2      /**
-3      /* You can override the default Infima variables here. */
-4       hey
-5      
-6      dhcuqiwehcwequjsvref
-7      vr4ev4
-8      
-9      vrtvrtcrewcw 
-10     it's a fr3vc test34
-11     
-12     
-13     }
-14     
-15     
-```
 
 <br/>
 
