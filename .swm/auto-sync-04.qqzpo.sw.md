@@ -23,11 +23,15 @@ Snippets 2
 
 <br/>
 
+local draft
+
+<br/>
+
 Snippets 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3
+2      line 2
 ```
 
 <br/>
@@ -36,9 +40,11 @@ Snippets 4
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-5      line 5
-6      line 6
-7      
+2      line 2
+3      
+4      
+5       
+6       line 6
 ```
 
 <br/>
