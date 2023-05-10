@@ -5,7 +5,42 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
+snippet 1 - noa auto sync
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+1      line 1
+```
+
 <br/>
+
+snippet 2 - noa auto sync
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+2      line 2
+```
+
+<br/>
+
+snippet 3 - noa auto sync
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+3      line 3
+4      line 4
+```
+
+<br/>
+
+snippet 4 - noa auto sync
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+5      line 5
+6      line 6
+7      
+```
 
 <br/>
 
