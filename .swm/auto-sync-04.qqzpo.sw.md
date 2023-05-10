@@ -11,7 +11,7 @@ local draft
 
 `📄 docs`
 
-`📄 docs/noa_auto_Sync`
+`📄 docs/noa_auto_sync`
 
 `📄 docs/welcome.md`
 
