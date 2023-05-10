@@ -27,6 +27,8 @@ local draft
 
 <br/>
 
+`cskc`<swm-token data-swm-token=":docs/noa_auto_aync:6:0:0:`cskc`"/>
+
 `📄 docs`
 
 `📄 docs/noa_auto_aync`
