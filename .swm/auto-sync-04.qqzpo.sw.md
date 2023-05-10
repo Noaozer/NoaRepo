@@ -9,6 +9,24 @@ cesd ds
 
 local draft
 
+<br/>
+
+`📄 docs/noa_auto_aync` `📄 docs` `cskc`<swm-token data-swm-token=":docs/noa_auto_aync:6:0:0:`cskc`"/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+1      liuuuneeee 1 1 1 1
+2      
+3      
+4      
+5       jekkj 684
+6      cskc
+7      line 7 fnejd
+8      
+```
+
+<br/>
+
 `📄 docs`
 
 `📄 docs/noa_auto_aync`
