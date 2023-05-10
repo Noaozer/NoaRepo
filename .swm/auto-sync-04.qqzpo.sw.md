@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-1
+Snippets 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
@@ -14,7 +14,7 @@ app_version: 1.8.0
 
 <br/>
 
-2
+Snippets 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
@@ -23,7 +23,7 @@ app_version: 1.8.0
 
 <br/>
 
-3
+Snippets 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
@@ -33,7 +33,7 @@ app_version: 1.8.0
 
 <br/>
 
-4
+Snippets 4
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
