@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-<br/>
+local draft
 
 <br/>
 
@@ -31,8 +31,11 @@ Snippets 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-5      line 5
-6      line 6
+2      line 2
+3      
+4      
+5       
+6       line 6
 ```
 
 <br/>
@@ -41,9 +44,11 @@ Snippets 4
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-5      line 5
-6      line 6
-7      
+2      line 2
+3      
+4      
+5       
+6       line 6
 ```
 
 <br/>
