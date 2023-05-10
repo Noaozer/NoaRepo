@@ -5,16 +5,17 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet 2 - CSS
+snippet 2 - CSS reproduce the bug
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
 2      /**
 3      /* You can override the default Infima variables here. */
 4       hey
-5      it's a test
+5      
 6      
 7      
+8      it's a test
 ```
 
 <br/>
