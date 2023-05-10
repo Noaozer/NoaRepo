@@ -11,10 +11,10 @@ snippet 2 - CSS
 ```css
 2      /**
 3      /* You can override the default Infima variables here. */
-4       heyyyyyyy
-5      
+4       hey
+5      it's a test
 6      
-7      }
+7      
 ```
 
 <br/>
