@@ -5,57 +5,13 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-Snippets 1 noa - noa
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-7      line 7
-```
-
-<br/>
-
-Snippets 2
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-6       line 6
-```
-
-<br/>
+cesd
 
 local draft
 
-<br/>
-
-Snippets 3
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      rbherf
-5       jekkj
-6       line 6
-7      line 7
-```
-
-<br/>
-
-Snippets 4
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-3      
-4      rbherf
-5       jekkj
-6       line 6
-7      line 7
-8      
-```
-
-<br/>
-
 `📄 docs`
 
-`📄 docs/noa_auto_aync`
+`📄 docs/noa_auto_Sync`
 
 `📄 docs/welcome.md`
 
