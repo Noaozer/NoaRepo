@@ -5,16 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-let's check is we can commit without fix the snippets
-
 <br/>
-
-snippet 2 - welcome
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-4      vre4
-```
 
 <br/>
 

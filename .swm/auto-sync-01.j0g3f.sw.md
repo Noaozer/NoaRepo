@@ -5,68 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-reproduce the bug,,,,di snkj f
-
 <br/>
-
-snippet 1 `classic`<swm-token data-swm-token=":docusaurus.config.js:22:7:7:`      &#39;@docusaurus/preset-classic&#39;,`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
-1      /* stylelint-disable docusaurus/copyright-header */
-2      /**
-3      /* You can override the default Infima variables here. */
-4       hey
-5      
-6      dhcuqiwehcwequjsvref
-7      vr4ev4
-8      
-9      vrtvrtcrewcw 
-10     it's a fr3vc test34
-11     
-12     
-13     }
-14     
-```
-
-<br/>
-
-hey - draftttt
-
-<br/>
-
-snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`          sidebarPath: require.resolve(&#39;./sidebars.js&#39;),`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/css/custom.css
-```css
-10     it's a fr3vc test34
-11     
-12     
-13     }
-```
-
-<br/>
-
-`name`<swm-token data-swm-token=":docusaurus.config.js:10:21:21:`  organizationName: &#39;Cyberdyne&#39;, // Usually your GitHub org/user name.`"/>
-
-`name`<swm-token data-swm-token=":docusaurus.config.js:11:17:17:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
-
-`📄 docs/Noaozer`
-
-`📄 docs/welcome.md`
-
-`📄 static/.nojekyll`
-
-<br/>
-
-snippet outdated
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-8      52
-9      int Xx = noa1010202  ozer auto suncable 
-10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv
-```
 
 <br/>
 

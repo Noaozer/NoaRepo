@@ -5,25 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-8      52
-9      int Xx = noa1010202  ozer auto suncable 
-```
-
 <br/>
-
-bhnbjun
-
-<br/>
-
-noaoaaa
-
-noaaa
-
-\`
 
 <br/>
 
