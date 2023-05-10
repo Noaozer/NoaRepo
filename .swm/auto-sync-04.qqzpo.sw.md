@@ -9,7 +9,7 @@ Snippets 1 noa - noa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2
+7      line 7
 ```
 
 <br/>
@@ -18,7 +18,7 @@ Snippets 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2
+6       line 6
 ```
 
 <br/>
@@ -31,7 +31,10 @@ Snippets 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2
+4      rbherf
+5       jekkj
+6       line 6
+7      line 7
 ```
 
 <br/>
@@ -40,11 +43,12 @@ Snippets 4
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2
 3      
-4      
-5       
+4      rbherf
+5       jekkj
 6       line 6
+7      line 7
+8      
 ```
 
 <br/>
