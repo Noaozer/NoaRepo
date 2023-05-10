@@ -18,12 +18,15 @@ snippet 1 `classic`<swm-token data-swm-token=":docusaurus.config.js:22:7:7:`    
 3      /* You can override the default Infima variables here. */
 4       hey
 5      
-6      
-7      
-8      it's a test
-9      
-10     
-11     }
+6      dhcuqiwehcwequjsvref
+7      vr4ev4
+8      
+9      vrtvrtcrewcw 
+10     it's a fr3vc test34
+11     
+12     
+13     }
+14     
 ```
 
 <br/>
@@ -36,12 +39,10 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-3      /* You can override the default Infima variables here. */
-4       hey
-5      
-6      
-7      
-8      it's a test
+10     it's a fr3vc test34
+11     
+12     
+13     }
 ```
 
 <br/>
@@ -55,6 +56,17 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 `📄 docs/welcome.md`
 
 `📄 static/.nojekyll`
+
+<br/>
+
+snippet outdated
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/welcome.md
+```markdown
+8      52
+9      int Xx = noa1010202  ozer auto suncable 
+10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv
+```
 
 <br/>
 
