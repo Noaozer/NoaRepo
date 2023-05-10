@@ -13,11 +13,20 @@ local draft
 
 <br/>
 
+snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+1      liuuuneeee 1 1 1 1
+```
+
+<br/>
+
 snippet 1 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2
+6       line 6
 ```
 
 <br/>
@@ -30,7 +39,7 @@ snippet 2 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2
+6       line 6
 ```
 
 <br/>
@@ -49,19 +58,6 @@ snippet 3 - noa auto sync
 <br/>
 
 local draft
-
-<br/>
-
-snippet 4 - noa auto sync
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-2      line 2
-3      
-4      
-5       
-6       line 6
-```
 
 <br/>
 
