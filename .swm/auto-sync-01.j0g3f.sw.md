@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-reproduce the bug
+reproduce the bug,,,,
 
 <br/>
 
@@ -17,10 +17,13 @@ snippet 1 `classic`<swm-token data-swm-token=":docusaurus.config.js:22:7:7:`    
 2      /**
 3      /* You can override the default Infima variables here. */
 4       hey
-5      it's a test
+5      
 6      
 7      
-8      }
+8      it's a test
+9      
+10     
+11     }
 ```
 
 <br/>
@@ -33,14 +36,12 @@ snippet 6 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
 ```css
-1      /* stylelint-disable docusaurus/copyright-header */
-2      /**
 3      /* You can override the default Infima variables here. */
 4       hey
-5      it's a test
+5      
 6      
 7      
-8      }
+8      it's a test
 ```
 
 <br/>
