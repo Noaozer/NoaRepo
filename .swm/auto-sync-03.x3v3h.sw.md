@@ -5,12 +5,24 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
+local draftvlocal draft
+
+local draftlocal draftv
+
+local draft
+
+<br/>
+
 snippet 1 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
 2      line 2
 ```
+
+<br/>
+
+local draft
 
 <br/>
 
@@ -23,12 +35,20 @@ snippet 2 - noa auto sync
 
 <br/>
 
+local draft
+
+<br/>
+
 snippet 3 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      lineee 4 4 4 4 4 4 4 4 4
+7      line 7
 ```
+
+<br/>
+
+local draft
 
 <br/>
 
@@ -36,9 +56,11 @@ snippet 4 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-5      line 5
-6      line 6
-7      
+2      line 2
+3      
+4      
+5       
+6       line 6
 ```
 
 <br/>
