@@ -9,7 +9,7 @@ snippet 1 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      line 1
+2      line 2
 ```
 
 <br/>
@@ -27,8 +27,7 @@ snippet 3 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3
-4      line 4
+4      lineee 4 4 4 4 4 4 4 4 4
 ```
 
 <br/>
