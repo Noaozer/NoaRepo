@@ -63,7 +63,14 @@ snippet 4 - git ignore
 
 <br/>
 
-<br/>
+auto syncable snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/welcome.md
+```markdown
+8      52
+9      int Xx = noa1010202  ozer auto suncable 
+10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv
+```
 
 <br/>
 
