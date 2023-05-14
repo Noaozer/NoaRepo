@@ -1,11 +1,11 @@
 ---
 id: 92mgs
-title: "blank doc "
+title: "draft blank doc "
 file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-create ifcon
+draft
 
 <br/>
 
