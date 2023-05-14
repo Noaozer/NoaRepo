@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-doc in main - edge case folder
+doc in main - edge case folderr
 
 <br/>
 
