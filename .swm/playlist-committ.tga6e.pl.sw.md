@@ -1,6 +1,6 @@
 ---
 id: tga6e
-title: playlist commit
+title: playlist committ
 file_version: 1.1.2
 app_version: 1.8.0
 ---
