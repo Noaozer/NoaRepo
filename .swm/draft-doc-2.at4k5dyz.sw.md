@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-draft doc 2
+draft doc 2 xz
 
 <br/>
 
