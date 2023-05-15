@@ -14,13 +14,12 @@ reselect auto sync snippet
 ### 📄 docs/noa_auto_aync
 ```
 1      liuuuneeee 1 1 1 1
-2      assaf
+2      
 3      
-4      
-5       jekkj 684 assaf
-6      cskcc assaf
-7      line 7  fnejducjhbjkdcv assaf
-8      
+4       jekkj 684 assaf
+5      cskcc assaf
+6      line 7  fnejducjhbjkdcv assaf
+7      
 ```
 
 <br/>
