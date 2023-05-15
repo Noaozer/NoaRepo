@@ -5,28 +5,36 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-cesd ds
-
-local draft
+<br/>
 
 <br/>
 
-`📄 docs/noa_auto_aync` `📄 docs` `cskcc`<swm-token data-swm-token=":docs/noa_auto_aync:6:0:0:`cskcc`"/>
+reselect auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
 1      liuuuneeee 1 1 1 1
-2      
+2      assaf
 3      
 4      
-5       jekkj 684
-6      cskcc
-7      line 7 fnejducjhbjkdcv
+5       jekkj 684 assaf
+6      cskcc assaf
+7      line 7  fnejducjhbjkdcv assaf
+8      
 ```
 
 <br/>
 
-`cskcc`<swm-token data-swm-token=":docs/noa_auto_aync:6:0:0:`cskcc`"/>
+reselect auto sync snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+5       jekkj 684 assaf
+6      cskcc assaf
+7      line 7  fnejducjhbjkdcv assaf
+```
+
+<br/>
 
 `📄 docs`
 
