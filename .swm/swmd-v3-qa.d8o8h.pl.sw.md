@@ -2,12 +2,13 @@
 id: d8o8h
 title: SWMD V3 - QA
 file_version: 1.1.2
-app_version: 1.7.0
+app_version: 1.8.0
 ---
 
 <!-- Steps - Do not remove this comment -->
 1. [Sections](sections.4xwjb.sw.md)
 2. [Milestone 1](milestone-1.lef79.sw.md)
+3. [Milestone 2](milestone-2.c5mvu88t.sw.md)
 
 
 <br/>
