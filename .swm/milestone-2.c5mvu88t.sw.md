@@ -48,15 +48,56 @@ app_version: 1.8.0
 *   Commit the drafts
 
 *   Save to database (How? What code should I use for this?)
+
+    <br/>
+
+**STP**
+
+*   **Doc life cycle**
+1.  Create Draft
+
+2.  Save the doc (Commit)
+
+3.  View mode
+
+4.  Edit mode
+
+5.  Load an existing doc or draft
+
+6.  Repo page drafts
+
+7.  Discard draft
+
+8.  New document
+*   **Doc page**
+
+*   ID & URL
+1.  New Doc ID - URL
+
+2.  Commit Doc ID - URL
+
+3.  Draft Doc ID - ensure that draft ID does not exist, Generate new draft ID and save an empty draft
+
+4.  Navigate Commit Doc - edit mode ID (URL)
+
+5.  Navigate Commit Doc - view mode ID (URL)
+*   **Load**
+1.  if draft exists for `docId`:
+*   load draft
+*   else:
+
+    *   load file (Committed doc) (How? What code should I use for this?)
 <br/>
 
-**STD**
+*   **Commit Doc**
+1.  Commit hub modal
 
-<br/>
+2.  Commit draft
 
-|### Test Case Type             |### Description                                |### Test step                |### Expected Result |### Status|
-|-------------------------------|-----------------------------------------------|-----------------------------|--------------------|----------|
-|functionally/Usability/Security|purpose of the test<br><br>explain the use case|1.  step one<br><br>2.  .....|what should happened|Pass/Fail |
+3.  Batch Commit
+
+4.  Error message - commit (Titles, outdated)
+*   on change - Save the draft
 
 <br/>
 
