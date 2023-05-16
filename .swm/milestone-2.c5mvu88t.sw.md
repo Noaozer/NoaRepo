@@ -70,6 +70,7 @@ app_version: 1.8.0
 
 8.  Repo page drafts - marking, open the drafts
 *   **Doc page**
+
 *   ID & URL
 1.  New Doc ID - URL
 
@@ -100,9 +101,8 @@ app_version: 1.8.0
 1.  Draft on changes: create draft, make changes - load the draft & save the draft
 
 2.  Batch commit - A combination between valid documents and those that cannot be committed (error message, commit button disable)
-<br/>
 
-<br/>
+    <br/>
 
 <br/>
 
