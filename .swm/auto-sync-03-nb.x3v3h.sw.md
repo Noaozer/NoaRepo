@@ -13,7 +13,7 @@ app_version: 1.8.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 41sdwsd
+4      line 41sdwsdddddd
 ```
 
 <br/>
@@ -50,22 +50,9 @@ j
 
 tryjrt
 
-<br/>
-
-grvf
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-1      line 1 1 1 1 1
-```
-
-<br/>
-
 `📄 README.md`
 
 `📄 docs/noa_auto_aync`
-
-<br/>
 
 <br/>
 
