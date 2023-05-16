@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    theme: { `"/>
+`themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
@@ -14,7 +14,7 @@ app_version: 1.8.0
 
 <br/>
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`   theme: {`"/>
+`themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docusaurus.config.js
 ```javascript
@@ -25,7 +25,7 @@ app_version: 1.8.0
 10       organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
 11       projectName: 'skynet', // Usually your repo name.
 12       : {
-13         theme: { 
+13         themee: { 
 14         navbar: {
 15           logo: {
 16             alt: 'Swimm',
@@ -41,13 +41,13 @@ app_version: 1.8.0
 26               sidebarPath: require.resolve('./sidebars.js'),
 27               routeBasePath: '/',
 28             },
-29        theme: {
+29        theme.noa: {
 30        : require.resolve('./src/css/custom.css'),
 31             },
 32           },
 33         ],
 34       ],
-35         theme: 
+35         Noa: 
 36       plugins: [
 37         [
 38           require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -57,50 +57,31 @@ app_version: 1.8.0
 42         ],
 43       ],
 44     };
-45     
 ```
 
 <br/>
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:35:1:1:`    theme: `"/>
-
 <br/>
 
 <br/>
 
 <br/>
 
-<br/>
+`📄 README.md`
 
 <br/>
 
 <br/>
 
-<br/>
+`themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 
 <br/>
 
-<br/>
-
-<br/>
-
-`theme`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    theme: { `"/>
+`themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 
 <br/>
 
 <br/>
-
-<br/>
-
-`theme`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`   theme: {`"/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-`theme`<swm-token data-swm-token=":docusaurus.config.js:35:1:1:`    theme: `"/>
 
 <br/>
 
