@@ -15,7 +15,7 @@ reselect auto sync snippet
 <!-- collapsed -->
 
 ```
-4      line 7  fnejducjhbjkdcv assaf 1
+1      line 1
 ```
 
 <br/>
@@ -26,10 +26,10 @@ reselect auto sync snippet
 <!-- collapsed -->
 
 ```
-1      liuuuneeee 1 11 111 1
-2      assaf 0.2 3 1
-3      hb fb btfg bthngvbgtrgn 0.23 1
-4      line 7  fnejducjhbjkdcv assaf 1
+1      line 1
+2      egvrbhetry
+3      hb
+4      line 7 -  assaf 1
 ```
 
 <br/>
