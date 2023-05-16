@@ -9,7 +9,7 @@ app_version: 1.8.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 41sdwsd
+3      heyyy
 ```
 
 <br/>
@@ -65,21 +65,13 @@ app_version: 1.8.0
 
 <br/>
 
-<br/>
-
 `📄 README.md`
 
 <br/>
 
-<br/>
-
 `themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 
-<br/>
-
 `themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
-
-<br/>
 
 <br/>
 
