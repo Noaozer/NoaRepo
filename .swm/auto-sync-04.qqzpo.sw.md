@@ -36,8 +36,8 @@ edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      2344line 3 3 2344
-4      2344line 7 -  1 1234552344
+3      line 3 3 2344
+4      line 7 -  1 1234552344
 ```
 
 <br/>
