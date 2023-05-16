@@ -21,8 +21,6 @@ local draft dr
 
 <br/>
 
-<br/>
-
 edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
@@ -35,9 +33,15 @@ edit
 <br/>
 
 edit
+
+edit
+
+edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
+1      line 1 1 1 1 1
+2      
 3      
 4      line 41sdwsd
 ```
