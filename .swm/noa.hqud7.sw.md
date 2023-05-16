@@ -5,7 +5,17 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-bh
+<br/>
+
+<br/>
+
+Snippets 1
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+3      
+4      line 41sdwsd
+```
 
 <br/>
 
@@ -13,26 +23,17 @@ Snippets 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      2344line 3 3 2344
-4      2344line 7 -  1 1234552344
+1      line 1 1 1 1 1
 ```
 
 <br/>
 
-Snippets 3
+the same snippet 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      2344line 1 12344
-```
-
-<br/>
-
-Snippets 4
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      2344line 7 -  1 1234552344
+3      
+4      line 41sdwsd
 ```
 
 <br/>
