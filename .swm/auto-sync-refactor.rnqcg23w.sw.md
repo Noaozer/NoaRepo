@@ -5,14 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-edit
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-1      liuuuneeee 1 1 1 1
-2      assaf 
-3      
-```
+<br/>
 
 <br/>
 
