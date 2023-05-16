@@ -12,6 +12,8 @@ app_version: 1.8.0
 reselect auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
+<!-- collapsed -->
+
 ```
 6      line 7  fnejducjhbjkdcv assaf
 7      
