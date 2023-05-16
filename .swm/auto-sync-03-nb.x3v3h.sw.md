@@ -1,11 +1,9 @@
 ---
 id: x3v3h
-title: "Auto Sync 0.3 "
+title: Auto Sync 0.3  nb
 file_version: 1.1.2
 app_version: 1.8.0
 ---
-
-<br/>
 
 <br/>
 
@@ -15,7 +13,7 @@ app_version: 1.8.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 4
+4      line 41
 ```
 
 <br/>
@@ -30,13 +28,9 @@ g
 
 htr
 
-<br/>
-
 hr
 
 ht
-
-<br/>
 
 htr
 
@@ -52,8 +46,6 @@ hj
 
 rj
 
-<br/>
-
 j
 
 tryjrt
@@ -64,7 +56,7 @@ grvf
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2 
+2      line 2 11
 ```
 
 <br/>
@@ -83,19 +75,11 @@ grvf
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
 snippet 3 - noa auto sync `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3 
+4      line 41
 ```
 
 <br/>
