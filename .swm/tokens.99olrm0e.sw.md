@@ -9,7 +9,7 @@ app_version: 1.8.0
 
 <br/>
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`        theme: {`"/>
+`theme` `theme` `docusaurus`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docusaurus.config.js
 ```javascript
@@ -30,11 +30,9 @@ app_version: 1.8.0
 
 <br/>
 
+<br/>
+
 `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`        theme: {`"/>
-
-<br/>
-
-<br/>
 
 `repo`<swm-token data-swm-token=":docusaurus.config.js:11:15:15:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
 
