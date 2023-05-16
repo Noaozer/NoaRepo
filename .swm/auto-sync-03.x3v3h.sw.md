@@ -5,52 +5,102 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-local draftvlocal draft
-
-local draftlocal draftv
-
-local draft
+<br/>
 
 <br/>
 
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
-```
-4      line 7 -  1 1234552344
-```
-
 <br/>
 
-local draft
 
-<br/>
-
-snippet 2 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2 2344
+4      line 4
 ```
 
 <br/>
 
-local draft
+`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
+
+fervfgdrgehtfg
+
+nfgrhtmhjgrhtgh
+
+g
+
+htr
 
 <br/>
 
-snippet 3 - noa auto sync
+hr
+
+ht
+
+<br/>
+
+htr
+
+h
+
+rt
+
+hnrt
+
+hnrt
+
+hj
+
+rj
+
+<br/>
+
+j
+
+tryjrt
+
+<br/>
+
+grvf
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3 3 2344
+2      line 2 
 ```
 
 <br/>
 
-local draft
+`📄 README.md`
+
+`📄 docs/noa_auto_aync`
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+snippet 3 - noa auto sync `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+3      line 3 
+```
+
+<br/>
+
+/
 
 <br/>
 
