@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
   projectName: 'skynet', // Usually your repo name.
   : {
+    theme: { 
     navbar: {
       logo: {
         alt: 'Swimm',
@@ -25,12 +26,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
         },
-   themeeeeee e: {
+   theme: {
    : require.resolve('./src/css/custom.css'),
         },
       },
     ],
   ],
+    theme: 
   plugins: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
