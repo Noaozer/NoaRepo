@@ -10,8 +10,6 @@ edit auto sync
 ### 📄 docs/noa_auto_aync
 ```
 1      liuuuneeee 1 1 1 1
-2      assaf 
-3      
 ```
 
 <br/>
@@ -20,10 +18,9 @@ out dated edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4       jekkj 684 assaf 
-5      cskcc assaf
-6      line 7  fnejducjhbjkdcv assaf
-7      
+2      assaf 0.2 
+3      hb fb btfg bthngvbgtrgn 
+4      line 7  fnejducjhbjkdcv assaf
 ```
 
 <br/>
