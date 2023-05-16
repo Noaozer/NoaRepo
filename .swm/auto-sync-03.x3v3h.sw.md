@@ -19,7 +19,7 @@ snippet
 <!-- collapsed -->
 
 ```
-4      2344line 7 -  1 1234552344
+4      line 7 -  1 1234552344
 ```
 
 <br/>
@@ -31,10 +31,8 @@ local draft
 snippet 2 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
 ```
-2      2344line 2 2344
+2      line 2 2344
 ```
 
 <br/>
@@ -46,10 +44,8 @@ local draft
 snippet 3 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
 ```
-4      2344line 7 -  1 1234552344
+3      line 3 3 2344
 ```
 
 <br/>
