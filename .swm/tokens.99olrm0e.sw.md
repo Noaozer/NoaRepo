@@ -13,7 +13,7 @@ app_version: 1.8.0
 
 <br/>
 
-<br/>
+`indexPages`<swm-token data-swm-token=":docusaurus.config.js:38:1:1:`        indexPages: true,`"/>
 
 `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`        theme: {`"/> `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`        theme: {`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -36,7 +36,7 @@ app_version: 1.8.0
 
 <br/>
 
-<br/>
+`indexPages`<swm-token data-swm-token=":docusaurus.config.js:38:1:1:`        indexPages: true,`"/>
 
 `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`        theme: {`"/>`name`<swm-token data-swm-token=":docusaurus.config.js:11:17:17:`  projectName: &#39;skynet&#39;, // Usually your repo name.`"/>
 
