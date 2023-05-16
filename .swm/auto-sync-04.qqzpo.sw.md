@@ -19,13 +19,15 @@ local draft dr
 
 `📄 src/css` `📄 src/css/custom.css`
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
+<br/>
 
 <br/>
 
 edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/css/custom.css
+<!-- collapsed -->
+
 ```css
 6      dhcuqiwehcwequjsvref
 ```
@@ -36,8 +38,8 @@ edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3 3 2344
-4      line 7 -  1 1234552344
+3      
+4      line 41sdwsd
 ```
 
 <br/>
