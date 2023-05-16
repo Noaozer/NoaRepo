@@ -17,7 +17,7 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 7 -  assaf 1
+4      line 7 -  1 123455
 ```
 
 <br/>
@@ -26,7 +26,7 @@ snippet 1 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3
+3      line 3 3 
 ```
 
 <br/>
@@ -39,7 +39,7 @@ snippet 2 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3
+3      line 3 3 
 ```
 
 <br/>
@@ -52,7 +52,7 @@ snippet 3 - noa auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      line 3
+4      line 7 -  1 123455
 ```
 
 <br/>
