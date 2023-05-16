@@ -13,8 +13,7 @@ Snippets 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      
-4      line 41sdwsd
+4      line 41sdwsdd
 ```
 
 <br/>
@@ -23,7 +22,8 @@ Snippets 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      line 1 1 1 1 1
+2      
+3      hey
 ```
 
 <br/>
@@ -32,8 +32,7 @@ the same snippet 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      
-4      line 41sdwsd
+4      line 41sdwsdd
 ```
 
 <br/>
