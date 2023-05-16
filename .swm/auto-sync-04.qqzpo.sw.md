@@ -27,7 +27,7 @@ reselect auto sync snippet
 <!-- collapsed -->
 
 ```
-1      liuuuneeee 1 11 111111
+1      liuuuneeee 1 11 111
 2      assaf 0.2 3
 3      hb fb btfg bthngvbgtrgn 0.23
 4      line 7  fnejducjhbjkdcv assaf
