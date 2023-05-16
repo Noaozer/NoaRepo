@@ -9,20 +9,12 @@ bh
 
 <br/>
 
-Snippets 1 noa - noa
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-6       line 6
-```
-
-<br/>
-
 Snippets 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-6       line 6
+3      2344line 3 3 2344
+4      2344line 7 -  1 1234552344
 ```
 
 <br/>
@@ -31,7 +23,7 @@ Snippets 3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-7      line 7
+1      2344line 1 12344
 ```
 
 <br/>
@@ -40,8 +32,7 @@ Snippets 4
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-7      line 7
-8      
+4      2344line 7 -  1 1234552344
 ```
 
 <br/>
