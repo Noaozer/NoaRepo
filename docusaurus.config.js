@@ -25,7 +25,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
         },
-   themeeeee: {
+   theme: {
    : require.resolve('./src/css/custom.css'),
         },
       },
@@ -35,7 +35,7 @@ module.exports = {
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
-        indexPages: true,
+        is csd: true,
       },
     ],
   ],
