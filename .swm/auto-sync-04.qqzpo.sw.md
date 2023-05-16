@@ -13,11 +13,6 @@ reselect auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      liuuuneeee 1 1 1 1
-2      
-3      
-4       jekkj 684 assaf
-5      cskcc assaf
 6      line 7  fnejducjhbjkdcv assaf
 7      
 ```
@@ -28,9 +23,10 @@ reselect auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-5       jekkj 684 assaf
-6      cskcc assaf
-7      line 7  fnejducjhbjkdcv assaf
+1      liuuuneeee 1 11 111111
+2      assaf 0.2 3
+3      hb fb btfg bthngvbgtrgn 0.23
+4      line 7  fnejducjhbjkdcv assaf
 ```
 
 <br/>
