@@ -1,8 +1,8 @@
 ---
 id: 11cpd
-title: stp sprint 8
+title: stp + std sprint 9
 file_version: 1.1.2
-app_version: 1.7.0
+app_version: 1.8.0
 ---
 
 ### **Ticket - Review Auto-sync improvements**
@@ -82,7 +82,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                |                |                  |
+|<br/>                  |<br/>           |<br/>           |<br/>             |
 |-----------------------|----------------|----------------|------------------|
 |**Type**Functional     |**Priority**High|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>           |<br/>           |<br/>             |
@@ -91,7 +91,8 @@ Section - notice section above :
 
 #### Preconditions
 
-*   document with auto-syncable/outdated items  
+*   document with auto-syncable/outdated items
+<br/>
 
 #### Steps
 
@@ -117,7 +118,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                |                |                  |
+|<br/>                  |<br/>           |<br/>           |<br/>             |
 |-----------------------|----------------|----------------|------------------|
 |**Type**Functional     |**Priority**High|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>           |<br/>           |<br/>             |
@@ -148,7 +149,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                  |                |                  |
+|<br/>                  |<br/>             |<br/>           |<br/>             |
 |-----------------------|------------------|----------------|------------------|
 |**Type**Compatibility  |**Priority**Medium|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>             |<br/>           |<br/>             |
@@ -186,7 +187,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                    |                |                  |
+|<br/>                  |<br/>               |<br/>           |<br/>             |
 |-----------------------|--------------------|----------------|------------------|
 |**Type**Performance    |**Priority**Critical|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>               |<br/>           |<br/>             |
@@ -219,7 +220,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                    |                |                  |
+|<br/>                  |<br/>               |<br/>           |<br/>             |
 |-----------------------|--------------------|----------------|------------------|
 |**Type**Functional     |**Priority**Critical|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>               |<br/>           |<br/>             |
@@ -256,7 +257,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                    |                |                  |
+|<br/>                  |<br/>               |<br/>           |<br/>             |
 |-----------------------|--------------------|----------------|------------------|
 |**Type**Compatibility  |**Priority**Critical|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>               |<br/>           |<br/>             |
@@ -287,7 +288,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                  |                |                  |
+|<br/>                  |<br/>             |<br/>           |<br/>             |
 |-----------------------|------------------|----------------|------------------|
 |**Type**Other          |**Priority**Medium|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>             |<br/>           |<br/>             |
@@ -320,7 +321,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                    |                |                  |
+|<br/>                  |<br/>               |<br/>           |<br/>             |
 |-----------------------|--------------------|----------------|------------------|
 |**Type**Functional     |**Priority**Critical|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>               |<br/>           |<br/>             |
@@ -353,7 +354,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                    |                |                  |
+|<br/>                  |<br/>               |<br/>           |<br/>             |
 |-----------------------|--------------------|----------------|------------------|
 |**Type**Functional     |**Priority**Critical|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>               |<br/>           |<br/>             |
@@ -390,7 +391,7 @@ Section - notice section above :
 
 <br/>
 
-|                       |                |                |                  |
+|<br/>                  |<br/>           |<br/>           |<br/>             |
 |-----------------------|----------------|----------------|------------------|
 |**Type**Functional     |**Priority**High|**Estimate**None|**References**None|
 |**Automation Type**None|<br/>           |<br/>           |<br/>             |
