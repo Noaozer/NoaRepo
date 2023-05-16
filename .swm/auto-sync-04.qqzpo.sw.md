@@ -35,26 +35,9 @@ edit
 edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
 ```
-1      line 1
-2      line 2
-```
-
-<br/>
-
-edit
-
-<!-- empty line --><br/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
-```
-3      line 3
-4      line 7 -  assaf 1
-5      
+3      2344line 3 3 2344
+4      2344line 7 -  1 1234552344
 ```
 
 <br/>
