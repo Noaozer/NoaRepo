@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-### Milestone 2 - road map
+### Commit draft Milestone 2 - road map
 
 *   New Drafts Store for the new format.
 
@@ -54,23 +54,22 @@ app_version: 1.8.0
 **STP**
 
 *   **Doc life cycle**
-1.  Create Draft
+1.  Create Blank doc - create hub modal, from the repo page&homepage
 
-2.  Save the doc (Commit)
+2.  Create Draft - local draft marking, commit button milestone 1 Functionality
 
-3.  View mode
+3.  Commit the doc - UI (color, Sizes), shows the changes that have been made, commit button is enable
 
-4.  Edit mode
+4.  Discard draft
 
-5.  Load an existing doc or draft
+5.  committed doc - View mode (UI adjustments, functionality)
 
-6.  Repo page drafts
+6.  committed doc - Edit mode (UI adjustments, functionality)
 
-7.  Discard draft
+7.  Load an existing doc or draft
 
-8.  New document
+8.  Repo page drafts - marking, open the drafts
 *   **Doc page**
-
 *   ID & URL
 1.  New Doc ID - URL
 
@@ -82,14 +81,10 @@ app_version: 1.8.0
 
 5.  Navigate Commit Doc - view mode ID (URL)
 *   **Load**
-1.  if draft exists for `docId`:
-*   load draft
-*   else:
+1.  exist draft - load draft (check `docId`)
 
-    *   load file (Committed doc) (How? What code should I use for this?)
-<br/>
-
-*   **Commit Doc**
+2.  commit doc - load file (check `docId`)
+*   **Commit action**
 1.  Commit hub modal
 
 2.  Commit draft
@@ -97,7 +92,17 @@ app_version: 1.8.0
 3.  Batch Commit
 
 4.  Error message - commit (Titles, outdated)
-*   on change - Save the draft
+
+5.  Commit X changes - the number change accordingly
+
+6.  Commit button - X changes (the number change accordingly)
+*   **Edge case**
+1.  Draft on changes: create draft, make changes - load the draft & save the draft
+
+2.  Batch commit - A combination between valid documents and those that cannot be committed (error message, commit button disable)
+<br/>
+
+<br/>
 
 <br/>
 
