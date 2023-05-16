@@ -13,12 +13,12 @@ app_version: 1.8.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 41
+4      line 41sdwsd
 ```
 
 <br/>
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
+<br/>
 
 fervfgdrgehtfg
 
@@ -56,12 +56,12 @@ grvf
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      line 2 11
+1      line 1 1 1 1 1
 ```
 
 <br/>
 
-`📄 README.md`
+`📄 READMEeee.md`
 
 `📄 docs/noa_auto_aync`
 
@@ -70,21 +70,6 @@ grvf
 <br/>
 
 <br/>
-
-<br/>
-
-<br/>
-
-snippet 3 - noa auto sync `theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line 41
-```
-
-<br/>
-
-/
 
 <br/>
 
