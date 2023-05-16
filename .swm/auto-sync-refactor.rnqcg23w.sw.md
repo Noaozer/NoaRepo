@@ -8,8 +8,6 @@ app_version: 1.8.0
 edit auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
 ```
 2      assaf 0.2 3
 ```
