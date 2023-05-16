@@ -8,8 +8,10 @@ app_version: 1.8.0
 edit auto sync
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
+<!-- collapsed -->
+
 ```
-2      assaf 0.2 
+2      assaf 0.2 3
 ```
 
 <br/>
@@ -18,8 +20,6 @@ out dated edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      assaf 0.2 
-3      hb fb btfg bthngvbgtrgn 0.2
 4      line 7  fnejducjhbjkdcv assaf
 ```
 
