@@ -5,31 +5,102 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-t
+`theme`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    theme: { `"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-2      2344line 2 2344
+4      line 41sdwsd
 ```
 
 <br/>
 
-`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
-
-`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
-
-`theme`<swm-token data-swm-token=":docusaurus.config.js:28:1:1:`   theme: {`"/>
+`theme`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`   theme: {`"/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docusaurus.config.js
+```javascript
+6        baseUrl: '/',
+7        onBrokenLinks: 'warn',
+8        onBrokenMarkdownLinks: 'warn',
+9        favicon: 'img/favicon.ico',
+10       organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
+11       projectName: 'skynet', // Usually your repo name.
+12       : {
+13         theme: { 
+14         navbar: {
+15           logo: {
+16             alt: 'Swimm',
+17             src: 'https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e',
+18           },
+19         },
+20       },
+21       presets: [
+22         [
+23           '@docusaurus/preset-classic',
+24           {
+25             docs: {
+26               sidebarPath: require.resolve('./sidebars.js'),
+27               routeBasePath: '/',
+28             },
+29        theme: {
+30        : require.resolve('./src/css/custom.css'),
+31             },
+32           },
+33         ],
+34       ],
+35         theme: 
+36       plugins: [
+37         [
+38           require.resolve("@easyops-cn/docusaurus-search-local"),
+39           {
+40             is csd: true,
+41           },
+42         ],
+43       ],
+44     };
+45     
+```
 
 <br/>
 
+`theme`<swm-token data-swm-token=":docusaurus.config.js:35:1:1:`    theme: `"/>
 
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-<!-- collapsed -->
+<br/>
 
-```
-2      2344line 2 2344
-```
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+`theme`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    theme: { `"/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+`theme`<swm-token data-swm-token=":docusaurus.config.js:29:1:1:`   theme: {`"/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+`theme`<swm-token data-swm-token=":docusaurus.config.js:35:1:1:`    theme: `"/>
 
 <br/>
 
