@@ -24,6 +24,8 @@ reselect auto sync snippet
 reselect auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
+<!-- collapsed -->
+
 ```
 1      liuuuneeee 1 11 111111
 2      assaf 0.2 3
