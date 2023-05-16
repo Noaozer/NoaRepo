@@ -25,9 +25,9 @@ local draft dr
 
 edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line 7 -  assaf 1
+### 📄 src/css/custom.css
+```css
+6      dhcuqiwehcwequjsvref
 ```
 
 <br/>
