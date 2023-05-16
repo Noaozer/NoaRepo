@@ -9,7 +9,7 @@ app_version: 1.8.0
 
 <br/>
 
-`theme` `theme` `docusaurus`
+`theme` `theme` `docusaurus`<swm-token data-swm-token=":docusaurus.config.js:36:11:11:`      require.resolve(&quot;@easyops-cn/docusaurus-search-local&quot;),`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docusaurus.config.js
 ```javascript
