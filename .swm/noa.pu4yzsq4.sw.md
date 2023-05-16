@@ -13,9 +13,7 @@ edit
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-4      line 4
-5      line 5
-6      
+4      line 4 4
 ```
 
 <br/>
@@ -30,7 +28,7 @@ edit 0.2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-4      line 4
+4      line 4 4
 ```
 
 <br/>
