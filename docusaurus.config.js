@@ -4,7 +4,7 @@ module.exports = {
   tagline: 'Built With Docusaurus',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
+  on on on on  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
