@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
-snippet 1 `📄 README.md`
+snippet 1 `📄 README.md` `heyyyy`<swm-token data-swm-token=":docs/noa_auto_aync:1:0:0:`heyyyy`"/> `heyyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyyy`"/> `heyyyy`<swm-token data-swm-token=":docs/noa_auto_aync:6:0:0:`heyyyy`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
@@ -24,6 +24,10 @@ snippet 1 - copy `📄 README.md`
 4      line 41sdwsdddddd deff
 5      1 2
 ```
+
+<br/>
+
+`heyyyy`<swm-token data-swm-token=":docs/noa_auto_aync:1:0:0:`heyyyy`"/> `heyyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyyy`"/> `heyyyy`<swm-token data-swm-token=":docs/noa_auto_aync:6:0:0:`heyyyy`"/>
 
 <br/>
 
