@@ -5,6 +5,67 @@ file_version: 1.1.2
 app_version: 1.8.0
 ---
 
+snippet 1 `📄 READMEeee.md`
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+3      heyyy
+4      line 41sdwsdddddd deff
+5      1
+```
+
+<br/>
+
+snippet 1 - copy `📄 READMEeee.md`
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+3      heyyy
+4      line 41sdwsdddddd deff
+5      1
+```
+
+<br/>
+
+snippet 1 - copy x2
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+2      
+3      heyyy
+4      line 41sdwsdddddd deff
+5      1
+6      
+```
+
+<br/>
+
+`heyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyy`"/>
+
+<br/>
+
+`hey`<swm-token data-swm-token=":src/css/custom.css:4:1:1:` hey`"/> `heyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyy`"/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/css/custom.css
+```css
+4       hey
+5      
+6      dhcuqiwehcwequjsvref
+7      vr4ev4
+8      
+9      vrtvrtcrewcw 
+10     it's a fr3vc test34
+11     
+```
+
+<br/>
+
+`heyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyy`"/>
+
+`hey`<swm-token data-swm-token=":src/css/custom.css:4:1:1:` hey`"/>
+
+`📄 READMEeee.md`
+
 <br/>
 
 <br/>
