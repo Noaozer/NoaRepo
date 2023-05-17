@@ -7,13 +7,19 @@ app_version: 1.8.0
 
 <!--MERMAID {width:100}-->
 ```mermaid
-pie title Pets `routeBasePath` adoptedddd by volunteers
-"cat" : 45
-"Cats" : 85
-"Rats" : 15
+journey
+title My working day
+section Go to work
+Make tea: 5: Me
+Go upstairs: 3: Me
+Do work: 1: Me, Cat
+section Go home
+Go downstairs: 5: Me
+Sit down: 3: Me
+
 
 ```
-<!--MCONTENT {content: "pie title Pets `routeBasePath`<swm-token data-swm-token=\":docusaurus.config.js:26:1:1:`          routeBasePath: &#39;/&#39;,`\"/> adoptedddd by volunteers<br/>\n\"cat\" : 45<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15<br/>\n<br/>"} --->
+<!--MCONTENT {content: "journey<br/>\ntitle My working day<br/>\nsection Go to work<br/>\nMake tea: 5: Me<br/>\nGo upstairs: 3: Me<br/>\nDo work: 1: Me, Cat<br/>\nsection Go home<br/>\nGo downstairs: 5: Me<br/>\nSit down: 3: Me<br/>\n\n<br/>"} --->
 
 <br/>
 
