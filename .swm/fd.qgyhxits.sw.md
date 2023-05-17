@@ -7,29 +7,14 @@ app_version: 1.8.0
 
 <!--MERMAID {width:100}-->
 ```mermaid
-classDiagram
-Animal <|-- Duck
-Animal <|-- Fish
-Animal <|-- Zebra
-Animal : +int age
-Animal : +String gender
-Animal: +isMammal()
-Animal: +mate()
-class Duck{
-+String beakColor
-+swim()
-+quack()
-}
-class Fish{
-\-int sizeInFeet
-\-canEat()
-}
-class Zebra{
-+bool is\_wild
-+run()
-}
+pie title Pets `routeBasePath` adopted by volunteers
+"cat" : 45
+"Cats" : 85
+"Rats" : 15
+
+
 ```
-<!--MCONTENT {content: "classDiagram<br/>\nAnimal <|-- Duck<br/>\nAnimal <|-- Fish<br/>\nAnimal <|-- Zebra<br/>\nAnimal : +int age<br/>\nAnimal : +String gender<br/>\nAnimal: +isMammal()<br/>\nAnimal: +mate()<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n+swim()<br/>\n+quack()<br/>\n}<br/>\nclass Fish{<br/>\n\\-int sizeInFeet<br/>\n\\-canEat()<br/>\n}<br/>\nclass Zebra{<br/>\n+bool is\\_wild<br/>\n+run()<br/>\n}<br/>"} --->
+<!--MCONTENT {content: "pie title Pets `routeBasePath`<swm-token data-swm-token=\":docusaurus.config.js:26:1:1:`          routeBasePath: &#39;/&#39;,`\"/> adopted by volunteers<br/>\n\"cat\" : 45<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15<br/>\n\n<br/>"} --->
 
 <br/>
 
