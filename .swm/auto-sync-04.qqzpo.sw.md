@@ -13,7 +13,7 @@ reselect auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 41sdwsdddddd
+4      line 41sdwsdddddd deff
 ```
 
 <br/>
