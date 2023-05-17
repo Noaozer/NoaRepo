@@ -8,7 +8,7 @@ app_version: 1.8.0
 <!--MERMAID {width:100}-->
 ```mermaid
 journey
-title My working day
+title My working day `theme.noa` `themeeee`
 section Go to work
 Make tea: 5: Me
 Go upstairs: 3: Me
@@ -17,9 +17,8 @@ section Go home
 Go downstairs: 5: Me
 Sit down: 3: Me
 
-
 ```
-<!--MCONTENT {content: "journey<br/>\ntitle My working day<br/>\nsection Go to work<br/>\nMake tea: 5: Me<br/>\nGo upstairs: 3: Me<br/>\nDo work: 1: Me, Cat<br/>\nsection Go home<br/>\nGo downstairs: 5: Me<br/>\nSit down: 3: Me<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "journey<br/>\ntitle My working day `theme.noa`<swm-token data-swm-token=\":docusaurus.config.js:28:3:5:`        themeeee theme.noa themeNoa: {`\"/> `themeeee`<swm-token data-swm-token=\":docusaurus.config.js:28:1:1:`        themeeee theme.noa themeNoa: {`\"/><br/>\nsection Go to work<br/>\nMake tea: 5: Me<br/>\nGo upstairs: 3: Me<br/>\nDo work: 1: Me, Cat<br/>\nsection Go home<br/>\nGo downstairs: 5: Me<br/>\nSit down: 3: Me<br/>\n<br/>"} --->
 
 <br/>
 
