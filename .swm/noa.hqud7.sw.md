@@ -13,8 +13,12 @@ Snippets 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 41sdwsdddddd deff
+4      line 41sdwsdddddd 456vb
 ```
+
+<br/>
+
+<br/>
 
 <br/>
 
