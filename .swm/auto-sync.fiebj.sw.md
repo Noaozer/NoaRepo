@@ -2,23 +2,10 @@
 id: fiebj
 title: auto sync
 file_version: 1.1.2
-app_version: 1.8.0
+app_version: 1.9.0
 ---
 
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-2      slug: /
-3      
-4      
-5      
-6      
-7      ggG
-8      
-9      fervcmwekvcmekrdmvced
-10     
-```
+<br/>
 
 <br/>
 
