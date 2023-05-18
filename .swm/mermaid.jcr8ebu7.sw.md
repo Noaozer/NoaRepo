@@ -5,16 +5,15 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
-<!--MERMAID {width:25}-->
+<!--MERMAID {width:100}-->
 ```mermaid
 pie title Pets `adopted by volunteers` `the` `Tutorial` `title`
 "Dogs" : 386
 "Cats" : 85
 "Rats" : 15
 
-
 ```
-<!--MCONTENT {content: "pie title Pets `adopted by volunteers` `the`<swm-token data-swm-token=\":sidebars.js:7:13:13:` The sidebars can be generated from the filesystem, or explicitly defined here.`\"/> `Tutorial`<swm-token data-swm-token=\":sidebars.js:21:5:5:`      label: &#39;Tutorial&#39;,`\"/> `title`<swm-token data-swm-token=\":docusaurus.config.js:3:1:1:`  title: &#39;Swimm Documentation&#39;,`\"/><br/>\n\"Dogs\" : 386<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "pie title Pets `adopted by volunteers` `the`<swm-token data-swm-token=\":sidebars.js:7:13:13:` The sidebars can be generated from the filesystem, or explicitly defined here.`\"/> `Tutorial`<swm-token data-swm-token=\":sidebars.js:21:5:5:`      label: &#39;Tutorial&#39;,`\"/> `title`<swm-token data-swm-token=\":docusaurus.config.js:3:1:1:`  title: &#39;Swimm Documentation&#39;,`\"/><br/>\n\"Dogs\" : 386<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15<br/>\n<br/>"} --->
 
 <br/>
 
