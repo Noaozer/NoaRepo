@@ -2,20 +2,10 @@
 id: d8vftqgm
 title: "snippet "
 file_version: 1.1.2
-app_version: 1.8.0
+app_version: 1.9.0
 ---
 
-edit
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/Noa_autosync_test
-```
-1      line 1 
-2      line 2
-3      line 3
-4      line 4 4
-5      line 5 5 
-6      
-```
+<br/>
 
 <br/>
 
