@@ -95,7 +95,7 @@ Folder Functionality:
 
 Move to folder:
 
-1.  Move to folder hub modle - functionality, Keyboard functionality
+1.  Move to folder hub modal - functionality, Keyboard functionality
 
 2.  create new folder
 
@@ -134,8 +134,8 @@ Display:
 10.  Open folder - move between branches
 
 11.  Create in current branch table - Routing to the folder where the document is located
-<br/>
 
+    <br/>
 *   User Interface - Compatibility tests
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
 
@@ -163,7 +163,7 @@ Display:
 
 7.  Move outdated documents and local draft into the folder
 
-8.  Delete folder with docs/playlist/sub folders that are committed to different branche
+8.  Delete folder with docs/playlist/sub folders that are committed to different branches
 
 9.  Delete folder with docs/playlist/sub folders that are committed to different branches
 
