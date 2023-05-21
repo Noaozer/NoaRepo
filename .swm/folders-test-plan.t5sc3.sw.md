@@ -65,7 +65,8 @@ Creating Folders:
 11.  Create PR branch docs in folder - Check main state - \`this folder only contains docs/playlist - they will be listed here upon merge'
 
 12.  Merge PR branch docs in folder - check main upon merge branch the docs listed in the same folder in main
-<br/>
+
+    <br/>
 
 Folder Functionality:
 
@@ -134,8 +135,8 @@ Display:
 10.  Open folder - move between branches
 
 11.  Create in current branch table - Routing to the folder where the document is located
-<br/>
 
+    <br/>
 *   User Interface - Compatibility tests
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
 
@@ -172,8 +173,10 @@ Display:
 11.  reordering docs in demo repo is disabled
 
 12.  Drag folder into the same itself
-<br/>
 
+13.  Simultaneous actions from several users - creating folders, transferring documents to a folder, and leaving documents from a folder
+
+    <br/>
 *   Sanity test
 1.  Repo page - move between sections
 
@@ -200,12 +203,12 @@ Display:
 4.  drag folder into the same itself and then everything stuck
 
 5.  Changed in current branch section | Going to a branch with a new playlist doesn't show the playlist in the "Changed in current branch" section
-<br/>
 
+    <br/>
 *   Automated
 1.  automated tests - E2E
-<br/>
 
+    <br/>
 *   Security Test - Folders Analytics
 1.  The events sent do not contain sensitive information
 
