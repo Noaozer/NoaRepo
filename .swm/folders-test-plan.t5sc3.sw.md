@@ -66,7 +66,8 @@ Creating Folders:
 
 12.  Merge PR branch docs in folder - check main upon merge branch the docs listed in the same folder in main
 
-    <br/>
+```
+<br/>```
 
 Folder Functionality:
 
@@ -136,7 +137,9 @@ Display:
 
 11.  Create in current branch table - Routing to the folder where the document is located
 
-    <br/>
+```
+<br/>```
+
 *   User Interface - Compatibility tests
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
 
@@ -156,27 +159,29 @@ Display:
 
 3.  Long folder name (overflow ellipsis)
 
-4.  Several subfolders within a folder
+4.  Create a over 25 folders
 
-5.  folders with the same name
+5.  Several subfolders within a folder
 
-6.  Move outdated documents and local draft into the folder
+6.  folders with the same name
 
-7.  Delete folder with docs/playlist/sub folders that are committed to different branche
+7.  Move outdated documents and local draft into the folder
 
-8.  Delete folder with docs/playlist/sub folders that are committed to different branches
+8.  Delete folder with docs/playlist/sub folders that are committed to different branche
 
 9.  Delete folder with docs/playlist/sub folders that are committed to different branches
 
-10.  demo repo - without folders
+10.  Delete folder with docs/playlist/sub folders that are committed to different branches
 
-11.  reordering docs in demo repo is disabled
+11.  demo repo - without folders
 
-12.  Drag folder into the same itself
+12.  reordering docs in demo repo is disabled
 
-13.  Simultaneous actions from several users - creating folders, transferring documents to a folder, and leaving documents from a folder
+13.  Drag folder into the same itself
 
-    <br/>
+14.  Simultaneous actions from several users - creating folders, transferring documents to a folder, and leaving documents from a folder
+<br/>
+
 *   Sanity test
 1.  Repo page - move between sections
 
