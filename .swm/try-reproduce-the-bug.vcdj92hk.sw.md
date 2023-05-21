@@ -5,6 +5,7 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
+*   bug
 1.  Create over 25 folders
 
 2.  b hjnkinl
@@ -18,9 +19,7 @@ app_version: 1.9.0
 6.  Create over 25 folders
 
 7.  Create over 25 folder
-
-frvgrfe
-
+*   frvgrfe
 1.  ecdc
 
 2.  dcesc
