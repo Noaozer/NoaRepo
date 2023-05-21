@@ -64,81 +64,8 @@ Creating Folders:
 
 11.  Create PR branch docs in folder - Check main state - \`this folder only contains docs/playlist - they will be listed here upon merge'
 
-12.  Merge PR branch docs in folder - check main upon merge branch the docs listed in the same folder in main
-
-```
-<br/>```
-
-Folder Functionality:
-
-1.  Folder ellipsis functionality - rename/delete/move to folder
-
-2.  Pin playlists inside folders
-
-3.  Documents in the folder are displayed correctly
-
-4.  batch commit to all documents in the folder
-
-5.  batch commit to some of the documents in the folder
-
-6.  discard documents that are in the folder
-
-7.  Drafts docs/playlists saves as part of the folder
-
-8.  Combine drafts and committed docs/playlists as part of the folder
-
-9.  In the same folder commit doc/playlist from different branches
-
-10.  In the same folder saves drafts doc/playlist from different branches
-
-11.  Combine drafts and committed docs/playlists as part of from different branches the same folder
-
-12.  Reordering files and folders
-
-Move to folder:
-
-1.  Move to folder hub modle - functionality, Keyboard functionality
-
-2.  create new folder
-
-3.  Relocate documents/playlists/subfolders into a folder through ellipsis
-
-4.  Relocate documents/playlists/subfolders outside the folder - check order in repo page
-
-5.  Relocate documents/playlists/subfolders to different folder
-
-6.  Drag&Drop functionality - drag&drop folders to move items, reordering items with Drag & drop, move docs/drafts/playlist in a folder
-
-7.  Batch action - check box functionality (move)
-
-8.  move to folder - ellipsis next to share (edit&view mode)
-
-Display:
-
-1.  light/dark theme
-
-2.  View Swimm documents in hierarchical order at the repo page
-
-3.  In this branch section - document display division (Changed in current branch and documents list)
-
-4.  Folder view switch - and back to Repo
-
-5.  Filter: Folders - folders
-
-6.  Search subdolders/docs and playlists in a folder
-
-7.  Search docs/playlist - Show doc path in search dialog
-
-8.  Editor anatomy - hover, select a folder, move to folder hub model
-
-9.  Change order using - Name, Status, Author, Last Modified
-
-10.  Open folder - move between branches
-
-11.  Create in current branch table - Routing to the folder where the document is located
-
-```
-<br/>```
+12.  Merge PR branch docs in folder - check main upon merge branch the docs listed in the same folder in main Folder Functionality: 1. Folder ellipsis functionality - rename/delete/move to folder 2. Pin playlists inside folders 3. Documents in the folder are displayed correctly 4. batch commit to all documents in the folder 5. batch commit to some of the documents in the folder 6. discard documents that are in the folder 7. Drafts docs/playlists saves as part of the folder 8. Combine drafts and committed docs/playlists as part of the folder 9. In the same folder commit doc/playlist from different branches 10. In the same folder saves drafts doc/playlist from different branches 11. Combine drafts and committed docs/playlists as part of from different branches the same folder 12. Reordering files and folders Move to folder: 1. Move to folder hub modle - functionality, Keyboard functionality 2. create new folder 3. Relocate documents/playlists/subfolders into a folder through ellipsis 4. Relocate documents/playlists/subfolders outside the folder - check order in repo page 5. Relocate documents/playlists/subfolders to different folder 6. Drag&Drop functionality - drag&drop folders to move items, reordering items with Drag & drop, move docs/drafts/playlist in a folder 7. Batch action - check box functionality (move) 8. move to folder - ellipsis next to share (edit&view mode) Display: 1. light/dark theme 2. View Swimm documents in hierarchical order at the repo page 3. In this branch section - document display division (Changed in current branch and documents list) 4. Folder view switch - and back to Repo 5. Filter: Folders - folders 6. Search subdolders/docs and playlists in a folder 7. Search docs/playlist - Show doc path in search dialog 8. Editor anatomy - hover, select a folder, move to folder hub model 9. Change order using - Name, Status, Author, Last Modified 10. Open folder - move between branches 11. Create in current branch table - Routing to the folder where the document is located
+<br/>
 
 *   User Interface - Compatibility tests
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
@@ -159,7 +86,7 @@ Display:
 
 3.  Long folder name (overflow ellipsis)
 
-4.  Create a over 25 folders
+4.  Create over 25 folders
 
 5.  Several subfolders within a folder
 
@@ -180,8 +107,8 @@ Display:
 13.  Drag folder into the same itself
 
 14.  Simultaneous actions from several users - creating folders, transferring documents to a folder, and leaving documents from a folder
-<br/>
 
+    <br/>
 *   Sanity test
 1.  Repo page - move between sections
 
