@@ -5,24 +5,35 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
-*   bullet list
+Display:
 
-*   bullet list
+1.  light/dark theme
 
-*   bullet list
-1.  hey hey
+2.  View Swimm documents in hierarchical order at the repo page
 
-2.  fdfgfeff
-<br/>
+3.  In this branch section - document display division (Changed in current branch and documents list)
 
-1.  1
+4.  Folder view switch - and back to Repo
 
-2.  2
+5.  Filter: Folders - folders
 
-3.  3
+6.  Search subdolders/docs and playlists in a folder
 
-4.  4
-*   ok
+7.  Search docs/playlist - Show doc path in search dialog
+
+8.  Editor anatomy - hover, select a folder, move to folder hub model
+
+9.  Change order using - Name, Status, Author, Last Modified
+
+10.  Open folder - move between branches
+
+11.  Create in current branch table - Routing to the folder where the document is located
+*   User Interface - Compatibility tests
+1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
+
+2.  Compatibility tests (icon sizes, locations, etc.)
+
+    <br/>
 
 <br/>
 
