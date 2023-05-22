@@ -28,9 +28,11 @@ Display:
 10.  Open folder - move between branches
 
 11.  Create in current branch table - Routing to the folder where the document is located
-<br/>
 
-*   User Interface - Compatibility tests
+*    
+
+User Interface - Compatibility tests
+
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
 
 2.  Compatibility tests (icon sizes, locations, etc.)
@@ -46,18 +48,27 @@ Display:
 4.  Folder view switch - and back to Repo
 
 5.  Filter: Folders - folders
+<br/>
 
-6.  Search subdolders/docs and playlists in a folder
+<br/>
 
-7.  Search docs/playlist - Show doc path in search dialog
+<br/>
 
-8.  Editor anatomy - hover, select a folder, move to folder hub model
+<br/>
 
-9.  Change order using - Name, Status, Author, Last Modified
+<br/>
 
-10.  Open folder - move between branches
+1.  Search subdolders/docs and playlists in a folder
 
-11.  Create in current branch table - Routing to the folder where the document is located
+2.  Search docs/playlist - Show doc path in search dialog
+
+3.  Editor anatomy - hover, select a folder, move to folder hub model
+
+4.  Change order using - Name, Status, Author, Last Modified
+
+5.  Open folder - move between branches
+
+6.  Create in current branch table - Routing to the folder where the document is located
 
 ```
 <br/>```
@@ -68,6 +79,7 @@ Display:
 2.  Compatibility tests (icon sizes, locations, etc.)
 
     <br/>
+```
 
 <br/>
 
