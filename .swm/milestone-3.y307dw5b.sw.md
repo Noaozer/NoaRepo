@@ -26,7 +26,7 @@ app_version: 1.9.0
 
 2.  Add path to files
 
-3.  Choose a path hub modal - functionally, Navigate
+3.  Choose a path hub modal - repos list, functionally, Navigate
 
 4.  Place the cursor on path - make sure hover appears
 
@@ -37,29 +37,28 @@ app_version: 1.9.0
 7.  Add paths next to each other - same line
 
 8.  Delete path
-<br/>
 
+9.  Add cross repo paths
 *   **slash commands**
 1.  Type slash - commands hub modal open, verify window opening compatibility
 
-2.  commands hub modal - functionally, Navigate
+2.  Commands hub modal - functionally, navigate, keyboard
 
 3.  Type slash in different areas in the doc
 
 4.  Type slash and write text
 
-*    
+5.  Type slash and change screen size
 *   **Multi repo**
-1.  rf
-
-2.  2
-
-3.  3
+1.  Cross repo commands - path
 *   **Auto sync**
-1.  with path
+1.  Verify auto sync is running - when commit the doc, open a doc, refresh page
 
-2.  verify it run
-<br/>
+2.  Verify path
+
+3.  Auto syncable path
+
+4.  Outdated path
 
 **SWMD bugs**
 
@@ -80,7 +79,8 @@ app_version: 1.9.0
 7.  use case SWMD on PRs - the line numbers changed and thus they see it as changes and it's a noise
 
 8.  Using a standard MD Linter - verify that our schema is adheres to it (Linter is a system that go through mark down syntax and make sure it's fine)
-<br/>
+
+    <br/>
 
 <br/>
 
