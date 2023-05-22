@@ -28,11 +28,9 @@ Display:
 10.  Open folder - move between branches
 
 11.  Create in current branch table - Routing to the folder where the document is located
+<br/>
 
-*    
-
-User Interface - Compatibility tests
-
+*   User Interface - Compatibility tests
 1.  [Figma](https://www.figma.com/file/J0WvA8KssUSd1xJM933B1L/Folder-Hierarchy-%26-Doc-Sidebar?type=design&node-id=1576-126901&t=2JM0rLwBmLsCHDVy-0) - design compatibility
 
 2.  Compatibility tests (icon sizes, locations, etc.)
@@ -48,12 +46,8 @@ Display:
 4.  Folder view switch - and back to Repo
 
 5.  Filter: Folders - folders
-<br/>
 
-<br/>
-
-<br/>
-
+    <br/>
 <br/>
 
 <br/>
