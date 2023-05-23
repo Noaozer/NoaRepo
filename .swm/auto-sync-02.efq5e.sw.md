@@ -13,7 +13,7 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      onaa faba word ground  ed control  hey noaaaaa dana!  }
+1      auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }
 ```
 
 <br/>
@@ -22,7 +22,7 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      onaa faba word ground  ed control  hey noaaaaa dana!  }
+1      auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }
 ```
 
 <br/>
@@ -31,7 +31,7 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      onaa faba word ground  ed control  hey noaaaaa dana!  }
+1      auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }
 2          noa: }
 ```
 
@@ -41,7 +41,7 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      onaa faba word ground  ed control  hey noaaaaa dana!  }
+1      auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }
 2          noa: }
 ```
 
@@ -49,79 +49,50 @@ snippet
 
 **outdated snippets**
 
-<br/>
-
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line line line  3 lin 3
-```
-
-<br/>
-
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line line line  3 lin 3
-```
-
-<br/>
-
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line line line  3 lin 3
-```
-
-<br/>
+[add...](https://app.clickup.com/t/860qya4zy)
 
 **tokens auto sync**
 
-`noa2`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa2: } }`"/> `noa2`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa2: } }`"/> `noa2`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa2: } }`"/>
+`noa222`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa222: } }`"/> `noa222`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa222: } }`"/> `noa222`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa222: } }`"/>
 
-`noaaaaa`<swm-token data-swm-token=":docs/noa_auto_aync:1:14:14:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/> `noaaaaa`<swm-token data-swm-token=":docs/noa_auto_aync:1:14:14:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/>
+`noa`<swm-token data-swm-token=":docs/noa_auto_aync:1:22:22:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/> `noa`<swm-token data-swm-token=":docs/noa_auto_aync:1:22:22:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/>
 
 **tokens outdated**
 
-`dana`<swm-token data-swm-token=":docs/noa_auto_aync:1:16:16:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/>
+`danagoalone`<swm-token data-swm-token=":docs/noa_auto_aync:1:24:24:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/>
 
-`dana`<swm-token data-swm-token=":docs/noa_auto_aync:1:16:16:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/>
+`danagoalone`<swm-token data-swm-token=":docs/noa_auto_aync:1:24:24:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/>
 
 **path auto sync**
 
-`📄 README.md` `📄 README.md`
-
-<br/>
+`📄 README-test.md` `📄 README-test.md`
 
 **MIX:**
 
 <br/>
 
-`noa2`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa2: } }`"/> `noaaaaa`<swm-token data-swm-token=":docs/noa_auto_aync:1:14:14:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/> `📄 README.md`
+`noa222`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa222: } }`"/> `noa`<swm-token data-swm-token=":docs/noa_auto_aync:1:22:22:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/> `📄 README-test.md`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      onaa faba word ground  ed control  hey noaaaaa dana!  }
+1      auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }
 2          noa: }
 3          
-4      line line line  3 lin 3
-5          noa2: } }
+4      it's line 3
+5          noa222: } }
 ```
 
 <br/>
 
-`dana`<swm-token data-swm-token=":docs/noa_auto_aync:1:16:16:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/> `noa2`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa2: } }`"/>
+`danagoalone`<swm-token data-swm-token=":docs/noa_auto_aync:1:24:24:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/> `noa222`<swm-token data-swm-token=":docs/noa_auto_aync:5:1:1:`    noa222: } }`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      onaa faba word ground  ed control  hey noaaaaa dana!  }
+1      auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }
 2          noa: }
 3          
-4      line line line  3 lin 3
-5          noa2: } }
+4      it's line 3
+5          noa222: } }
 ```
 
 <br/>
