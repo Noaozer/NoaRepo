@@ -13,7 +13,7 @@ app_version: 1.9.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4          noa4: } }
+4          noa2: } }
 ```
 
 <br/>
@@ -22,7 +22,7 @@ app_version: 1.9.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4          noa4: } }
+4          noa2: } }
 ```
 
 <br/>
@@ -45,13 +45,13 @@ htr
 
 h
 
-`noaaa`<swm-token data-swm-token=":docs/noa_auto_aync:1:12:12:`dana onaa faba ground control  hey noaaa dana onna faba ground control }`"/>
+`noaaaaa`<swm-token data-swm-token=":docs/noa_auto_aync:1:14:14:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/>
 
-`noa22`<swm-token data-swm-token=":docs/noa_auto_aync:2:1:1:`    noa22: }`"/>
+\`nnoa2222
 
-`noa22`<swm-token data-swm-token=":docs/noa_auto_aync:2:1:1:`    noa22: }`"/>
+`nnoa2222`
 
-`noa22`<swm-token data-swm-token=":docs/noa_auto_aync:2:1:1:`    noa22: }`"/>
+`nnoa2222`
 
 `modulee`<swm-token data-swm-token=":sidebars.js:12:0:0:`modulee.exportss = {`"/>
 
