@@ -2,19 +2,8 @@
 id: qqzpo
 title: Auto - sync 0.4
 file_version: 1.1.2
-app_version: 1.8.0
+app_version: 1.9.0
 ---
-
-<br/>
-
-<br/>
-
-reselect auto sync snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line 41sdwsdddddd deff
-```
 
 <br/>
 
@@ -24,9 +13,9 @@ reselect auto sync snippet
 
 `📄 docs/welcome.md`
 
-`📄 src`
+`📄 README.md`
 
-`📄 src/css` `📄 src/css/custom.css`
+`📄 README.md`
 
 <br/>
 
