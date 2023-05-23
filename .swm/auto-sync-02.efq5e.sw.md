@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
-`heyyygnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnn`"/> `heyyygnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnn`"/> `heyyygnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnn`"/>
+`heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/> `heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/> `heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/>
 
 <br/>
 
@@ -13,16 +13,16 @@ snippet 1 - copy x2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-3      heyyygnnn
+3      heyyygnnnn
 4          noa4: }
 5      line 41sdwsdddddd 456vb
 ```
 
 <br/>
 
-`heyyygnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnn`"/>
+`heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/>
 
-`heyyygnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnn`"/>
+`heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/>
 
 `hey`<swm-token data-swm-token=":docs/noa_auto_aync:1:10:10:`dana onaa faba ground control  hey noaaa dana onna faba ground control }`"/>
 
