@@ -5,25 +5,25 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
-`noa4`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa4: } }`"/>
+`noa44`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa44: } }`"/>
 
-`noa4`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa4: } }`"/>
+`noa44`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa44: } }`"/>
 
 <br/>
 
-`noa4`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa4: } }`"/>
+`noa44`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa44: } }`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-1      dana onaa faba ground control  hey noaaa dana onna faba ground control }
-2          noa22: }
+1      dana onaa faba ground  ed control  hey noaaa dana onna faba ground control }
+2          nnoa22: }
 ```
 
 <br/>
 
-`noa22`<swm-token data-swm-token=":docs/noa_auto_aync:2:1:1:`    noa22: }`"/>
+`nnoa22`<swm-token data-swm-token=":docs/noa_auto_aync:2:1:1:`    nnoa22: }`"/>
 
-`📄 README.md`
+`📄 READMEeeee.md`
 
 <br/>
 
@@ -31,9 +31,8 @@ app_version: 1.9.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-6      
-7      yughuhbujhn
-8       
+3      tr  tr heyyyyygggnnnnn
+4          noa44: } }
 ```
 
 <br/>
