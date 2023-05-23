@@ -2,7 +2,7 @@
 id: x3v3h
 title: Auto Sync 0.3  nb
 file_version: 1.1.2
-app_version: 1.8.0
+app_version: 1.9.0
 ---
 
 <br/>
@@ -13,7 +13,7 @@ app_version: 1.8.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4      line 41sdwsdddddd 456vb
+4          noa4: } }
 ```
 
 <br/>
@@ -21,10 +21,8 @@ app_version: 1.8.0
 `📄 README.md`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
-<!-- collapsed -->
-
 ```
-4      line 41sdwsdddddd 456vb
+4          noa4: } }
 ```
 
 <br/>
@@ -36,8 +34,6 @@ app_version: 1.8.0
 fervfgdrgehtfg
 
 nfgrhtmhjgrhtgh
-
-<br/>
 
 htr
 
@@ -72,17 +68,6 @@ tryjrt
 `📄 README.md`
 
 `📄 docs/noa_auto_aync`
-
-<br/>
-
-<br/>
-
-li===
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-4      line 41sdwsdddddd 456vb
-```
 
 <br/>
 
