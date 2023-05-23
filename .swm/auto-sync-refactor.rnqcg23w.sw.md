@@ -7,15 +7,6 @@ app_version: 1.9.0
 
 `themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-3      heyyygnn
-```
-
-<br/>
-
-`themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docusaurus.config.js
 ```javascript
 6        baseUrl: '/',
