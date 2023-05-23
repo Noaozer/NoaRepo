@@ -1,6 +1,6 @@
 ---
 id: x3v3h
-title: Auto Sync 0.3  nb
+title: "Auto Sync 0.3  "
 file_version: 1.1.2
 app_version: 1.9.0
 ---
@@ -13,21 +13,21 @@ app_version: 1.9.0
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4          noa2: } }
+5          noa222: } }
 ```
 
 <br/>
 
-`📄 README.md`
+`📄 README-test.md`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
-4          noa2: } }
+5          noa222: } }
 ```
 
 <br/>
 
-`📄 README.md`
+`📄 README-test.md`
 
 `modulee`<swm-token data-swm-token=":sidebars.js:12:0:0:`modulee.exportss = {`"/>
 
@@ -45,7 +45,7 @@ htr
 
 h
 
-`noaaaaa`<swm-token data-swm-token=":docs/noa_auto_aync:1:14:14:`onaa faba word ground  ed control  hey noaaaaa dana!  }`"/>
+`noa`<swm-token data-swm-token=":docs/noa_auto_aync:1:22:22:`auto sync it - onaa faba word ground  ed control  hey noa danagoalone!  }`"/>
 
 \`nnoa2222
 
@@ -65,7 +65,7 @@ j
 
 tryjrt
 
-`📄 README.md`
+`📄 README-test.md`
 
 `📄 docs/noa_auto_aync`
 
