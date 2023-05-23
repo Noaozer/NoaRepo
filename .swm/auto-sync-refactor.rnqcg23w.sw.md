@@ -5,56 +5,9 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
-`themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docusaurus.config.js
-```javascript
-6        baseUrl: '/',
-7        on on on on  onBrokenLinks: 'warn',
-8        onBrokenMarkdownLinks: 'warn',
-9        favicon: 'img/favicon.ico',
-10       organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
-11       projectName: 'skynet', // Usually your repo name.
-12       : {
-13         themee: { 
-14         navbar: {
-15           logo: {
-16             alt: 'Swimm',
-17             src: 'https://firebasestorage.googleapis.com/v0/b/swimmio/o/Docusaurus%2Flogo.png?alt=media&token=ec1e095a-5db5-4546-ae19-a2296fe2fb6e',
-18           },
-19         },
-20       },
-21       presets: [
-22         [
-23           '@docusaurus/preset-classic',
-24           {
-25             docs: {
-26               sidebarPath: require.resolve('./sidebars.js'),
-27               routeBasePath: '/',
-28             },
-29        theme.noa: {
-30        : require.resolve('./src/css/custom.css'),
-31             },
-32           },
-33         ],
-34       ],
-35         Noa: 
-36       plugins: [
-37         [
-38           require.resolve("@easyops-cn/docusaurus-search-local"),
-39           {
-40             is csd: true,
-41           },
-42         ],
-43       ],
-44     };
-```
-
 <br/>
 
-<br/>
-
-`📄 README.md`
+`📄 README-test.md`
 
 `themee`<swm-token data-swm-token=":docusaurus.config.js:13:1:1:`    themee: { `"/>
 
