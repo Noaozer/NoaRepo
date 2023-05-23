@@ -49,7 +49,25 @@ snippet
 
 **outdated snippets**
 
-[add...](https://app.clickup.com/t/860qya4zy)
+<br/>
+
+snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+4         hey ita a new line here for testingggg!!!1
+```
+
+<br/>
+
+snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+4         hey ita a new line here for testingggg!!!1
+```
+
+<br/>
 
 **tokens auto sync**
 
