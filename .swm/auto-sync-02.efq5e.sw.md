@@ -5,28 +5,39 @@ file_version: 1.1.2
 app_version: 1.9.0
 ---
 
-`heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/> `heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/> `heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/>
+`heyyygggnnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygggnnnnn`"/> `heyyygggnnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygggnnnnn`"/> `heyyygggnnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygggnnnnn`"/>
 
-<br/>
+`heyyygggnnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygggnnnnn`"/>
 
-snippet 1 - copy x2
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-3      heyyygnnnn
-4          noa4: }
-5      line 41sdwsdddddd 456vb
-```
-
-<br/>
-
-`heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/>
-
-`heyyygnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygnnnn`"/>
+`heyyygggnnnnn`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyygggnnnnn`"/>
 
 `hey`<swm-token data-swm-token=":docs/noa_auto_aync:1:10:10:`dana onaa faba ground control  hey noaaa dana onna faba ground control }`"/>
 
-`📄 README.md`
+`📄 READMEeeee.md`
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+1      dana onaa faba ground control  hey noaaa dana onna faba ground control }
+2          noa22: }
+3      heyyygggnnnnn
+4          noa4: }
+```
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+7      yughuhbujhn
+8            noa6: }
+9      1 2 ng
+10     
+```
 
 <br/>
 
