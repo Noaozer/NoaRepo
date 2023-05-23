@@ -27,7 +27,7 @@ app_version: 1.9.0
 
 <br/>
 
-
+`noa44`<swm-token data-swm-token=":docs/noa_auto_aync:4:1:1:`    noa44: } }`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
