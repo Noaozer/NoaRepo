@@ -9,9 +9,9 @@ doc:
 
 [doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
-<br/>
-
 [doc 2 -bug](doc-2-bug.ok4t4ij0.sw.md)
+
+<br/>
 
 [doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
@@ -20,8 +20,6 @@ doc:
 playlist :
 
 [playlist 2](playlist-2.144jad0q.pl.sw.md)
-
-<br/>
 
 [SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
 
