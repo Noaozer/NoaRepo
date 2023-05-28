@@ -7,7 +7,7 @@ app_version: 1.9.7
 
 Docs:
 
-[doc 1 ](doc-1.o741k73u.sw.md)
+<br/>
 
 [doc 2 ](doc-2.ywxajrh5.sw.md)
 
@@ -19,7 +19,7 @@ Docs:
 
 Playlist:
 
-[playlist 1 link](playlist-1-link.v1paiw2h.pl.sw.md)
+<br/>
 
 [playlist num 2 link](playlist-num-2-link.7obywaaj.pl.sw.md)
 
