@@ -7,15 +7,13 @@ app_version: 1.9.7
 
 Docs:
 
-[doc 2 ](doc-2.ywxajrh5.sw.md)
+<br/>
 
 <br/>
 
-[doc in playlist](doc-in-playlist.xfznuee4.sw.md)
-
 Playlist:
 
-[playlist num 2 link](playlist-num-2-link.7obywaaj.pl.sw.md)
+<br/>
 
 <br/>
 
