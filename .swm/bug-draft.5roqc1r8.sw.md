@@ -44,17 +44,11 @@ Docs:
 
 [doc 1](doc-1.6akjggkn.sw.md)
 
-<br/>
-
 [doc 3](doc-3.v7fl35fz.sw.md)
-
-<br/>
 
 [doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
 Playlist:
-
-<br/>
 
 [ playlist 2](playlist-2.b2uek0h0.pl.sw.md)
 
@@ -62,7 +56,7 @@ Mention:
 
 [[sym-mention:(2d859683-8436-4510-9d8e-f15dcfcbfd1a|1RV9Ei)Noa Ozer]]
 
-[[sym-mention:(b297c9c9-b360-4a46-be4d-8c33d46b7e13|1NyjWW)noa ozer]]
+<br/>
 
 <br/>
 
