@@ -44,27 +44,21 @@ Docs:
 
 <br/>
 
-[doc 2 ](doc-2.5fcqa2aw.sw.md)
-
 [doc in playlist](doc-in-playlist.xfznuee4.sw.md)
 
-[doc in playlist num 2 link](doc-in-playlist-num-2-link.tj8aoedx.sw.md)
+<br/>
 
-[doc 2 -bug ](doc-2-bug.ok4t4ij0.sw.md)
+[doc 2 -bug](doc-2-bug.ok4t4ij0.sw.md)
 
 Playlist:
 
 <br/>
-
-[playlist num 2 link](playlist-num-2-link.7obywaaj.pl.sw.md)
 
 Mention:
 
 [[sym-mention:(2d859683-8436-4510-9d8e-f15dcfcbfd1a|1RV9Ei)Noa Ozer]]
 
 [[sym-mention:(b297c9c9-b360-4a46-be4d-8c33d46b7e13|1NyjWW)noa ozer]]
-
-<br/>
 
 <br/>
 
