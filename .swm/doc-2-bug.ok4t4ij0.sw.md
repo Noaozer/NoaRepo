@@ -9,11 +9,9 @@ Docs:
 
 [doc 2 ](doc-2.ywxajrh5.sw.md)
 
-[doc 3](doc-3.0b5ffmjb.sw.md)
+<br/>
 
 [doc in playlist](doc-in-playlist.xfznuee4.sw.md)
-
-<br/>
 
 Playlist:
 
