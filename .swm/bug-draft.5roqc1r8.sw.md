@@ -44,21 +44,15 @@ Docs:
 
 [doc 1](doc-1.is4se20l.sw.md)
 
-[doc 2](doc-2.ziwep9hm.sw.md)
-
 <br/>
 
 <br/>
-
-[doc playlist link 1](doc-playlist-link-1.c612u5sn.sw.md)
 
 <br/>
 
 Playlist:
 
 [playlist link 1](playlist-link-1.gdn7ktmf.pl.sw.md)
-
-<br/>
 
 Mention:
 
