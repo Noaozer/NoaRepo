@@ -1,6 +1,6 @@
 ---
 id: 5roqc1r8
-title: Bug
+title: Bug - draft
 file_version: 1.1.2
 app_version: 1.9.7
 ---
@@ -13,10 +13,10 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-1      Line LineNOA line.Noa 
+1      Line LineNOA line.Noaa 
 2      
 3      line 3
-4      line 4 4 4 
+4      line 4 4 4 4  
 ```
 
 <br/>
@@ -25,16 +25,14 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-5      line 5 5 
+3      line 3
 ```
 
 <br/>
 
 tokens:
 
-`Noa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA line.Noa `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:3:0:0:`line 3`"/>
-
-<br/>
+`Noaa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA line.Noaa `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:3:0:0:`line 3`"/>
 
 Path:
 
@@ -42,11 +40,9 @@ Path:
 
 `📄 docs`
 
-<br/>
-
 Docs:
 
-[Doc 1 ](doc-1.wl6ra5nd.sw.md)
+<br/>
 
 [doc 2 ](doc-2.5fcqa2aw.sw.md)
 
@@ -54,23 +50,19 @@ Docs:
 
 [doc in playlist num 2 link](doc-in-playlist-num-2-link.tj8aoedx.sw.md)
 
-<br/>
+[doc 2 -bug ](doc-2-bug.ok4t4ij0.sw.md)
 
 Playlist:
 
-[link playlist 1 ](link-playlist-1.2qzj2zpx.pl.sw.md)
+<br/>
 
 [playlist num 2 link](playlist-num-2-link.7obywaaj.pl.sw.md)
-
-<br/>
 
 Mention:
 
 [[sym-mention:(2d859683-8436-4510-9d8e-f15dcfcbfd1a|1RV9Ei)Noa Ozer]]
 
 [[sym-mention:(b297c9c9-b360-4a46-be4d-8c33d46b7e13|1NyjWW)noa ozer]]
-
-<br/>
 
 <br/>
 
