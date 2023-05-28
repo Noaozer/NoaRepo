@@ -5,53 +5,25 @@ file_version: 1.1.2
 app_version: 1.9.7
 ---
 
-snippets:
+doc:
 
-<br/>
+[doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/Noa_autosync_test
-```
-1      Line LineNOA linee.Noaa 
-2      
-3      
-4      line 4 4 4  444 44 
-```
+[doc 2 -bug](doc-2-bug.ok4t4ij0.sw.md)
 
-<br/>
-
-tokens:
-
-`Noaa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA linee.Noaa `"/> `line` `linee`<swm-token data-swm-token=":docs/Noa_autosync_test:1:4:4:`Line LineNOA linee.Noaa `"/>
-
-Path:
-
-`📄 docs/Noa_autosync_test`
-
-`📄 docs`
-
-`📄 README.md`
-
-Docs:
+[stp + std sprint 9](stp-std-sprint-9.11cpd.sw.md)
 
 [Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
 
-[Sections](sections.4xwjb.sw.md)
+<br/>
 
-[Bug - draft](bug-draft.5roqc1r8.sw.md)
-
-[draft 2 ](draft-2.hrqnbkld.sw.md)
-
-Playlist:
+playlist :
 
 [playlist 2](playlist-2.144jad0q.pl.sw.md)
 
 [SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
 
-Mention:
-
-[[sym-mention:(2d859683-8436-4510-9d8e-f15dcfcbfd1a|1RV9Ei)Noa Ozer]]
+<br/>
 
 <br/>
 
