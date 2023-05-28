@@ -48,6 +48,12 @@ Docs:
 
 [doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
+[draft ](draft.oxyea9yo.sw.md)
+
+[draft 2 ](draft-2.hrqnbkld.sw.md)
+
+[doc 1](doc-1.6akjggkn.sw.md)
+
 Playlist:
 
 [ playlist 2](playlist-2.b2uek0h0.pl.sw.md)
@@ -55,8 +61,6 @@ Playlist:
 Mention:
 
 [[sym-mention:(2d859683-8436-4510-9d8e-f15dcfcbfd1a|1RV9Ei)Noa Ozer]]
-
-<br/>
 
 <br/>
 
