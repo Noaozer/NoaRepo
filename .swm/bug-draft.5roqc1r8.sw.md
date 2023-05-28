@@ -32,13 +32,17 @@ snippet
 
 tokens:
 
-`Noaa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA line.Noaa `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:3:0:0:`line 3`"/>
+`Noaa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA line.Noaa `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:3:0:0:`line 3`"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:1:4:4:`Line LineNOA line.Noaa `"/>
 
 Path:
 
 `📄 docs/Noa_autosync_test`
 
 `📄 docs`
+
+`📄 READMEeeee.md`
+
+`📄 docs/welcome.md`
 
 Docs:
 
