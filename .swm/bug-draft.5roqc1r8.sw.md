@@ -44,15 +44,7 @@ Docs:
 
 <br/>
 
-[doc in playlist](doc-in-playlist.xfznuee4.sw.md)
-
-<br/>
-
-[doc 2 -bug](doc-2-bug.ok4t4ij0.sw.md)
-
 Playlist:
-
-<br/>
 
 Mention:
 
