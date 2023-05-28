@@ -13,26 +13,17 @@ snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-1      Line LineNOA line.Noaa 
+1      Line LineNOA linee.Noaa 
 2      
-3      line 3
-4      line 4 4 4 4  
-```
-
-<br/>
-
-snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/Noa_autosync_test
-```
-3      line 3
+3      
+4      line 4 4 4  444 44 
 ```
 
 <br/>
 
 tokens:
 
-`Noaa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA line.Noaa `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:3:0:0:`line 3`"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:1:4:4:`Line LineNOA line.Noaa `"/>
+`Noaa`<swm-token data-swm-token=":docs/Noa_autosync_test:1:6:6:`Line LineNOA linee.Noaa `"/> `line` `linee`<swm-token data-swm-token=":docs/Noa_autosync_test:1:4:4:`Line LineNOA linee.Noaa `"/>
 
 Path:
 
@@ -40,27 +31,27 @@ Path:
 
 `📄 docs`
 
-`📄 READMEeeee.md`
+`📄 README.md`
 
-`📄 docs/welcome.md`
+<br/>
 
 Docs:
 
-[doc 1](doc-1.6akjggkn.sw.md)
+<br/>
 
-[doc 3](doc-3.v7fl35fz.sw.md)
+<br/>
 
 [doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
-[draft ](draft.oxyea9yo.sw.md)
+<br/>
 
 [draft 2 ](draft-2.hrqnbkld.sw.md)
 
-[doc 1](doc-1.6akjggkn.sw.md)
+<br/>
 
 Playlist:
 
-[ playlist 2](playlist-2.b2uek0h0.pl.sw.md)
+<br/>
 
 Mention:
 
