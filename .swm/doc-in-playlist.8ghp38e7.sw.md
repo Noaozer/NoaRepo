@@ -37,9 +37,9 @@ Docs:
 
 [Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
 
-[Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
+[Sections](sections.4xwjb.sw.md)
 
-[doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
+[Bug - draft](bug-draft.5roqc1r8.sw.md)
 
 [draft 2 ](draft-2.hrqnbkld.sw.md)
 
