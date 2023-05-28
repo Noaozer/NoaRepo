@@ -7,13 +7,15 @@ app_version: 1.9.7
 
 Docs:
 
-<br/>
+[doc 1](doc-1.6akjggkn.sw.md)
 
-<br/>
+[doc 4](doc-4.ea4nb0pe.sw.md)
+
+[doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
 Playlist:
 
-<br/>
+[ playlist 2](playlist-2.b2uek0h0.pl.sw.md)
 
 <br/>
 
