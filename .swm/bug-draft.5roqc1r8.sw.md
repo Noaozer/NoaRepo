@@ -46,13 +46,11 @@ Docs:
 
 <br/>
 
-<br/>
+[doc 3](doc-3.v7fl35fz.sw.md)
 
-[doc 4](doc-4.ea4nb0pe.sw.md)
+<br/>
 
 [doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
-
-<br/>
 
 Playlist:
 
