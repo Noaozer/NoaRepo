@@ -13,7 +13,7 @@ auto syncable snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto-sync! it - oonaa faba word ground  ed control   }
+1      auto-sync! it - oonaa faba word ground  ed controlllllll   }
 ```
 
 <br/>
@@ -22,7 +22,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto-sync! it - oonaa faba word ground  ed control   }
+1      auto-sync! it - oonaa faba word ground  ed controlllllll   }
 ```
 
 <br/>
@@ -31,7 +31,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto-sync! it - oonaa faba word ground  ed control   }
+1      auto-sync! it - oonaa faba word ground  ed controlllllll   }
 ```
 
 <br/>
@@ -40,73 +40,45 @@ outdated snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto-sync! it - oonaa faba word ground  ed control   }
+1      auto-sync! it - oonaa faba word ground  ed controlllllll   }
 2          : }
 3         
 4      
-5      678
+5      
 6       
-7        
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-5      678
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-5      678
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-5      678
 ```
 
 <br/>
 
 tokens:
 
-auto sync- `Noaa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noaa  ozer auto suncabl`"/> `tests`<swm-token data-swm-token=":README.md:92:16:16:`If you&#39;re doing all of your integration tests pre-commit and you&#39;re all set on where Docusaurus is going to live, then you don&#39;t really need to go any further. You&#39;ve done the thing and you should feel great about it. We encourage you to keep reading anyway, but you&#39;re all set.`"/> `Noaa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noaa  ozer auto suncabl`"/>
+auto sync- `Noaaaa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noaaaa  ozer auto suncabl`"/> `tests`<swm-token data-swm-token=":READMEeeeeee.md:92:16:16:`If you&#39;re doing all of your integration tests pre-commit and you&#39;re all set on where Docusaurus is going to live, then you don&#39;t really need to go any further. You&#39;ve done the thing and you should feel great about it. We encourage you to keep reading anyway, but you&#39;re all set.`"/> `Noaaaa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noaaaa  ozer auto suncabl`"/>
 
-outdated -`noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/>
-
-<br/>
+outdated -`noaozer`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`ozernoa  noaozer`"/> `noaozer`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`ozernoa  noaozer`"/> `noaozer`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`ozernoa  noaozer`"/>
 
 paths:
 
-auto sync - `📄 README.md`
+auto sync - `📄 READMEeeeeee.md`
 
-outdated - `📄 delete`
-
-<br/>
+outdated -
 
 link doc:
 
-<br/>
+[[sym-link:(9efed38c-4a4a-41c8-98d9-50aa6865a33b)doc 1]]
+
+[[sym-link:(8db9448d-fb5f-4d75-8694-7c205554a694)doc 2]]
+
+[[sym-link:(0bb3f7a6-2e52-4888-9f44-4ef49eaae70f)doc 3]]
 
 link playlist:
 
-<br/>
+[[sym-link:(f434f8a5-8173-434e-955a-e6bb1dad3ce2)playlist 1 link]]
 
 integration:
 
 <br/>
 
-`noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/>. `noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/>`noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/>. `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/>
+`noa` `noa`. `noanoa`. `noa` `noa`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
@@ -117,15 +89,14 @@ integration:
 5      
 6      
 7      
-8      noa noa noa
-9      int Xx = Noaa  ozer auto suncabl
+8      ozernoa  noaozer
+9      int Xx = Noaaaa  ozer auto suncabl
 10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv 1 2
 11     
 12     
 13     
 14     6
 15     vre4
-16     
 ```
 
 <br/>
