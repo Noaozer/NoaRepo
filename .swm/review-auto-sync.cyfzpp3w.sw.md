@@ -9,12 +9,11 @@ snippets:
 
 <br/>
 
-auto sync snippet
+auto syncable snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto-syncc it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
-2          noaozerr: }
+1      auto-sync! it - oonaa faba word ground  ed control   }
 ```
 
 <br/>
@@ -23,8 +22,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto-syncc it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
-2          noaozerr: }
+1      auto-sync! it - oonaa faba word ground  ed control   }
 ```
 
 <br/>
@@ -33,27 +31,22 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-2          noaozerr: }
+1      auto-sync! it - oonaa faba word ground  ed control   }
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+1      auto-sync! it - oonaa faba word ground  ed control   }
+2          : }
 3         
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-5      testing!! - noaa QAA!!
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-5      testing!! - noaa QAA!!
+4      
+5      678
 6       
+7        
 ```
 
 <br/>
@@ -62,16 +55,36 @@ outdated snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-5      testing!! - noaa QAA!!
+5      678
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+5      678
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+5      678
 ```
 
 <br/>
 
 tokens:
 
-autosync - `noaa`<swm-token data-swm-token=":docs/noa_auto_ayn:5:5:5:`testing!! - noaa QAA!!`"/> `testing`<swm-token data-swm-token=":docs/noa_auto_ayn:5:0:0:`testing!! - noaa QAA!!`"/> `QAA`<swm-token data-swm-token=":docs/noa_auto_ayn:5:7:7:`testing!! - noaa QAA!!`"/>
+auto sync- `Noaa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noaa  ozer auto suncabl`"/> `tests`<swm-token data-swm-token=":README.md:92:16:16:`If you&#39;re doing all of your integration tests pre-commit and you&#39;re all set on where Docusaurus is going to live, then you don&#39;t really need to go any further. You&#39;ve done the thing and you should feel great about it. We encourage you to keep reading anyway, but you&#39;re all set.`"/> `Noaa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noaa  ozer auto suncabl`"/>
 
-outdated - `QAA`<swm-token data-swm-token=":docs/noa_auto_ayn:5:7:7:`testing!! - noaa QAA!!`"/> `Noa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noa  ozer auto suncabl`"/> `noaozerr`<swm-token data-swm-token=":docs/noa_auto_ayn:2:1:1:`    noaozerr: }`"/>
+outdated -`noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/>
+
+<br/>
 
 paths:
 
@@ -79,9 +92,9 @@ auto sync - `📄 README.md`
 
 outdated - `📄 delete`
 
-link doc:
-
 <br/>
+
+link doc:
 
 <br/>
 
@@ -91,7 +104,29 @@ link playlist:
 
 integration:
 
-/sni
+<br/>
+
+`noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/>. `noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/>`noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/>. `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/welcome.md
+```markdown
+1      vrenj
+2      
+3      4
+4      
+5      
+6      
+7      
+8      noa noa noa
+9      int Xx = Noaa  ozer auto suncabl
+10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv 1 2
+11     
+12     
+13     
+14     6
+15     vre4
+16     
+```
 
 <br/>
 
