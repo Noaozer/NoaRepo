@@ -35,21 +35,23 @@ Path:
 
 Docs:
 
-[[sym-link:(ff43c5fb-c0bf-4a1f-ace3-2d9b247824c1)stp + std sprint 9]]
+[stp + std sprint 9](stp-std-sprint-9.11cpd.sw.md)
 
-[[sym-link:(38228d89-0a9c-458b-b7f7-faf5f1d6163b)Sprint 7 - STD]]
+[Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
 
-[[sym-link:(aa30ed1d-bc7c-46d9-aa40-d5dd841c9991)doc playlist 1]]
+[Sections](sections.4xwjb.sw.md)
 
-[[sym-link:(3aa6a069-d4ba-4a9f-b76b-092880ae4d7d)doc in playlist]]
-
-[[sym-link:(7616fe70-da22-4b08-b1da-bac913d0c50a)doc 2 -bug]]
+[doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
 
 playlist:
 
-[[sym-link:(9f14cf0f-0b1d-46f0-8db8-0c09bf0412b2)playlist 2]]
+[SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
 
-[[sym-link:(d6ca7640-4b8f-4ba6-823c-f13f22ac4b52)SWMD V3 - QA]]
+<br/>
+
+<br/>
+
+<br/>
 
 Playlist:
 
