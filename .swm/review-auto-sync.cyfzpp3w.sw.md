@@ -1,6 +1,6 @@
 ---
 id: cyfzpp3w
-title: review auto sync
+title: "review auto sync "
 file_version: 1.1.2
 app_version: 1.9.7
 ---
@@ -13,8 +13,8 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto sync it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
-2          noaoz: }
+1      auto-sync it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
+2          noaozer: }
 ```
 
 <br/>
@@ -23,54 +23,83 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      auto sync it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
-2          noaoz: }
+1      auto-sync it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
+2          noaozer: }
 ```
 
 <br/>
 
-outdated snippet
+auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-4      testing - noa QA
-5          QA: } }
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
+2          noaozer: }
 3         
-4      testing - noa QA
-5          QA: } }
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+5      testing! - noaa QA!
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+5      testing! - noaa QA!
+6       
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+5      testing! - noaa QA!
 ```
 
 <br/>
 
 tokens:
 
-autosync - `noa`<swm-token data-swm-token=":docs/noa_auto_ayn:4:4:4:`testing - noa QA`"/> `testing`<swm-token data-swm-token=":docs/noa_auto_ayn:4:0:0:`testing - noa QA`"/> `QA`<swm-token data-swm-token=":docs/noa_auto_ayn:4:6:6:`testing - noa QA`"/>
+autosync - `noaa`<swm-token data-swm-token=":docs/noa_auto_ayn:5:5:5:`testing! - noaa QA!`"/> `testing`<swm-token data-swm-token=":docs/noa_auto_ayn:5:0:0:`testing! - noaa QA!`"/> `QA`<swm-token data-swm-token=":docs/noa_auto_ayn:5:7:7:`testing! - noaa QA!`"/>
 
-outdated - `QA`<swm-token data-swm-token=":docs/noa_auto_ayn:5:1:1:`    QA: } }`"/> `noa1010202`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = noa1010202  ozer auto suncabl`"/> `noaoz`<swm-token data-swm-token=":docs/noa_auto_ayn:2:1:1:`    noaoz: }`"/>
+outdated - `QA`<swm-token data-swm-token=":docs/noa_auto_ayn:5:7:7:`testing! - noaa QA!`"/> `Noa`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = Noa  ozer auto suncabl`"/> `noaozer`<swm-token data-swm-token=":docs/noa_auto_ayn:2:1:1:`    noaozer: }`"/>
 
 paths:
 
-auto sync - `📄 README-test.md`
+auto sync - `📄 README.md`
 
-outdated - `📄 static/noa_noa_noa`
+outdated - `📄 delete`
+
+<br/>
 
 link doc:
 
-[[sym-link:(55c238a7-b498-499b-abe1-1e1824d8f960)noa]]
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
 
 link playlist:
 
 <br/>
 
 <br/>
+
+integration:
+
+/sni
 
 <br/>
 
