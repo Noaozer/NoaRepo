@@ -5,8 +5,8 @@ vrenj
 
 
 
-noa noa noa
-int Xx = Noaa  ozer auto suncabl
+ozernoa  noaozer
+int Xx = Noaaaa  ozer auto suncabl
 noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv 1 2
 
 
