@@ -35,19 +35,23 @@ Path:
 
 Docs:
 
+[doc 1](doc-1.3fd91mxl.sw.md)
+
+[doc 2 ](doc-2.udc7gkwx.sw.md)
+
+[doc 3](doc-3.yhvnyqhb.sw.md)
+
 [stp + std sprint 9](stp-std-sprint-9.11cpd.sw.md)
 
 [Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
 
 [Sections](sections.4xwjb.sw.md)
 
-<br/>
-
 playlist:
 
-[SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
-
 <br/>
+
+[SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
 
 Playlist:
 
