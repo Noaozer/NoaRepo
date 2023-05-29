@@ -35,9 +35,9 @@ Path:
 
 Docs:
 
-[doc 1](doc-1.3fd91mxl.sw.md)
+<br/>
 
-[doc 2 ](doc-2.udc7gkwx.sw.md)
+<br/>
 
 [doc 3](doc-3.yhvnyqhb.sw.md)
 
@@ -48,8 +48,6 @@ Docs:
 [Sections](sections.4xwjb.sw.md)
 
 playlist:
-
-<br/>
 
 [SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
 
