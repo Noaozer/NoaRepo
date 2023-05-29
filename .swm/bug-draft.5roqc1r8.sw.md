@@ -41,15 +41,11 @@ Docs:
 
 [Sections](sections.4xwjb.sw.md)
 
-[doc playlist 1](doc-playlist-1.2n3pere9.sw.md)
+<br/>
 
 playlist:
 
 [SWMD V3 - QA](swmd-v3-qa.d8o8h.pl.sw.md)
-
-<br/>
-
-<br/>
 
 <br/>
 
