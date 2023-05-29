@@ -2,16 +2,77 @@
 id: cyfzpp3w
 title: review auto sync
 file_version: 1.1.2
-app_version: 1.9.0
+app_version: 1.9.7
 ---
 
-review final test
+snippets:
 
-`📄 static`
+<br/>
 
-`📄 docs/welcome.md`
+auto sync snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+1      auto sync it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
+2          noaoz: }
+```
 
-`📄 README-test.md`
+<br/>
+
+auto sync snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+1      auto sync it - oonaa faba word ground  ed control  hey ozer Swimmmm  }
+2          noaoz: }
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+4      testing - noa QA
+5          QA: } }
+```
+
+<br/>
+
+outdated snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+3         
+4      testing - noa QA
+5          QA: } }
+```
+
+<br/>
+
+tokens:
+
+autosync - `noa`<swm-token data-swm-token=":docs/noa_auto_ayn:4:4:4:`testing - noa QA`"/> `testing`<swm-token data-swm-token=":docs/noa_auto_ayn:4:0:0:`testing - noa QA`"/> `QA`<swm-token data-swm-token=":docs/noa_auto_ayn:4:6:6:`testing - noa QA`"/>
+
+outdated - `QA`<swm-token data-swm-token=":docs/noa_auto_ayn:5:1:1:`    QA: } }`"/> `noa1010202`<swm-token data-swm-token=":docs/welcome.md:9:6:6:`int Xx = noa1010202  ozer auto suncabl`"/> `noaoz`<swm-token data-swm-token=":docs/noa_auto_ayn:2:1:1:`    noaoz: }`"/>
+
+paths:
+
+auto sync - `📄 README-test.md`
+
+outdated - `📄 static/noa_noa_noa`
+
+link doc:
+
+[[sym-link:(55c238a7-b498-499b-abe1-1e1824d8f960)noa]]
+
+link playlist:
+
+<br/>
+
+<br/>
+
+<br/>
 
 <br/>
 
