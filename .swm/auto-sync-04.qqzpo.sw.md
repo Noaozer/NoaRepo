@@ -2,14 +2,14 @@
 id: qqzpo
 title: Auto - sync 0.4
 file_version: 1.1.2
-app_version: 1.9.0
+app_version: 1.9.7
 ---
 
 <br/>
 
 `📄 docs`
 
-`📄 docs/noa_auto_aync`
+<br/>
 
 `📄 docs/welcome.md`
 
