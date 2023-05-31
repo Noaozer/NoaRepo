@@ -17,8 +17,6 @@ gr
 
 gr
 
-<br/>
-
 g
 
 gr
@@ -61,8 +59,6 @@ j
 
 jy
 
-<br/>
-
 ht
 
 ghfgn
@@ -70,8 +66,6 @@ ghfgn
 htf
 
 fg
-
-<br/>
 
 <br/>
 
