@@ -5,15 +5,22 @@ file_version: 1.1.2
 app_version: 1.9.11
 ---
 
-rgthyjukiuyfghjert
+rgthyjukiuyfghjertdg
 
 <br/>
 
 <!--MERMAID {width:100}-->
 ```mermaid
+graph TD
+A[`line`] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+
 
 ```
-<!--MCONTENT {content: "<br/>"} --->
+<!--MCONTENT {content: "graph TD<br/>\nA\\[`line`<swm-token data-swm-token=\":docs/Noa_autosync_test:4:0:0:`line 4 4 4  444 44 `\"/>\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{Let me think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n\n<br/>"} --->
 
 <br/>
 
