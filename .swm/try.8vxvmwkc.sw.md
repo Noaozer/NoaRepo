@@ -5,11 +5,40 @@ file_version: 1.1.2
 app_version: 1.9.11
 ---
 
+fghjert
+
+<br/>
+
 <!--MERMAID {width:100}-->
 ```mermaid
 
 ```
 <!--MCONTENT {content: "<br/>"} --->
+
+<br/>
+
+```
+tyujghjnm, gr  dfg
+```
+
+`line`<swm-token data-swm-token=":docs/Noa_autosync_test:4:0:0:`line 4 4 4  444 44 `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:4:0:0:`line 4 4 4  444 44 `"/> `line`<swm-token data-swm-token=":docs/Noa_autosync_test:4:0:0:`line 4 4 4  444 44 `"/>
+
+`LineNOA`<swm-token data-swm-token=":docs/Noa_autosync_test:1:2:2:`Line LineNOA linee.Noaa `"/>
+
+<br/>
+
+<br/>
+
+tyju
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/Noa_autosync_test
+```
+2      
+3      
+4      line 4 4 4  444 44 
+5      
+6      
+```
 
 <br/>
 
