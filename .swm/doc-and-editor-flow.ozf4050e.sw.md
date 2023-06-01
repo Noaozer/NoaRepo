@@ -48,6 +48,26 @@ path from this repo: `📄 static`
 
 [try move to repo page](try-move-to-repo-page.9ol7z.sw.md)
 
+playlist:
+
+[playlist 1](playlist-1.ojkzk89p.pl.sw.md)
+
+[Playlist 2](playlist-2.3kbn0loa.pl.sw.md)
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
 <br/>
 
 <br/>
