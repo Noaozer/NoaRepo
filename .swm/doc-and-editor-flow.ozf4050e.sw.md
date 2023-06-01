@@ -17,19 +17,13 @@ app_version: 1.9.11
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
 # 1
 
 ## 2
 
 ### 3
 
-`line`<swm-token data-swm-token=":docs/noa_auto_aync:4:0:0:`line 41sdwsdddddd deff`"/>
+`line`
 
 *   sdfv
 
@@ -48,7 +42,7 @@ sdfg
 ### 📄 docs/noa_auto_aync
 ```
 3      heyy
-4      line 41sdwsdddddd deff
+4      okswsdfgh
 5      1
 ```
 
