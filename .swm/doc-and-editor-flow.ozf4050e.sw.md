@@ -5,43 +5,13 @@ file_version: 1.1.2
 app_version: 1.9.11
 ---
 
+`📄 docs/noa_auto_aync`
+
 # Heading level 1
 
 \# Heading level 1
 
-<br/>
-
-sdfg
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-1      
-2      
-3      heyyy
-4      line 41sdwsdddddd deff
-5      1
-6      
-```
-
-<br/>
-
-`line`<swm-token data-swm-token=":docs/noa_auto_aync:4:0:0:`line 41sdwsdddddd deff`"/>
-
 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:26:1:1:`          sidebarPath: require.resolve(&#39;./sidebars.js&#39;),`"/>
-
-`📄 docs/noa_auto_aync`
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
 
 <br/>
 
@@ -59,6 +29,8 @@ sdfg
 
 ### 3
 
+`line`<swm-token data-swm-token=":docs/noa_auto_aync:4:0:0:`line 41sdwsdddddd deff`"/>
+
 *   sdfv
 
 *   fvbg
@@ -68,6 +40,20 @@ sdfg
 *   rfgbn
 
 *   efgbn
+
+<br/>
+
+sdfg
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
+3      heyy
+4      line 41sdwsdddddd deff
+5      1
+```
+
+<br/>
+
 1.  fdgbn
 
 2.  frghbn
