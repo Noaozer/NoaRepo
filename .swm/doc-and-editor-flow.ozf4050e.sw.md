@@ -5,52 +5,50 @@ file_version: 1.1.2
 app_version: 1.9.11
 ---
 
-snippet 1 `vre4`<swm-token data-swm-token=":docs/welcome.md:15:0:0:`vre4`"/> `vrenj`<swm-token data-swm-token=":docs/welcome.md:1:0:0:`vrenj`"/> `docs`<swm-token data-swm-token=":docusaurus.config.js:25:1:1:`        docs: {`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-1      vrenj
-2      
-3      4
-4      
-```
+# Heading level 1
+
+\# Heading level 1
+
+# 1
+
+## 2
+
+### 3
+
+*   sdfv
+
+*   fvbg
+
+*   frgbn
+
+*   rfgbn
+
+*   efgbn
+1.  fdgbn
+
+2.  frghbn
+
+3.  rgfhbn
+
+4.  frgnb
+
+5.  rghnm
+
+6.  gthnm
+
+7.  rghnm
+
+8.  tghjnm
+
+> fghyiodsdrhtyjuk
 
 <br/>
 
-snippet 2 `noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:2:2:`noa noa noa`"/> `noa`<swm-token data-swm-token=":docs/welcome.md:8:4:4:`noa noa noa`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/welcome.md
-```markdown
-8      noa noa noa
-9      int Xx = noa1010202  ozer auto suncabl
-10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv 1 2
-11     
-12     
-13     
-14     6
-15     vre4
-16     
+```
+JMHGFDVFHTJYKUILYJTHTFD
 ```
 
-<br/>
-
-`hey`<swm-token data-swm-token=":src/css/custom.css:4:1:1:` hey`"/> `heyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyy`"/>sdfdvb
-
-file path: `📄 docs/noa_auto_aync`
-
-folder path: `📄 docs`
-
-path from this repo: `📄 static`
-
-[new branch ](new-branch.2f3ou381.sw.md)
-
-[try move to repo page](try-move-to-repo-page.9ol7z.sw.md)
-
-mention:
-
-[[sym-mention:(4ba66b5e-530e-414d-a39c-df72430acad3|1Idk0r)noa]]
-
-[[sym-mention:(91909cc0-d722-4001-8413-fd5dffda7168|1RV9Ei)Noa Ozer]]
+SADEFREGHJTGRFEDS
 
 <br/>
 
