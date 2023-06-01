@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.9.11
 ---
 
-Draft 2
+Draft 2FR
 
 <br/>
 
