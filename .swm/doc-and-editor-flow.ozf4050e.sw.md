@@ -34,7 +34,7 @@ snippet 2 `noa`<swm-token data-swm-token=":docs/welcome.md:8:0:0:`noa noa noa`"/
 
 <br/>
 
-`hey`<swm-token data-swm-token=":src/css/custom.css:4:1:1:` hey`"/> `heyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyy`"/>
+`hey`<swm-token data-swm-token=":src/css/custom.css:4:1:1:` hey`"/> `heyyy`<swm-token data-swm-token=":docs/noa_auto_aync:3:0:0:`heyyy`"/>sdfdvb
 
 file path: `📄 docs/noa_auto_aync`
 
@@ -42,21 +42,11 @@ folder path: `📄 docs`
 
 path from this repo: `📄 static`
 
-<br/>
-
 [new branch ](new-branch.2f3ou381.sw.md)
 
 [try move to repo page](try-move-to-repo-page.9ol7z.sw.md)
 
 playlist:
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
 
 <br/>
 
