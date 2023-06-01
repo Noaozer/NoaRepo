@@ -46,11 +46,11 @@ path from this repo: `📄 static`
 
 [try move to repo page](try-move-to-repo-page.9ol7z.sw.md)
 
-playlist:
+mention:
 
-<br/>
+[[sym-mention:(4ba66b5e-530e-414d-a39c-df72430acad3|1Idk0r)noa]]
 
-<br/>
+[[sym-mention:(91909cc0-d722-4001-8413-fd5dffda7168|1RV9Ei)Noa Ozer]]
 
 <br/>
 
