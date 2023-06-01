@@ -13,8 +13,6 @@ app_version: 1.9.11
 
 `sidebarPath`<swm-token data-swm-token=":docusaurus.config.js:26:1:1:`          sidebarPath: require.resolve(&#39;./sidebars.js&#39;),`"/>
 
-<br/>
-
 # 1
 
 ## 2
@@ -41,9 +39,19 @@ sdfg
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_aync
 ```
+5      ita a doc and editor flow 
+```
+
+<br/>
+
+reslect
+
+<!-- empty line --><br/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_aync
+```
 3      heyy
-4      ita a doc and editor flow 
-5      
+4      outdated snippet
 ```
 
 <br/>
