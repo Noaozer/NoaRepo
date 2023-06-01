@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.9.11
 ---
 
-auto sync
+auto sync ccc
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
 ```markdown
@@ -31,6 +31,8 @@ auto sync
 verify snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
+<!-- collapsed -->
+
 ```
 1      ! it - oonaa faba word ground  ed controlllllll   }
 2          : }
@@ -43,6 +45,8 @@ verify snippet
 border
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/welcome.md
+<!-- collapsed -->
+
 ```markdown
 13     
 14     6
