@@ -35,23 +35,14 @@ app_version: 1.9.11
 
 <br/>
 
-sdfg
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-5      ita a doc and editor flow 
-```
-
-<br/>
-
 reslect
 
 <!-- empty line --><br/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_aync
-```
-3      heyy
-4      outdated snippet
+### 📄 docs/welcome.md
+```markdown
+9      int Xx = noa1010202  ozer auto suncabl
+10     noooooooaaaaaaa3456789998--=+=V+ += FD{b pfdrv 1 2
 ```
 
 <br/>
