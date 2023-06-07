@@ -13,7 +13,7 @@ auto syncable snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controllllllll   }
+1      ! it - oonaa faba word ground  ed controllllllllll   }
 ```
 
 <br/>
@@ -22,7 +22,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controllllllll   }
+1      ! it - oonaa faba word ground  ed controllllllllll   }
 ```
 
 <br/>
@@ -31,22 +31,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controllllllll   }
-```
-
-<br/>
-
-outdated snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-1      ! it - oonaa faba word ground  ed controllllllll   }
-2      d    : }
-3       d  
-4      
-5      
-6       
-7        
+1      ! it - oonaa faba word ground  ed controllllllllll   }
 ```
 
 <br/>
@@ -64,8 +49,6 @@ auto sync - `📄 READMEeeeeee.md`
 outdated -
 
 link doc:
-
-<br/>
 
 link playlist:
 
