@@ -14,6 +14,18 @@ app_version: 1.10.3
 
 <br/>
 
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+1      ! it - oonaa faba word ground  ed controlllllllllll   }
+2      dddd   : }
+3       dd d d
+4      
+```
+
+<br/>
+
 2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
@@ -28,6 +40,18 @@ app_version: 1.10.3
 ### 📄 docs/noa_auto_ayn
 ```
 2      dddd   : }
+```
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 docs/noa_auto_ayn
+```
+1      ! it - oonaa faba word ground  ed controlllllllllll   }
+2      dddd   : }
+3       dd d d
+4      
 ```
 
 <br/>
