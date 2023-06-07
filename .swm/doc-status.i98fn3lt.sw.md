@@ -9,7 +9,7 @@ auto syncable snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controllllllll   }
+1      ! it - oonaa faba word ground  ed controlllllllll   }
 ```
 
 <br/>
@@ -18,17 +18,7 @@ auto syncable snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-2      d    : }
-```
-
-<br/>
-
-auto syncable snippet
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/noa_auto_ayn
-```
-3       d  
-4      
+2      dd   : }
 ```
 
 <br/>
