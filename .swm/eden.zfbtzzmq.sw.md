@@ -9,7 +9,7 @@ app_version: 1.10.3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controllllllllll   }
+1      ! it - oonaa faba word ground  ed controlllllllllll   }
 ```
 
 <br/>
@@ -18,7 +18,7 @@ app_version: 1.10.3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-3       d d d
+3       dd d d
 ```
 
 <br/>
@@ -27,7 +27,7 @@ app_version: 1.10.3
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-2      ddd   : }
+2      dddd   : }
 ```
 
 <br/>
