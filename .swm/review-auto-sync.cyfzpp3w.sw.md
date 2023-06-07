@@ -13,7 +13,7 @@ auto syncable snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controlllllll   }
+1      ! it - oonaa faba word ground  ed controllllllll   }
 ```
 
 <br/>
@@ -22,7 +22,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controlllllll   }
+1      ! it - oonaa faba word ground  ed controllllllll   }
 ```
 
 <br/>
@@ -31,7 +31,7 @@ auto sync snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controlllllll   }
+1      ! it - oonaa faba word ground  ed controllllllll   }
 ```
 
 <br/>
@@ -40,12 +40,13 @@ outdated snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/noa_auto_ayn
 ```
-1      ! it - oonaa faba word ground  ed controlllllll   }
-2          : }
-3         
+1      ! it - oonaa faba word ground  ed controllllllll   }
+2      d    : }
+3       d  
 4      
 5      
 6       
+7        
 ```
 
 <br/>
@@ -66,13 +67,7 @@ link doc:
 
 <br/>
 
-<br/>
-
-<br/>
-
 link playlist:
-
-<br/>
 
 integration:
 
