@@ -7,15 +7,15 @@ app_version: 1.10.3
 
 `📄 docs/test_milestone_3`
 
-`📄 READMEee.md`
+`📄 docs`
 
 `📄 docs/test_milestone_3`
 
-`📄 READMEee.md`
+`📄 docs`
 
-`📄 READMEee.md`
+`📄 docs`
 
-`📄 .gitignore`
+`📄 src`
 
 `📄 docs`
 
