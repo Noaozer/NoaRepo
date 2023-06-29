@@ -7,6 +7,8 @@ app_version: 1.12.0
 
 # head
 
+fg
+
 \# head
 
 /
@@ -22,8 +24,6 @@ fgrthjythrewq
 fgrthjythrewq
 
 fgrthjythrewq
-
-<br/>
 
 fgrthjythrewq
 
@@ -71,10 +71,6 @@ dferghjggr
 
 <br/>
 
-<br/>
-
-<br/>
-
 [Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
 
 [Sections](sections.4xwjb.sw.md)
@@ -108,12 +104,8 @@ dferghjggr
 ### 📄 docs/Noa_autosync_test
 ```
 1      Line LineNOAA linee.Noaa 
-2      bjhbjhb
-3      bujnj
-4      bjh
-5      
-6      noa 4 4 4  444 44 
-7      
+2      bjhbjhbrty
+3      bujnjtyuio
 ```
 
 <br/>
@@ -246,15 +238,6 @@ dferghjggr
 15       --ifm-color-primary-lighter: rgb(102, 212, 189);
 16       --ifm-color-primary-lightest: rgb(146, 224, 208);
 17       --ifm-code-font-size: 95%;
-```
-
-<br/>
-
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 docs/Noa_autosync_test
-```
-3      bujnj
 ```
 
 <br/>
