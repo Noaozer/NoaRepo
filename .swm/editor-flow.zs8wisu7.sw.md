@@ -69,8 +69,6 @@ dferghjggr
 
 > wefgrmjgfds
 
-<br/>
-
 [Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
 
 [Sections](sections.4xwjb.sw.md)
@@ -99,13 +97,16 @@ dferghjggr
 
 <br/>
 
-`noa`<swm-token data-swm-token=":docs/Noa_autosync_test:6:0:0:`noa 4 4 4  444 44 `"/>
+`noa`<swm-token data-swm-token=":docs/Noa_autosync_test:6:0:0:`noa 4 4 4  444 44 `"/> sdfgh
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-1      Line LineNOAA linee.Noaa 
-2      bjhbjhbrty
 3      bujnjtyuio
+4      bjhgrthy
+5      
+6      noa 4 4 4  444 44 
+7      
+8      
 ```
 
 <br/>
