@@ -2,18 +2,17 @@
 id: 4y2phu93
 title: "outdated doc "
 file_version: 1.1.3
-app_version: 1.11.0
+app_version: 1.12.0
 ---
 
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
 ```
-1      Line LineNOA linee.Noaa 
-2      bjhbjhb
-3      bujnj
-4      bjh
+4      bjhgrthy
 5      
+6      noa 4 4 4  444 44 
+7      
 ```
 
 <br/>
