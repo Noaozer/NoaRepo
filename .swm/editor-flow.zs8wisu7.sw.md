@@ -5,6 +5,12 @@ file_version: 1.1.3
 app_version: 1.12.0
 ---
 
+[Sprint 7 - STD ](sprint-7-std.1kj71.sw.md)
+
+[Sections](sections.4xwjb.sw.md)
+
+<br/>
+
 `noa`<swm-token data-swm-token=":docs/Noa_autosync_test:6:0:0:`noa 4 4 4  444 44 `"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
@@ -17,6 +23,10 @@ app_version: 1.12.0
 6      noa 4 4 4  444 44 
 7      
 ```
+
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBTm9hUmVwbyUzQSUzQU5vYW96ZXI%3D%2F103d1c5d-5000-410d-a1a6-cfd7c5ef49ea.png?alt=media&token=9e34488a-8246-4c87-ae3b-7c9191f2095a" style="width:'50%'"/></div>
 
 <br/>
 
