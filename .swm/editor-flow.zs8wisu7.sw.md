@@ -15,6 +15,26 @@ app_version: 1.12.0
 
 <br/>
 
+|ascdvfg|sdfg  |
+|-------|------|
+|gh     |dfgfdh|
+
+<br/>
+
+[<--VIDEO-->](https://www.youtube.com/watch?v=JFFq8xgBQZI)
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<div align="center"><img src="https://media4.giphy.com/media/4X4zGQBFm9ea93nuf7/giphy.gif?cid=d56c4a8bdnbj2ctfiwi7jn54mrgitfsk4ql1fs8057anf8ew&ep=v1_gifs_trending&rid=giphy.gif&ct=g" style="width:'50%'"/></div>
+
+<br/>
+
 `noa`<swm-token data-swm-token=":docs/Noa_autosync_test:6:0:0:`noa 4 4 4  444 44 `"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 docs/Noa_autosync_test
