@@ -1,0 +1,263 @@
+---
+id: fgcuosiw
+title: SWMD milestone 4 regressions QA tests 
+file_version: 1.1.3
+app_version: 1.12.1
+---
+
+**Road map:** 
+
+*   All Swimm syntax and components implemented and auto-synced
+
+*   Adding related slash commands
+
+*   Check multi repo
+
+**Milestone 4 implementing flow:**
+
+1.  SWM new syntax 
+
+2.  component refactor - follow by api and required test regressions
+
+3.  component new logic - required full functionality test
+
+**STP**
+
+1.  Snippets 
+
+2.  Tokens 
+
+3.  Mention 
+
+4.  Doc link 
+
+5.  Playlist link  
+
+6.  Mermaid 
+
+7.  Auto sync
+
+8.  SWMD parse/serialize doc with swim commands
+
+**STD**
+
+1.  Snippets
+
+automatic -
+
+*   Normal snippet
+
+*   Cross Repo snippet
+
+*   One line snippet
+
+*   Zero content snippet
+
+*   Collapsed snippet
+
+*   Snippet comment with tokens
+
+*   Snippet comment with code block
+
+*   Snippet comment with path
+
+*   Snippet comment with doc/playlist link
+
+*   Snippet comment with mention
+
+*   Snippet comment with heading
+
+*   Snippet comment with bullet list
+
+*   Snippet comment with ordered list
+
+manual -
+
+*   Show more snippet (for both sides)
+
+*   Show less snippet (for both sides)
+
+*   Snippet comment with Swimmport
+
+*   Snippet file link - open the snippet file
+
+*   Auto sync snippet
+
+*   Outdated snippet
+
+SWMD bugs:
+
+*   Auto sync when using 'collapse snippet' (not working in the previews version)
+2.  Tokens
+*   Backtick ( \` ) shows tool tip 'write anything or select a code reference'
+
+*   Open the token modal by typing backtick ( \` ) and character
+
+*   Add global token from the entire repo
+
+*   Add tokens from 'In this Doc'
+
+*   Add snippet and add token from 'In this snippet' in the snippet's comment
+
+*   add cross repo token
+
+*   add the same token in the doc
+
+*   Click on token shows it's reference
+
+\*Edit token
+
+\*Remove token
+
+*   Delete token
+
+*   File mask functionality
+
+*   Autosync token
+
+*   Outdated token
+<br/>
+
+1.  Mention
+*   add mention through slash command
+
+*   add mention using @
+
+*   mention yourself and other users
+
+*   mention modal functionality :
+
+\*mention modal UI
+
+\*mention modal functionality using keyboard (Navigate, Select)
+
+\*esc functionality
+
+\*search user in workspace functionality
+
+*   mention in the doc right sidebar
+<br/>
+
+1.  Doc link 
+*   add doc link through slash command - doc icon
+
+*   Refresh the page - make sure nothing happen to the link - playlist icon
+
+*   edit mode - the link is not clickable
+
+*   view mode - the link is clickable and open the right doc
+
+*   open the link doc and go back to the doc with the link by clicking on back
+
+*   delete the doc - make sure the link in non-exist and can be remove from the side bar
+<br/>
+
+1.  Playlist link  
+*   add playlist link with a slash command
+
+*   Refresh the page - make sure nothing happen to the link
+
+*   edit mode - the link is not clickable
+
+*   view mode - the link is clickable and open the right playlist
+
+*   open the link playlist and go back to the doc with the link by clicking on back
+
+*   delete the playlist - make sure the link in non-exist and can be remove from the side bar
+<br/>
+
+1.  Mermaid 
+*   add mermaid through slash command
+
+*   Mermaid empty state (Verify empty state shows up)
+
+*   Create Valid Mermaid (the diagram shows in edit and view mode)
+
+*   Mermaid Properties
+
+\*Shrink and Expand mermaid in edit mode and check in view mode
+
+\*Delete a mermaid graph (click the hamburger menu and choose "delete").
+
+*   Mermaid Error State - verify error state shows ("Invalid mermaid syntax" message)
+
+*   Edit mermaid
+
+*   add tokens to mermaid
+
+*   Autosync mermaid Tokens
+
+*   Outdated mermaid with token
+
+*   Paste mermaid code inside mermaid cell from [mermaid.live](http://mermaid.live)
+
+*   Paste mermaid code outside of mermaid cell from [mermaid.live](http://mermaid.live)
+
+*   In existing mermaid cell, copy and paste some of the content
+
+*   Paste mermaid code inside another extension
+<br/>
+
+**SWMD parse/serialize SWM new syntax:**
+
+1.  create a doc with editor commands **Swimm Syntax**\-
+
+2.  (Code) Snippet
+
+3.  (Smart) Token
+
+4.  Doc/Playlist links (AKA Swimm links, just links to another doc).
+
+5.  Mention
+
+6.  commit the doc
+
+7.  go through SWmd:
+*   compare the SWmd to the doc - make sure every syntax in SWmd represents command in the doc
+
+*   make sure the file is written in Swimm new syntax (view all symbols)
+2.  open the file - make sure Swimm read the file and shows every command right
+
+3.  create a doc with editor commands (Swimm + mark down syntax)
+
+4.  try to break the syntax
+
+5.  commit changes
+
+6.  make sure the doc present all the commands (without break)
+
+7.  go through SWmd:
+*   compare the SWmd to the doc - make sure every syntax in SWmd represents command in the doc
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+This file was generated by Swimm. [Click here to view it in the app](https://swimm-web-app.web.app/repos/Z2l0aHViJTNBJTNBTm9hUmVwbyUzQSUzQU5vYW96ZXI=/docs/fgcuosiw).
