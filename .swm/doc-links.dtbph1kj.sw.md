@@ -21,7 +21,7 @@ app_version: 1.12.1
 
 [links to doc](links-to-doc.dt1scip4.sw.md)
 
-[link to doc ](link-to-doc.jfu0jg2l.sw.md)
+<br/>
 
 <br/>
 
