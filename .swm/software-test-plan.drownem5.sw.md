@@ -11,7 +11,7 @@ app_version: 1.12.1
 
 *   The tests are designed to ensure the quality
 
-*   The tests are divided into test subjects, at the end of each session bugs will be opened accordingly
+*   The tests are divided into test subjects, at the end of each session bugs tickets will be opened accordingly
 
 *   Each test topic will contain all types of tests
 
@@ -31,13 +31,13 @@ app_version: 1.12.1
 
 <br/>
 
+*   Github icons
+
+*   new user - create new workspace - git platform
 1.  Do we implement Github App for the providers? and is it required testing? and how?
 
 2.  Is the number of workspace users important?
-
-3.  \*\*Auth\*\*  
-
-    <br/>
+<br/>
 
 **Points for the meeting:**
 
@@ -53,11 +53,11 @@ app_version: 1.12.1
 
 **Preconditions**
 
-*   Explanation about the git provider - Git Lab, Bitbucket, Azure Devops (in details) 
+*   Explanation about the git provider - Git Lab, Bitbucket, Azure Devops
 
 *   Setting up a testing environment after development is complete and training before starting tests
 
-*   Comprehensive testing plan - STP, and STD
+*   Comprehensive testing plan - STP and STD
 
     <br/>
 
@@ -140,8 +140,6 @@ Test Topics:
 |General Repo Page tests|*   Create hub modal<br><br>*   Open on Git providers<br><br>*   Switch between repos<br><br>*   Loading documents<br><br>*   Deleting documents<br><br>*   Switch branch<br><br>*   Create a **new branch** and start a pull request<br><br>    <br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |Doc Life Cycle         |*   Create Blank doc<br><br>*   Create Draft<br><br>*   Discard draft<br><br>*   Create hub modal<br><br>*   Commit the doc<br><br>*   Load Committed doc - View mode<br><br>*   Load Committed doc - Edit mode<br><br>*   Load an existing doc or draft<br><br>*   Export the doc to MD<br><br>*   Delete doc<br><br>*   Add snippets/tokens/path<br><br>*   Create PR<br><br>    <br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |Sidebar                |*   Switch between repos<br><br>*   Loading documents<br><br>*   Adding a repo<br><br>*   Deleting a repo<br><br>*   Deleting documents<br><br>*   switch branch                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
-<br/>
 
 <br/>
 
@@ -267,8 +265,6 @@ Test Topics:
 *   Edge case
 
     <br/>
-<br/>
-
 <br/>
 
 <br/>
