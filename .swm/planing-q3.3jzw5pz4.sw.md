@@ -34,7 +34,8 @@ testing process:
 *   Full functional testing
 
 *   Division into milestones
-<br/>
+
+    <br/>
 
 **Git providers**
 
@@ -43,8 +44,6 @@ testing process:
 1.Regressions test for GitHub com
 
 2.Enterprise tests
-
-<br/>
 
 **Test Schedule**
 
@@ -61,17 +60,22 @@ testing process:
     *   Testing during implementation
 
 *   Work time is divided between the two projects
-<br/>
 
-_mission_ (not spoken yet)_:_
+    <br/>
 
-*   teach Moshik (topics)
+**_mission_:**
 
-    *   QA strategy
-*   test with product
-<br/>
+*   Moshik Onboarding
 
-<br/>
+    *   Split topic
+
+        *   QA strategy (?)
+
+*   Test with product
+
+    *   Orbit Flows
+
+        <br/>
 
 <br/>
 
