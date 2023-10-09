@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon_noa_test: 'img/favicon.ico',
   organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
   projectName: 'skynet', // Usually your repo name.
   
